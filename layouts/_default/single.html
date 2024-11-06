@@ -1,0 +1,33 @@
+{{ define "main" -}}
+    {{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+    {{- $hasSidebar := .Site.Params.navigation.sidebar | default true -}}
+    {{ $sidebar := "" }}
+    {{ if $hasSidebar }}{{ $sidebar = .Render "single/sidebar" }}{{ end }}
+    {{ $toc := .Render "single/panel-toc" }}
+
+    <div class="container-xxl flex-fill p-3 px-xxl-0">
+        <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2">
+            <!-- Col 1: Main Content -->
+            <div class="col-12 col-{{ $breakpoint.current }}-8 mb-5 p-2 bg-body border-0">
+                {{ .Render "single/main" }}
+            </div>
+            
+            <!-- Col 2: TOC and Sidebar (hidden on mobile) -->
+            <div class="col-{{ $breakpoint.current }}-4 d-none d-{{ $breakpoint.current }}-block">
+                <div class="sticky-top pt-0">
+                    <!-- TOC -->
+                    <div class="mb-4 bg-body border-0">
+                        {{ $toc | safeHTML }}
+                    </div>
+                    
+                    <!-- Sidebar -->
+                    {{ if $hasSidebar }}
+                        <div class="mb-4 bg-body border-0">
+                            {{ $sidebar | safeHTML }}
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end -}}

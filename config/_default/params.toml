@@ -1,0 +1,242 @@
+# toml-docs-start main
+[main]
+    separator = "-"
+    description = "Kho Ván Sàn Gỗ Nhập Khẩu uy tín và lớn nhất khu vực miền bắc."
+    enableDarkMode = true
+    enableLanguageSelectionStorage = false
+    modes = ["light", "dark"]
+    canonifyAssetsURLs = false
+    endorse = false
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
+    [main.externalLinks]
+        cue = true
+        tab = true
+    [main.build]
+        transpiler = "libsass"
+# toml-docs-end main
+
+# toml-docs-start images
+[images]
+    [images.cloudinary]
+        host = "cloudinary"
+    [images.imagekit]
+        host = "imagekit"
+    [images.imgix]
+        host = "imgix"
+# toml-docs-end images
+
+# toml-docs-start videos
+[videos]
+    [videos.cloudinary]
+        host = "cloudinary"
+        account = "demo"
+    [videos.vimeo]
+        host = "vimeo"
+    [videos.youtube]
+        host = "youtube"
+# toml-docs-end videos
+
+
+# toml-docs-start debugging
+[debugging]
+    showJS = false
+    showSCSS = false
+    purgeHTMLComments = false
+    includeSVGOrigin = true
+# toml-docs-end debugging
+
+# toml-docs-start docs
+[docs]
+    github = "https://github.com//hinode"
+    release = "https://github.com//hinode/releases/tag/"
+    checkVersion = false
+# toml-docs-end docs
+# toml-docs-start modules
+[modules]
+    optional = ["mgallery"]
+# toml-docs-end modules
+
+# toml-docs-start home
+[home]
+    sections = ["features", "san-go-cong-nghiep", "san-go-xuong-ca", "gallery"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
+# toml-docs-end home
+
+# toml-docs-start navigation
+[navigation]
+    anchor = true
+    logo = "/img/logo_icon.svg"
+    color = "primary"
+    fixed = true
+    overlay = false
+    overlayMode = "dark"
+    horizontal = false
+    offset = "5rem"
+    search = true
+    searchModal = false
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+# toml-docs-end navigation
+
+# toml-docs-start messages
+[messages]
+    placement = "bottom-right"
+# toml-docs-end messages
+
+# toml-docs-start sharing
+[sharing]
+    enabled = false
+    sort = "weight"
+    reverse = false
+    webshare = true
+
+[[sharing.providers]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+    icon = "fab linkedin"
+    weight = 10
+
+[[sharing.providers]]
+    name = "Twitter"
+    url = "https://twitter.com/home?status={url}"
+    icon = "fab x-twitter"
+    weight = 20
+
+[[sharing.providers]]
+    name = "Facebook"
+    url = "https://www.facebook.com/sharer.php?u={url}"
+    icon = "fab facebook"
+    weight = 30
+
+[[sharing.providers]]
+    name = "WhatsApp"
+    url = "whatsapp://send?text={title}%20{url}"
+    icon = "fab whatsapp"
+    weight = 40
+
+[[sharing.providers]]
+    name = "email"
+    url = "{url}"
+    icon = "fas link"
+    weight = 50
+    clipboard = true
+# toml-docs-end sharing
+
+# toml-docs-start sections
+   [sections]
+    [sections.features]
+        title = "Bring your static site to a new level"
+        layout = "list"
+        sort = "weight"
+        reverse = false
+        style = "justify-content-center"
+    [sections.san-go-cong-nghiep]
+        title = "Sàn Gỗ Công Nghiệp"
+        layout = "card"
+        sort = "weight"
+        reverse = true
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.san-go-xuong-ca]
+        title = "Sàn Gỗ Công Nghiệp"
+        layout = "card"
+        sort = "weight"
+        reverse = true
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.gallery]
+        title = "Dự Án Đã Thi Công"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+# toml-docs-end sections
+
+[favicon]
+    logo = "img/favicon.png"
+    sizes = [16, 32, 48]
+
+# toml-docs-start theme-colors
+[style]
+    primary = "#04370e"
+    secondary = "#6c757d"
+    success = "#198754"
+    info = "#0dcaf0"
+    warning = "#ffc107"
+    danger = "#dc3545"
+    light = "#f8f9fa"
+    dark = "#212529"
+# toml-docs-end theme-colors
+    themeOpacity = "10"
+    darkModeShade = "20%"
+    darkModeTint = "40%"
+# toml-docs-start font
+    themeFont = "forma-djr-micro"
+    themeFontPath = "/fonts" # local path
+    themeFontPreload = "/fonts/FormaDJRCyrillicMicro-Regular.woff2"
+    fontSizeBase = "1.1rem" # assumes the browser default, typically '16px'
+# toml-docs-end font
+# toml-docs-start build
+    purge = false
+# toml-docs-end build
+
+[schema]
+    type = "Organization"
+    name = "Kho Ván Sàn Gỗ Nhập Khẩu"
+    locale = "vn-VN"
+    # twitter = "https://twitter.com/"
+    # linkedIn = ""
+    github = "https://github.com//hinode"
+    section = "blog"
+    [schema.author]
+        name = "Khôi Lê"
+        # twitter = "https://twitter.com/"
+        linkedin = "https://www.linkedin.com/in/"
+        github = "https://github.com/"
+    [schema.logo]
+        url = "img/logo512x512.png"
+        width = 512
+        height = 512
+    [schema.image]
+        url = "img/logo1280x640.png"
+        width = 1280
+        height = 640
+
+[opengraph]
+    images = ["logo.png"]
+    locale = "vn_VN"
+[links]
+    hinode = "https://khovansango.com"

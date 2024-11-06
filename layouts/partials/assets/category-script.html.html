@@ -1,0 +1,16 @@
+<!-- 
+    Copyright © 2024 The Hinode Team / Mark Dumay. All rights reserved.
+    Use of this source code is governed by The MIT License (MIT) that can be found in the LICENSE file.
+    Visit gethinode.com/license for more details.
+-->
+
+{{- if or .IsSection (eq .Layout "taxonomy") (eq .Layout "term") }}
+    <!-- Chỉ load script khi là trang danh mục -->
+    {{ $danhmucJS := resources.Get "js/danhmuc.js" | js.Build "js/danhmuc.js" }}
+    {{ if hugo.IsProduction }}
+        {{ $danhmucJS = $danhmucJS | minify | fingerprint }}
+    {{ end }}
+    <script src="{{ $danhmucJS.RelPermalink }}" 
+            {{ with $danhmucJS.Data.Integrity }}integrity="{{ . }}"{{ end }} 
+            defer></script>
+{{- end }}

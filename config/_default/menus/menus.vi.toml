@@ -1,0 +1,190 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Sàn Gỗ"
+  pageRef = "/san-go-cong-nghiep/"
+  weight = 20
+
+[[main]]
+  name = "Sàn Xương Cá"
+  pageRef = "/san-go-xuong-ca/"
+  weight = 30
+
+[[main]]
+  name = "Chủng Loại"
+  weight = 40
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Gỗ Đức"
+  pageRef = "san-go-duc-nhap-khau-tai-ha-noi"
+  weight = 41
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Malaysia"
+  pageRef = "kho-san-go-malaysia-tai-ha-noi"
+  weight = 42
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Thái Lan"
+  pageRef = "san-go-thai-lan-tai-ha-noi"
+  weight = 43
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Việt Nam"
+  pageRef = "san-go-viet-nam-tai-ha-noi"
+  weight =44
+  
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Gỗ Chịu Nước"
+  pageRef = "san-go-chiu-nuoc-tai-ha-noi"
+  weight =45
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Gỗ Giá Rẻ"
+  pageRef = "san-go-gia-re-tai-ha-noi"
+  weight =46
+
+[[main]]
+  name = "Phụ Kiện"
+  pageRef = "/phu-kien/"
+  weight = 50
+
+[[main]]
+  name = "Tư Vấn"
+  pageRef = "/tu-van/"
+  weight = 60
+
+[[main]]
+  name = "Dự Án"
+  pageRef = "/gallery/"
+  weight = 70
+
+[[main]]
+  name = "Liên Hệ"
+  pageRef = "/lien-he/"
+  weight = 80
+
+[[social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com"
+  weight = 10
+
+[[social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com"
+  weight = 20
+
+[[social]]
+  name = "X"
+  pre = "fab fa-square-x-twitter"
+  url = "https://x.com/"
+  weight = 30
+
+[[footer]]
+  name = "Menu"
+  weight = 10
+
+[[footer]]
+  parent = "Menu"
+  name = "Home"
+  pageRef = "/"
+  weight = 11
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Xương Cá"
+  pageRef = "san-go-xuong-ca"
+  weight = 13
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Đức"
+  pageRef = "san-go-duc-nhap-khau-tai-ha-noi"
+  weight = 14
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Chịu Nước"
+  pageRef = "san-go-chiu-nuoc-tai-ha-noi"
+  weight = 15
+ 
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Giá Rẻ"
+  pageRef = "san-go-gia-re-tai-ha-noi"
+  weight = 16
+
+[[footer]]
+  name = "Links"
+  weight = 20
+  
+[[footer]]
+  parent = "Links"
+  name = "Khuyến Mãi"
+  pageRef = "khuyen-mai"
+
+[[footer]]
+  parent = "Links"
+  name = "Tư Vấn"
+  pageRef = "tu-van"
+ 
+[[footer]]
+  parent = "Links"
+  name = "Nhà Đẹp"
+  pageRef = "/"
+  
+[[footer]]
+  parent = "Links"
+  name = "Tuyển Dụng"
+  pageRef = "tuyen-dung"
+
+
+[[footer]]
+  name = "Chính Sách"
+  weight = 30
+
+  [[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Mật"
+  url = "chinh-sach/chinh-sach-bao-mat"
+  weight = 31
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Thanh Toán"
+  url = "chinh-sach/chinh-sach-thanh-toan"
+  weight = 32
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Vận Chuyển"
+  url = "chinh-sach/chinh-sach-van-chuyen"
+  weight = 33
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Hành"
+  url = "chinh-sach/chinh-sach-bao-hanh"
+  weight = 34
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Đổi Trả"
+  pageRef = "chinh-sach/chinh-sach-doi-tra"
+  weight = 35
+
+  [[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Mật"
+  url = "chinh-sach/chinh-sach-dai-ly"
+  weight = 31

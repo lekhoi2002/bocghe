@@ -1,0 +1,43 @@
+{{- define "featured" }}
+    {{ .Render "list/header" }}
+{{ end }}
+
+{{- define "main" -}}
+    {{- $page := . -}}
+    {{- $sections := $.Scratch.Get "sections" -}}
+    {{- $fullCover := $.Scratch.Get "fullCover" -}}
+    {{- $layout := $page.Params.layout -}}
+
+    <div class="container-xxl p-4 px-xxl-0">
+        {{- if ne $layout "featured" -}}
+            {{ if and (not $page.IsHome) site.Params.navigation.breadcrumb }}
+                <div>{{ partial "assets/breadcrumb.html" (dict "page" $page) }}</div>
+            {{ end -}}
+        {{- end -}}
+        <div class="category-description-container">
+            <div class="category-description" id="categoryDescription">
+                {{ .Render "list/body" }}
+            </div>
+            <div class="text-center mt-3">
+                <button class="btn btn-primary" id="toggleDescriptionBtn">Xem Chi Tiết</button>
+            </div>
+        </div>
+        {{ .Render "list/footer" }}
+    </div>
+
+    {{/* Display generated sections */}}
+    {{ range $sections }}
+        {{ .content | safeHTML }}
+    {{ end }}
+
+    {{/* Fill remaining space to push page footer to viewport bottom */}}
+    <div class="container-fluid flex-fill"></div>
+
+    <!-- Add danhmuc.js with minification for production -->
+    {{ $danhmucJS := resources.Get "js/danhmuc.js" | js.Build "js/danhmuc.js" }}
+    {{ if hugo.IsProduction }}
+      {{ $danhmucJS = $danhmucJS | minify }}
+    {{ end }}
+    {{ $danhmucJS = $danhmucJS | fingerprint }}
+    <script src="{{ $danhmucJS.RelPermalink }}" integrity="{{ $danhmucJS.Data.Integrity }}"></script>
+{{- end -}}

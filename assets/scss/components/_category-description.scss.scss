@@ -1,0 +1,60 @@
+// assets/scss/components/_category-description.scss
+// Base styles
+.category-description-container {
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.category-description {
+    max-height: 300px;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+
+    &.expanded {
+        max-height: none;
+    }
+}
+
+.read-more-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    pointer-events: none;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+    display: none;
+}
+
+#toggleDescriptionBtn {
+    position: relative;
+    z-index: 2;
+    transition: all 0.3s ease;
+
+    &:hover {
+        transform: translateY(-2px);
+    }
+}
+
+// Light mode styles
+:root[data-bs-theme="light"] {
+    .read-more-overlay {
+        background: linear-gradient(
+            to bottom,
+            rgba(255, 255, 255, 0) 0%,
+            var(--bs-body-bg, #ffffff) 100%
+        );
+    }
+}
+
+// Dark mode styles
+:root[data-bs-theme="dark"] {
+    .read-more-overlay {
+        background: linear-gradient(
+            to bottom,
+            rgba(33, 37, 41, 0) 0%,
+            var(--bs-body-bg, #212529) 100%
+        );
+    }
+}

@@ -1,20 +1,20 @@
 ---
 date: 2022-05-22 06:37:28+00:00
-description: ''
+description: ""
 draft: false
 keywords:
-- bọc ghế da xe Avante
-- bọc ghế da ô tô Avante
-- bọc ghế ô tô Avante
-- bọc ghế da Avante
+    - bọc ghế da xe Avante
+    - bọc ghế da ô tô Avante
+    - bọc ghế ô tô Avante
+    - bọc ghế da Avante
 lastmod: 2024-11-05 06:51:58.687000+00:00
 modules:
-- mgallery
-thumbnail: null
+    - mgallery
+thumbnail: /img/thumb/boc-ghe-da-hyundai-avante.jpg.webp
 title: Bọc Ghế Da Xe Avante
 ---
 
-Xưởng may ghế da ô tô. Trực tiếp may [bọc ghế da Avante](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-avante.html) tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế xe Avante tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Avante mới
+Xưởng may ghế da ô tô. Trực tiếp may [bọc ghế da Avante](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-avante.html/) tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế xe Avante tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Avante mới
 
 ## Mô hình bọc ghế da xe Avante
 

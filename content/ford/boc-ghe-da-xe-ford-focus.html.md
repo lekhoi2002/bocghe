@@ -1,20 +1,20 @@
 ---
 date: 2022-05-22 06:37:28+00:00
-description: ''
+description: ""
 draft: false
 keywords:
-- bọc ghế da xe Focus
-- bọc ghế da ô tô Focus
-- bọc ghế ô tô Focus
-- bọc ghế da Focus
+    - bọc ghế da xe Focus
+    - bọc ghế da ô tô Focus
+    - bọc ghế ô tô Focus
+    - bọc ghế da Focus
 lastmod: 2024-11-05 06:51:58.687000+00:00
 modules:
-- mgallery
-thumbnail: null
+    - mgallery
+thumbnail: /img/thumb/boc-ghe-da-xe-ford-focus.jpg.webp
 title: Bọc Ghế Da Xe Focus
 ---
 
-Xưởng may ghế ô tô. Chuyên [bọc ghế da Focus](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-focus.html) tại Hà Nội. Trực tiếp may và bọc ghế da xe Focus. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế da xe Focus tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
+Xưởng may ghế ô tô. Chuyên [bọc ghế da Focus](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-focus.html/) tại Hà Nội. Trực tiếp may và bọc ghế da xe Focus. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế da xe Focus tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
 ## Tổng quan về dịch vụ bọc ghế da xe Focus
 

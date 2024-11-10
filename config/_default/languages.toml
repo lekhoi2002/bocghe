@@ -8,7 +8,7 @@
     [vi.params.head]
         tagline = "Uy Tín Chất Lượng"
     [vi.params.social]
-        title = "Kho Sàn Gỗ Nhập Khẩu"
+        title = "Follow us"
         caption = "Hotline / zalo : 0966171436"
     [vi.params.footer]
         license = " Licensed under Creative Commons "
@@ -17,5 +17,3 @@
         reference = "Xem Tất Cả Sản Phẩm"
     [vi.params.sections.san-go-xuong-ca]
         reference = "Xem Tất Cả Sản Phẩm"
-        [vi.params.sections.gallery]
-        reference = "Xem Tất Cả Dự Án"

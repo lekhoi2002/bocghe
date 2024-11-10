@@ -4,73 +4,59 @@
   weight = 10
 
 [[main]]
-  name = "Sàn Gỗ"
-  pageRef = "/san-go-cong-nghiep/"
+  name = "Toyota"
+  pageRef = "/toyota/"
   weight = 20
 
 [[main]]
-  name = "Sàn Xương Cá"
-  pageRef = "/san-go-xuong-ca/"
+  name = "Ford"
+  pageRef = "/ford/"
   weight = 30
 
 [[main]]
-  name = "Chủng Loại"
+  name = "Honda"
+  pageRef = "/honda/"
   weight = 40
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Đức"
-  pageRef = "san-go-duc-nhap-khau-tai-ha-noi"
-  weight = 41
 
 [[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Malaysia"
-  pageRef = "kho-san-go-malaysia-tai-ha-noi"
-  weight = 42
-
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Thái Lan"
-  pageRef = "san-go-thai-lan-tai-ha-noi"
-  weight = 43
-
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Việt Nam"
-  pageRef = "san-go-viet-nam-tai-ha-noi"
-  weight =44
-  
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Chịu Nước"
-  pageRef = "san-go-chiu-nuoc-tai-ha-noi"
-  weight =45
-
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Giá Rẻ"
-  pageRef = "san-go-gia-re-tai-ha-noi"
-  weight =46
-
-[[main]]
-  name = "Phụ Kiện"
-  pageRef = "/phu-kien/"
+  name = "Mitsubishi"
+  pageRef = "/mitsubishi/"
   weight = 50
 
 [[main]]
-  name = "Tư Vấn"
-  pageRef = "/tu-van/"
+  name = "Hyundai"
+  pageRef = "/hyundai/"
   weight = 60
 
 [[main]]
-  name = "Dự Án"
-  pageRef = "/gallery/"
+  name = "KIA"
+  pageRef = "/kia/"
   weight = 70
+
+[[main]]
+  name = "Mazda"
+  pageRef = "/mazda/"
+  weight = 80
+
+[[main]]
+  name = "Chevrolet"
+  pageRef = "/chvrolet/"
+  weight = 90
+
+[[main]]
+  name = "Suzuki"
+  pageRef = "/suzuki/"
+  weight = 91
+
+[[main]]
+  name = "Nissan"
+  pageRef = "/nissan/"
+  weight = 92
 
 [[main]]
   name = "Liên Hệ"
   pageRef = "/lien-he/"
-  weight = 80
+  weight = 93
 
 [[social]]
   name = "LinkedIn"
@@ -103,25 +89,25 @@
 [[footer]]
   parent = "Menu"
   name = "Sàn Xương Cá"
-  pageRef = "san-go-xuong-ca"
+  pageRef = "/"
   weight = 13
 
 [[footer]]
   parent = "Menu"
   name = "Sàn Đức"
-  pageRef = "san-go-duc-nhap-khau-tai-ha-noi"
+  pageRef = "/"
   weight = 14
 
 [[footer]]
   parent = "Menu"
   name = "Sàn Chịu Nước"
-  pageRef = "san-go-chiu-nuoc-tai-ha-noi"
+  pageRef = "/"
   weight = 15
  
 [[footer]]
   parent = "Menu"
   name = "Sàn Giá Rẻ"
-  pageRef = "san-go-gia-re-tai-ha-noi"
+  pageRef = "/"
   weight = 16
 
 [[footer]]
@@ -131,12 +117,12 @@
 [[footer]]
   parent = "Links"
   name = "Khuyến Mãi"
-  pageRef = "khuyen-mai"
+  pageRef = "/"
 
 [[footer]]
   parent = "Links"
   name = "Tư Vấn"
-  pageRef = "tu-van"
+  pageRef = "/"
  
 [[footer]]
   parent = "Links"
@@ -146,7 +132,7 @@
 [[footer]]
   parent = "Links"
   name = "Tuyển Dụng"
-  pageRef = "tuyen-dung"
+  pageRef = "/"
 
 
 [[footer]]
@@ -156,35 +142,35 @@
   [[footer]]
   parent = "Chính Sách"
   name = "Bảo Mật"
-  url = "chinh-sach/chinh-sach-bao-mat"
+  url = "/"
   weight = 31
 
 [[footer]]
   parent = "Chính Sách"
   name = "Thanh Toán"
-  url = "chinh-sach/chinh-sach-thanh-toan"
+  url = "/"
   weight = 32
 
 [[footer]]
   parent = "Chính Sách"
   name = "Vận Chuyển"
-  url = "chinh-sach/chinh-sach-van-chuyen"
+  url = "/"
   weight = 33
 
 [[footer]]
   parent = "Chính Sách"
   name = "Bảo Hành"
-  url = "chinh-sach/chinh-sach-bao-hanh"
+  url = "/"
   weight = 34
 
 [[footer]]
   parent = "Chính Sách"
   name = "Đổi Trả"
-  pageRef = "chinh-sach/chinh-sach-doi-tra"
+  pageRef = "/"
   weight = 35
 
   [[footer]]
   parent = "Chính Sách"
   name = "Bảo Mật"
-  url = "chinh-sach/chinh-sach-dai-ly"
+  url = "/"
   weight = 31

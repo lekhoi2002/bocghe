@@ -1,20 +1,20 @@
 ---
 date: 2022-05-22 06:37:28+00:00
-description: ''
+description: ""
 draft: false
 keywords:
-- bọc ghế da xe Accent
-- bọc ghế da ô tô Accent
-- bọc ghế ô tô Accent
-- bọc ghế da Accent
+    - bọc ghế da xe Accent
+    - bọc ghế da ô tô Accent
+    - bọc ghế ô tô Accent
+    - bọc ghế da Accent
 lastmod: 2024-11-05 06:51:58.687000+00:00
 modules:
-- mgallery
-thumbnail: null
+    - mgallery
+thumbnail: /img/thumb/boc-ghe-da-hyundai-accent.jpg.webp
 title: Bọc Ghế Da Xe Accent
 ---
 
-Xưởng may ghế ô tô. Chuyên [bọc ghế da Accent](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-accent.html) tại hà nội. Trực tiếp may và bọc ghế da xe Accent tại hà nội. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Accent tận nhà.
+Xưởng may ghế ô tô. Chuyên [bọc ghế da Accent](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-accent.html/) tại hà nội. Trực tiếp may và bọc ghế da xe Accent tại hà nội. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Accent tận nhà.
 
 ## Bọc ghế da xe Accent - Lựa chọn hoàn hảo cho chiếc xe của bạn
 

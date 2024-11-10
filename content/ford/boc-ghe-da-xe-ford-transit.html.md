@@ -1,22 +1,22 @@
 ---
 date: 2022-05-22 06:37:28+00:00
-description: ''
+description: ""
 draft: false
 keywords:
-- bọc ghế da xe Transit
-- bọc ghế da ô tô Transit
-- bọc ghế ô tô Transit
-- bọc ghế da Transit
+    - bọc ghế da xe Transit
+    - bọc ghế da ô tô Transit
+    - bọc ghế ô tô Transit
+    - bọc ghế da Transit
 lastmod: 2024-11-05 06:51:58.687000+00:00
 modules:
-- mgallery
-thumbnail: null
+    - mgallery
+thumbnail: /img/thumb/boc-ghe-da-xe-ford-transit.jpg.webp
 title: Bọc Ghế Da Xe Transit
 ---
 
 # Xưởng may đệm ghế ô tô
 
-Chuyên [bọc ghế da Transit](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-transit.html) tại Hà Nội. Trực tiếp may bọc ghế xe Transit. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Transit tận nhà.
+Chuyên [bọc ghế da Transit](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-transit.html/) tại Hà Nội. Trực tiếp may bọc ghế xe Transit. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Transit tận nhà.
 
 ## Mô hình bọc ghế da xe Transit
 

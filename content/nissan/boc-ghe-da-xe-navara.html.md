@@ -1,20 +1,20 @@
 ---
 date: 2022-05-22 06:37:28+00:00
-description: ''
+description: ""
 draft: false
 keywords:
-- bọc ghế da xe Navara
-- bọc ghế da ô tô Navara
-- bọc ghế ô tô Navara
-- bọc ghế da Navara
+    - bọc ghế da xe Navara
+    - bọc ghế da ô tô Navara
+    - bọc ghế ô tô Navara
+    - bọc ghế da Navara
 lastmod: 2024-11-05 06:51:58.687000+00:00
 modules:
-- mgallery
-thumbnail: null
+    - mgallery
+thumbnail: /img/thumb/boc-ghe-da-nissan-navara.jpg.webp
 title: Bọc Ghế Da Xe Navara
 ---
 
-Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Navara](https://bocgheoto.vn/nissan/boc-ghe-da-xe-navara.html) tại Hà Nội. Trực tiếp may bọc ghế da xe Navara. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Navara tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
+Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Navara](https://bocgheoto.vn/nissan/boc-ghe-da-xe-navara.html/) tại Hà Nội. Trực tiếp may bọc ghế da xe Navara. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Navara tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
 ## Bọc ghế da Navara: Một lựa chọn tinh tế cho chiếc ô tô của bạn
 

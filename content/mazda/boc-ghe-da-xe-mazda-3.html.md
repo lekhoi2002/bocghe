@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-mazda-3.jpg.webp
 title: Bọc Ghế Da Xe Mazda 3
+noCover: true
 ---
 
 Xưởng may ghế da ô tô. Trực cắt may - Trực tiếp [bọc ghế da Mazda 3](https://bocgheoto.vn/mazda/boc-ghe-da-xe-mazda-3.html/) tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Mazda 3 tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Mazda 3 mới.

@@ -12,6 +12,7 @@ modules:
   - mgallery
 thumbnail: /img/thumb/boc-ghe-da-toyota-fortuner-2.jpg.webp
 title: Bọc Ghế Da Xe Fortuner
+noCover: true
 ---
 
 # Xưởng May Đệm Ghế Ô Tô

@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-hyundai-starex.jpg.webp
 title: Bọc Ghế Da Xe Starex
+noCover: true
 ---
 
 Xưởng may ghế ô tô. Chuyên bọc ghế da Starex tại hà nội. Trực tiếp may - Trực tiếp bọc ghế xe Starex. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Starex tận nhà.

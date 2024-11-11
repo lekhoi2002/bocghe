@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-aveo.jpg
 title: Bọc Ghế Da Xe Aveo
+noCover: true
 ---
 
 ## Tùy chọn bọc ghế da xe Aveo 

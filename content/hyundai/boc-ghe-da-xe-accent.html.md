@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-hyundai-accent.jpg.webp
 title: Bọc Ghế Da Xe Accent
+noCover: true
 ---
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Accent](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-accent.html/) tại hà nội. Trực tiếp may và bọc ghế da xe Accent tại hà nội. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Accent tận nhà.

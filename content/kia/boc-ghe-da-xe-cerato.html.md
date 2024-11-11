@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-kia-cerato.jpg.webp
 title: Bọc Ghế Da Xe Cerato
+noCover: true
 ---
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Cerato](https://bocgheoto.vn/kia/boc-ghe-da-xe-cerato.html/) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế xe Cerato. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Cerato tận nhà.

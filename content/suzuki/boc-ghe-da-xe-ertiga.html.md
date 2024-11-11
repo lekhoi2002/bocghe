@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-suzuki-ertiga.jpg.webp
 title: Bọc Ghế Da Xe Ertiga
+noCover: true
 ---
 
 # Xưởng May Ghế Ô Tô

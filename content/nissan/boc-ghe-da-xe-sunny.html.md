@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe Sunny
+noCover: true
 ---
 
 ## Các lựa chọn cho việc bọc ghế da xe Sunny

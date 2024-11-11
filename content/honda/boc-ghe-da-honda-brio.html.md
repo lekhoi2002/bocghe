@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe Brio
+noCover: true
 ---
 
 ## Các loại da dùng cho việc bọc ghế da xe Brio

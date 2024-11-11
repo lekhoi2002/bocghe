@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-da-ghe-xe-i10.jpg.webp
 title: Bọc Ghế Da Xe i10
+noCover: true
 ---
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da i10](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-i10.html/) tại hà nội. Trực tiếp may bọc ghế xe i10. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto i10 tận nhà.

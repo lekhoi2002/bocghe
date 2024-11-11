@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-toyota-innova.jpg.webp
 title: Bọc Ghế Da Xe Innova
+noCover: true
 ---
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Innova](https://bocgheoto.vn/toyota/boc-ghe-da-xe-innova.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Innova tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Innova tận nhà.

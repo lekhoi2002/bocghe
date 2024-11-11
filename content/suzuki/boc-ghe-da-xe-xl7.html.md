@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe XL7
+noCover: true
 ---
 
 ## Lựa chọn loại da để bọc ghế da xe XL7

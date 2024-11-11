@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-da-ghe-xe-rush.jpg.webp
 title: Bọc Ghế Da Xe Toyota Rush
+noCover: true
 ---
 
 Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Rush](https://bocgheoto.vn/toyota/boc-ghe-da-xe-toyota-rush.html/) tại hà nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Rush tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Rush mới.

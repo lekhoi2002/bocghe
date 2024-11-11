@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-pajero-sport.jpg.webp
 title: Bọc Ghế Da Xe Pajero
+noCover: true
 ---
 
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Pajero](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-mitsubishi-pajero.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Pajero tại hà nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Pajero tận nhà.

@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-honda-city.jpg.webp
 title: Bọc Ghế Da Xe Honda City
+noCover: true
 ---
 
 # Xưởng May Ghế Da Ô Tô - Bọc Ghế Da Honda City Tại Hà Nội

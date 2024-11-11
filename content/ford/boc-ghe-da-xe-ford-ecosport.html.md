@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-da-ghe-xe-ecosport.jpg
 title: Bọc Ghế Da Xe Ecosport
+noCover: true
 ---
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Ecosport](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-ecosport.html/) tại Hà Nội. Trực tiếp may và bọc ghế da xe Ecosport tại Hà Nội. Dịch vụ chuyên nghiệp và tận tâm với tư vấn tận nơi.

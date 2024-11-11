@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-hyundai-santafe.jpg.webp
 title: Bọc Ghế Da Xe Santafe
+noCover: true
 ---
 
 # Xưởng May Đệm Ghế Da Ô Tô

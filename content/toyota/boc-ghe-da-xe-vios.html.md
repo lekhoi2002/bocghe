@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-toyota-vios.jpg.webp
 title: Bọc Ghế Da Xe Vios
+noCover: true
 ---
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Vios](https://bocgheoto.vn/toyota/boc-ghe-da-xe-vios.html/) tại hà nội. Trực tiếp may và bọc ghế da xe Vios tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Vios tận nhà.

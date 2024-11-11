@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-hyundai-kona.jpg.webp
 title: Bọc Ghế Da Xe Kona
+noCover: true
 ---
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Kona](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-kona.html/) tại hà nội. Trực tiếp may và bọc ghế da xe Kona tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Kona tận nhà.

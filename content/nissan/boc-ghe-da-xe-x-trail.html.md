@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe X trail
+noCover: true
 ---
 
 ## Các dạng vật liệu bọc ghế da xe X trail

@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-kia-rio.jpg.webp
 title: Bọc Ghế Da Xe Rio
+noCover: true
 ---
 
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Kia Rio](https://bocgheoto.vn/kia/boc-ghe-da-xe-kia-rio.html/) tại Hà Nội. Trực tiếp cắt may - Trực tiếp bọc ghế xe Kia Rio với chất liệu da chuẩn và minh bạch. Dịch vụ chuyên nghiệp và tận tâm, tư vấn tận nhà.

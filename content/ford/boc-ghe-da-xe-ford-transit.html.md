@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-xe-ford-transit.jpg.webp
 title: Bọc Ghế Da Xe Transit
+noCover: true
 ---
 
 # Xưởng may đệm ghế ô tô

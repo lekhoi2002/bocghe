@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-hyundai-tucson.jpg.webp
 title: Bọc Ghế Da Xe Tucson
+noCover: true
 ---
 
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Tucson](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-tucson.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Tucson tận nhà.

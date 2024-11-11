@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe Almera
+noCover: true
 ---
 
 ## Lựa chọn da phù hợp cho việc bọc ghế da xe Almera

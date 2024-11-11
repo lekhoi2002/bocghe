@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Kho Ván Sàn Gỗ Nhập Khẩu uy tín và lớn nhất khu vực miền bắc."
+    description = "Xưởng May Ghế Da Ô Tô Tại Hà Nội"
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
@@ -60,7 +60,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["features", "san-go-cong-nghiep", "san-go-xuong-ca", "gallery"]
+    sections = ["toyota", "honda",]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -134,15 +134,8 @@
 # toml-docs-end sharing
 
 # toml-docs-start sections
-   [sections]
-    [sections.features]
-        title = "Bring your static site to a new level"
-        layout = "list"
-        sort = "weight"
-        reverse = false
-        style = "justify-content-center"
-    [sections.san-go-cong-nghiep]
-        title = "Sàn Gỗ Công Nghiệp"
+    [sections.toyota]
+        title = "Bọc Ghế Da Xe Toyota"
         layout = "card"
         sort = "weight"
         reverse = true
@@ -155,27 +148,13 @@
         footer = "none"
         orientation = "stacked"
         homepage = 6
-    [sections.san-go-xuong-ca]
-        title = "Sàn Gỗ Công Nghiệp"
+    [sections.honda]
+        title = "Bọc Ghế Da Xe Honda"
         layout = "card"
         sort = "weight"
         reverse = true
         background = ""
         color = "body"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
-    [sections.gallery]
-        title = "Dự Án Đã Thi Công"
-        layout = "card"
-        sort = "date"
-        reverse = true
-        background = ""
-        color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
         cols = 3
         padding = "3"
@@ -215,7 +194,7 @@
 
 [schema]
     type = "Organization"
-    name = "Kho Ván Sàn Gỗ Nhập Khẩu"
+    name = "Xưởng May Ghế Da Ô Tô Tại Hà Nội"
     locale = "vn-VN"
     # twitter = "https://twitter.com/"
     # linkedIn = ""

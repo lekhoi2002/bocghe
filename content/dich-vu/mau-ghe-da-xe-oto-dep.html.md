@@ -1,5 +1,6 @@
 ---
-{}
+
+noCover: true
 ---
 
 # Tổng hợp những mẫu bọc ghế da ô tô đẹp

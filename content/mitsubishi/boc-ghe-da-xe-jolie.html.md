@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-jolie.jpg.webp
 title: Bọc Ghế Da Xe Jolie
+noCover: true
 ---
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Jolie](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-jolie.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Jolie tận nhà.

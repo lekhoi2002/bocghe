@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-mazda-bt50.jpg.webp
 title: Bọc Ghế Da Xe Mazda Bt50
+noCover: true
 ---
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Mazda BT50](https://bocgheoto.vn/mazda/boc-ghe-da-xe-mazda-bt50.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Mazda BT50 tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Mazda BT50 tận nhà.

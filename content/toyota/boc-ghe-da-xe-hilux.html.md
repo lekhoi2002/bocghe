@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/mau-ghe-da-hilux.jpg.webp
 title: Bọc Ghế Da Xe Hilux
+noCover: true
 ---
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Hilux](https://bocgheoto.vn/toyota/boc-ghe-da-xe-hilux.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp cắt may và bọc ghế da xe Hilux tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Hilux tận nhà.

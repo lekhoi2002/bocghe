@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-da-ghe-xe-captiva.jpg.webp
 title: Bọc Ghế Da Xe Captiva
+noCover: true
 ---
 
 Xưởng may ghế ô tô. Trực tiếp may [bọc ghế da Captiva](https://bocgheoto.vn/chvrolet/boc-ghe-da-captiva.html/) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Captiva tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Captiva mới.

@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe Vitara
+noCover: true
 ---
 
 ## Các loại da sử dụng cho việc bọc ghế da xe Vitara

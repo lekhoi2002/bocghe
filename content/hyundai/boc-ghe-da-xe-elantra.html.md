@@ -12,6 +12,7 @@ modules:
     - mgallery
 thumbnail: /img/thumb/boc-ghe-da-hyundai-elantra.jpg.webp
 title: Bọc Ghế Da Xe Elantra
+noCover: true
 ---
 
 ## Bọc Ghế Da Xe Elantra Tại Xưởng Sản Xuất

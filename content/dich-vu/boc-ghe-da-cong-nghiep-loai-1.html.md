@@ -1,5 +1,6 @@
 ---
-{}
+
+noCover: true
 ---
 
 Bài viết tổng hợp chi tiết nhất các loại da dùng để bọc ghế ô tô ở Việt Nam hiện nay. So sánh ưu nhược điểm từng loại da giúp khách hàng nhận dạng, lựa chọn đúng loại da cho ô tô

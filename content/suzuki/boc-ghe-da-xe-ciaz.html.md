@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe Ciaz
+noCover: true
 ---
 
 ## Các loại da được sử dụng để bọc ghế xe Ciaz

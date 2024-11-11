@@ -12,6 +12,7 @@ modules:
 - mgallery
 thumbnail: null
 title: Bọc Ghế Da Xe Kicks
+noCover: true
 ---
 
 ## Phân loại da sử dụng cho việc bọc ghế da xe Kicks

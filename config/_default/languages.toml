@@ -13,7 +13,7 @@
     [vi.params.footer]
         license = " Licensed under Creative Commons "
 # toml-docs-end lang-param
-    [vi.params.sections.san-go-cong-nghiep]
+    [vi.params.sections.ford]
         reference = "Xem Tất Cả Sản Phẩm"
-    [vi.params.sections.san-go-xuong-ca]
+    [vi.params.sections.honda]
         reference = "Xem Tất Cả Sản Phẩm"

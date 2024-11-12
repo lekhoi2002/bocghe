@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da oto. Chuyên [bọc ghế da Camry](https://bocgheoto.vn/toyota/boc-ghe-da-xe-camry.html/) tại hà nội. Trực tiếp may bọc ghế da xe Camry. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế oto Camry tận nhà.
 
-## Tổng quan về việc bọc ghế da xe Camry
+## Mẫu Bọc Ghế Da camry
+{{< mgallery list="camry/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Phân biệt các loại da dùng để bọc ghế ô tô Camry
 

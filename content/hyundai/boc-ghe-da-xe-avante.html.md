@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da ô tô. Trực tiếp may [bọc ghế da Avante](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-avante.html/) tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế xe Avante tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Avante mới
 
-## Mô hình bọc ghế da xe Avante
+## Mẫu Bọc Ghế Da Avante
+{{< mgallery list="Avante/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Chi phí bọc ghế da Avante
 

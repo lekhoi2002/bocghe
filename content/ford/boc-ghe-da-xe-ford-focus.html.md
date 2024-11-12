@@ -16,6 +16,9 @@ noCover: true
 ---
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Focus](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-focus.html/) tại Hà Nội. Trực tiếp may và bọc ghế da xe Focus. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế da xe Focus tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
+## Mẫu Bọc Ghế Da focus
+{{< mgallery list="focus/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+
 
 ## Tổng quan về dịch vụ bọc ghế da xe Focus
 

@@ -17,7 +17,9 @@ noCover: true
 
 Xưởng may ghế da ô tô. Trực cắt may - Trực tiếp [bọc ghế da Mazda 3](https://bocgheoto.vn/mazda/boc-ghe-da-xe-mazda-3.html/) tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Mazda 3 tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Mazda 3 mới.
 
-## Bọc ghế da xe Mazda 3: Mẫu mã và giá cả
+## Mẫu Bọc Ghế Da Mazda-3
+{{< mgallery list="Mazda-3/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+
 
 ## Bảng giá bọc ghế da xe Mazda 3
 Giá bọc ghế da ô tô Mazda 3 sẽ tùy thuộc vào loại da bạn chọn và các chương trình khuyến mãi đang diễn ra. Để biết thêm chi tiết, xin vui lòng liên hệ 0977233033.

@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Triton](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-triton.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp may - Trực tiếp bọc. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Triton tận nhà miễn phí.
 
-## Giới thiệu về bọc ghế da xe Triton
+## Mẫu Bọc Ghế Da triton
+{{< mgallery list="triton/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Chi phí cho việc bọc ghế da ô tô Triton
 

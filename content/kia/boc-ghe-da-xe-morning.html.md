@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da oto. Chuyên [bọc ghế da Morning](https://bocgheoto.vn/kia/boc-ghe-da-xe-morning.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp may - Trực tiếp bọc. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế xe Morning tận nhà miễn phí.
 
-## Bọc Ghế Da Xe Morning: Hướng Dẫn Lựa Chọn & Cài Đặt
+## Mẫu Bọc Ghế Da Morning
+{{< mgallery list="Morning/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 # Chọn Bọc Ghế Da Xe Morning Phù Hợp
 

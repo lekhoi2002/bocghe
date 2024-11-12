@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Mazda 6](https://bocgheoto.vn/mazda/boc-ghe-da-xe-mazda-6.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Mazda 6 tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Mazda 6 tận nhà.
 
-## Các mẫu bọc ghế da cho xe Mazda 6
+## Mẫu Bọc Ghế Da Mazda-6
+{{< mgallery list="Mazda-6/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Giá cho dịch vụ bọc ghế da ô tô Mazda 6
 

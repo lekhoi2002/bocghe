@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Ranger](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-ranger.html/) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế da xe Ranger. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Ranger tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
-## Mẫu bọc ghế da xe Ranger
+## Mẫu Bọc Ghế Da ranger
+{{< mgallery list="ranger/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Giá bọc ghế da ô tô Ranger
 

@@ -16,7 +16,8 @@ title: Bọc Ghế Da Xe Altis
 
 Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Altis](https://bocgheoto.vn/toyota/boc-ghe-da-xe-altis.html/) tại hà nội. Trực tiếp may bọc ghế da xe Altis tại hà nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Altis tận nhà.
 
-## Dịch vụ bọc ghế da xe Altis
+## Mẫu Bọc Ghế Da altis
+{{< mgallery list="altis/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Giá cả cho việc bọc ghế da ô tô Altis
 

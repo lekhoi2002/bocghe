@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da oto. Chuyên [bọc ghế da Honda JAZZ](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-jazz.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Honda JAZZ tại hà nội. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế ô tô Honda JAZZ tận nhà.
 
-## Dịch vụ bọc ghế da xe Honda Jazz
+## Mẫu Bọc Ghế Da jazz
+{{< mgallery list="jazz/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Giá dịch vụ bọc ghế da ô tô Honda Jazz
 Giá dịch vụ bọc ghế da xe Honda Jazz sẽ phụ thuộc vào loại da bạn chọn, nguồn nhập hàng và các chương trình khuyến mãi hiện tại. Để nhận thông tin về khuyến mãi mới nhất, vui lòng liên hệ 0977233033.

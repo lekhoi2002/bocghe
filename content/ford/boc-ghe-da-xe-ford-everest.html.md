@@ -17,9 +17,9 @@ noCover: true
 
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Everest](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-everest.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp may - Trực tiếp bọc. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Everest tận nhà miễn phí.
 
-#
+## Mẫu Bọc Ghế Da everest
+{{< mgallery list="everest/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
-## Các mẫu bọc ghế da cho xe Everest {#mau-boc-ghe-da-xe-everest}
 
 ## Giá cả cho việc bọc ghế da Everest
 

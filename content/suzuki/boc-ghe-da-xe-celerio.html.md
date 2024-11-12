@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da oto. Trực tiếp may [bọc ghế da Celerio](https://bocgheoto.vn/suzuki/boc-ghe-da-xe-celerio.html/) tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Celerio tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Celerio mới
 
-## Bộ bọc ghế da xe Celerio
+## Mẫu Bọc Ghế Da Celerio
+{{< mgallery list="Celerio/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Bảng giá bọc ghế da ô tô Celerio
 

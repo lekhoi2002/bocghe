@@ -15,7 +15,8 @@ title: Bọc Ghế Da Xe Aveo
 noCover: true
 ---
 
-## Tùy chọn bọc ghế da xe Aveo 
+## Mẫu Bọc Ghế Da aveo
+{{< mgallery list="aveo/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ### Bọc ghế da Aveo phong cách sang trọng
 

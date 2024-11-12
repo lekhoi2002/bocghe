@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Kia Carens](https://bocgheoto.vn/kia/boc-ghe-da-xe-kia-carens.html/) tại hà nội. Trực tiếp may - Trực tiếp bọc ghế xe Kia Carens. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Kia Carens tận nhà.
 
-## Bọc ghế da xe Carens
+## Mẫu Bọc Ghế Da Carens
+{{< mgallery list="Carens/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Giá bọc ghế da ô tô Carens
 

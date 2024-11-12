@@ -7,7 +7,8 @@ noCover: true
 
 Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Sorento](https://bocgheoto.vn/kia/boc-ghe-da-xe-kia-sorento.html/) tại hà nội. Trực cắt may - Trực tiếp bọc ghế da xe Sorento. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Sorento tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
-## Bọc ghế da cho xe Sorento
+## Mẫu Bọc Ghế Da Sorento
+{{< mgallery list="Sorento/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Chi phí bọc ghế da cho xe Kia Sorento
 

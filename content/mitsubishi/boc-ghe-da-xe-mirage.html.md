@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Mirage](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-mirage.html/) tại hà nội. Trực cắt may - Trực tiếp bọc ghế xe Mirage. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Mirage tận nhà.
 
-## Mẫu bọc ghế da xe Mirage
+## Mẫu Bọc Ghế Da mirage
+{{< mgallery list="mirage/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Chi phí bọc ghế da Mirage
 

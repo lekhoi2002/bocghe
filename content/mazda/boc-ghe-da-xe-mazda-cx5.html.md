@@ -17,7 +17,9 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Mazda CX5](https://bocgheoto.vn/mazda/boc-ghe-da-xe-mazda-cx5.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại. Trực tiếp cắt may và bọc ghế da xe Mazda CX5 tại Hà Nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Mazda CX5 tận nhà.
 
-## Bọc ghế da xe Mazda CX5 – Lựa chọn hoàn hảo cho chiếc xe của bạn
+## Mẫu Bọc Ghế Da CX5
+{{< mgallery list="CX5/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+
 
 ## Thông tin về giá bọc ghế da Mazda CX5
 

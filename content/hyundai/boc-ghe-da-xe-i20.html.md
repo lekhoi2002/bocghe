@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da i20](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-i20.html/) tại Hà Nội. Trực tiếp may và bọc ghế da xe i20. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe i20 tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
-## Dịch vụ bọc ghế da xe i20
+## Mẫu Bọc Ghế Da i20
+{{< mgallery list="i20/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Giá cả cho dịch vụ bọc ghế da i20
 

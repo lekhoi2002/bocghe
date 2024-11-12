@@ -17,7 +17,9 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Honda CRV](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-crv.html/) tại hà nội. Trực cắt may - Trực tiếp bọc ghế da xe Honda CRV. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế oto Honda CRV tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
-## Phương pháp bọc ghế da xe Honda CRV
+## Mẫu Bọc Ghế Da crv
+{{< mgallery list="crv/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+
 
 ## Thông tin giá cả khi bọc ghế da ô tô Honda CRV 
 

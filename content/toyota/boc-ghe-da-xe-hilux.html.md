@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Hilux](https://bocgheoto.vn/toyota/boc-ghe-da-xe-hilux.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp cắt may và bọc ghế da xe Hilux tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Hilux tận nhà.
 
-## Các Mẫu Bọc Ghế Da Xe Hilux Hiện Đại
+## Mẫu Bọc Ghế Da hilux
+{{< mgallery list="hilux/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Lựa Chọn Da Để Bọc Ghế Ô Tô Hilux
 Thị trường hiện nay có nhiều loại da khác nhau để bọc ghế da ô tô Hilux, điều này có thể tạo ra sự phức tạp trong việc lựa chọn chất liệu phù hợp cho chiếc xe Hilux của bạn. Về cơ bản, chúng ta có các loại da sau:

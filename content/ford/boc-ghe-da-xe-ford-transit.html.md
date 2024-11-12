@@ -19,7 +19,8 @@ noCover: true
 
 Chuyên [bọc ghế da Transit](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-transit.html/) tại Hà Nội. Trực tiếp may bọc ghế xe Transit. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Transit tận nhà.
 
-## Mô hình bọc ghế da xe Transit
+## Mẫu Bọc Ghế Da transit
+{{< mgallery list="transit/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Chi phí bọc ghế da ô tô Transit
 

@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Kia Forte](https://bocgheoto.vn/kia/boc-ghe-da-xe-kia-forte.html/) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế xe Kia Forte. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Kia Forte tận nhà.
 
-## Mô hình bọc ghế da xe Forte
+## Mẫu Bọc Ghế Da Forte
+{{< mgallery list="Forte/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Giá cả khi bọc ghế da xe Forte
 

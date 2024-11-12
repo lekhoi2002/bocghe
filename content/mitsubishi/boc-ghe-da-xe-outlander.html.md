@@ -17,7 +17,8 @@ noCover: true
 
 Xưởng may ghế da ô tô trực tiếp cắt may - trực tiếp [bọc ghế da Outlander tại Hà Nội](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-outlander.html/). Dịch vụ chuyên nghiệp và tận tâm, tư vấn bọc ghế ô tô Outlander tại nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật các mẫu ghế da Outlander mới nhất.
 
-## Cách Bọc Ghế Da Xe Outlander
+## Mẫu Bọc Ghế Da Outlander
+{{< mgallery list="Outlander/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
 
 ## Chi Phí Bọc Ghế Da Ô Tô Outlander
 

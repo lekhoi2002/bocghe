@@ -4,7 +4,7 @@
     description = "Xưởng May Ghế Da Ô Tô Tại Hà Nội"
     enableDarkMode = true
     enableLanguageSelectionStorage = false
-    modes = ["light"]
+    modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = false
     footerBelowFold = false
@@ -16,6 +16,29 @@
     [main.build]
         transpiler = "libsass"
 # toml-docs-end main
+
+# toml-docs-start images
+[images]
+    [images.cloudinary]
+        host = "cloudinary"
+    [images.imagekit]
+        host = "imagekit"
+    [images.imgix]
+        host = "imgix"
+# toml-docs-end images
+
+# toml-docs-start videos
+[videos]
+    [videos.cloudinary]
+        host = "cloudinary"
+        account = "demo"
+    [videos.vimeo]
+        host = "vimeo"
+    [videos.youtube]
+        host = "youtube"
+# toml-docs-end videos
+
+
 # toml-docs-start debugging
 [debugging]
     showJS = false
@@ -25,6 +48,10 @@
 # toml-docs-end debugging
 
 # toml-docs-start docs
+[docs]
+    github = "https://github.com//hinode"
+    release = "https://github.com//hinode/releases/tag/"
+    checkVersion = false
 # toml-docs-end docs
 # toml-docs-start modules
 [modules]
@@ -33,14 +60,14 @@
 
 # toml-docs-start home
 [home]
-    sections = ["features", "toyota", "honda",]
-    fullCover = true
-    centerHeadline = true
-    style = "gradient-featured"
+    sections = ["toyota", "honda",]
+    fullCover = false
+    centerHeadline = false
+    style = ""
     [home.feature]
-        orientation = "stacked"
-        color = ""
-        width = 6
+        orientation = "horizontal"
+        color = "primary"
+        width = 12
         align = "start"
 # toml-docs-end home
 
@@ -107,12 +134,6 @@
 # toml-docs-end sharing
 
 # toml-docs-start sections
-       [sections.features]
-        title = "Bring your static site to a new level"
-        layout = "list"
-        sort = "weight"
-        reverse = false
-        style = "justify-content-center"
     [sections.toyota]
         title = "Bọc Ghế Da Xe Toyota"
         layout = "card"
@@ -197,4 +218,4 @@
     images = ["logo.png"]
     locale = "vn_VN"
 [links]
-    hinode = "bocgheoto.vn"
+    hinode = "kinhnghiemso.vn"

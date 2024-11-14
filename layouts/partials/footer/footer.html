@@ -1,0 +1,59 @@
+{{- $version := partial "assets/version.html" . -}}
+{{- $license := .Site.Params.footer.license | safeHTML -}}
+{{- $description := .Site.Params.main.description | safeHTML -}}
+{{- $title := site.Title -}}
+{{- $baseurl := urls.Parse $.Site.Params.Baseurl -}}
+
+{{- $page := . -}}
+{{- if not $page -}}
+    {{- errorf "partial [footer/footer.html] - Missing value for param 'page'" -}}
+{{- end -}}
+
+{{- $menuName := "footer" }}
+{{- $menus := index site.Menus $menuName -}}
+{{- if or (ne (printf "%T" $menus) "navigation.Menu") (ne (index $menus 0).Menu $menuName) -}}
+    {{- errorf "partial [footer/footer.html] - Invalid value for param 'menus': %s" $menuName -}}
+{{- end -}}
+
+<footer class="container-fluid footer p-0 border-top">
+    <div class="container-xxl px-3 px-xxl-0 py-5">
+        <div class="row">
+            <div class="col-md-4 small">
+                <div class="pt-3"><h4>{{ $description }}</h4></div>
+                <div class="pt-2">Văn phòng Kho Số 1: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội </div>
+                <div class="pt-2">Kho số 2: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội </div>
+                <div class="pt-2">Hotline/Zalo: 0966 171 436 </div>
+                <div class="pt-2">Currently </div>
+            </div>
+            <div class="col-md-2 small">&nbsp</div>
+
+            {{- range $menu := $menus -}}
+                <div class="col-md-2 col-4 pt-5 pt-md-0">
+                    <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
+                    {{- range .Children -}}
+                        <div class="py-1">
+                            {{- partial "assets/navbar-item.html" (dict "menu" . "page" $page "class" "link-bg-footer") -}}
+                        </div>
+                    {{- end -}}
+                </div>
+            {{- end -}}
+        </div>
+    </div>
+
+</footer>
+<footer> 
+    <div class="footer-button-group-container">
+        <div class="btn-group-vertical btn-group-lg d-none d-md-inline-flex" role="group" aria-label="Footer buttons">
+          <a href="https://g.page/ " class="btn btn-primary mb-0 btn-icon btn-map" rel="nofollow" target="_blank"></a>
+          <a href="https://www.facebook.com/messages/t/ " class="btn btn-primary mb-0 btn-icon btn-messenger" rel="nofollow" target="_blank"></a>
+          <a href="https://zalo.me/0966171436" class="btn btn-primary mb-0 btn-icon btn-zalo" rel="nofollow" target="_blank"></a>
+          <a href="tel:0966171436" class="btn btn-primary mb-0 btn-icon btn-phone" rel="nofollow" target="_blank"></a>
+        </div>
+        <div class="btn-group btn-group-lg d-md-none" role="group" aria-label="Footer buttons">
+          <a href="https://g.page/ " class="btn btn-primary btn-icon btn-map" rel="nofollow" target="_blank"></a>
+          <a href="https://zalo.me/0966171436" class="btn btn-primary btn-icon btn-zalo" rel="nofollow" target="_blank"></a>
+          <a href="https://www.facebook.com/messages/t/ " class="btn btn-primary btn-icon btn-messenger" rel="nofollow" target="_blank"></a>
+          <a href="tel:0966171436" class="btn btn-primary btn-icon btn-phone" rel="nofollow" target="_blank"></a>
+        </div>
+    </div>
+</footer>

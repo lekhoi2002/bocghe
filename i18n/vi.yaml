@@ -1,0 +1,166 @@
+# Single pages
+- id: postedOnDate
+  translation: "Đăng ngày {{ . }}"
+- id: lastModified
+  translation: "Cập nhật lần cuối {{ . }}"
+- id: read
+  translation: "Thời gian đọc"
+- id: minutesShort
+  translation: "phút"
+- id: words
+  translation: "từ"
+- id: photoFull
+  translation: "Ảnh bởi %s trên %s"
+- id: photoShort
+  translation: "Ảnh bởi {{ . }}"
+- id: draft
+  translation: "Bản nháp"
+
+# List pages
+- id: article
+  translation: "Bài viết"
+- id: articles
+  translation: "Bài viết"
+- id: more
+  translation: "Xem thêm {{ . }}"
+- id: emptyList
+  translation: "Không tìm thấy bài viết nào"
+- id: emptyTags
+  translation: "Không tìm thấy thẻ nào"
+- id: readMore
+  translation: "Đọc tiếp"
+
+# Languages
+- id: lang_de
+  translation: "Tiếng Đức"
+- id: lang_en
+  translation: "Tiếng Anh"
+- id: lang_nl
+  translation: "Tiếng Hà Lan"
+- id: lang_fr
+  translation: "Tiếng Pháp"
+
+# Sharing
+- id: shareLink
+  translation: "Chia sẻ trang này qua {{ . }}"
+- id: shareSystem
+  translation: "Hệ thống"
+- id: copyToClipboard
+  translation: "Sao chép vào bộ nhớ tạm"
+- id: copiedToClipboard
+  translation: "đã được sao chép vào bộ nhớ tạm"
+- id: link
+  translation: "Liên kết trang web"
+- id: code
+  translation: "Mã"
+
+# Pagination
+- id: paginationNav
+  translation: "Điều hướng trang"
+- id: paginationPrevious
+  translation: "Trước"
+- id: paginationNext
+  translation: "Sau"
+- id: paginationFirst
+  translation: "Đầu tiên"
+- id: paginationLast
+  translation: "Cuối cùng"
+
+# Navigation
+- id: colorMode
+  translation: "Chuyển đổi giao diện"
+- id: colorLight
+  translation: "Sáng"
+- id: colorDark
+  translation: "Tối"
+- id: colorAuto
+  translation: "Tự động"
+- id: toggleMainNav
+  translation: "Hiện hoặc ẩn menu chính"
+- id: home
+  translation: "Trang chủ"
+- id: languageSwitcherLabel
+  translation: "Ngôn ngữ"
+- id: close
+  translation: "Đóng"
+
+# Table of contents
+- id: toc
+  translation: "Trong trang này"
+- id: seeAlso
+  translation: "Xem thêm"
+
+# Sidebar
+- id: toggleSidebar
+  translation: "Hiện hoặc ẩn thanh điều hướng"
+
+# Feature
+- id: addedFeature
+  translation: "Được thêm vào từ {{ . }}"
+- id: deprecatedFeature
+  translation: "Không còn hỗ trợ từ {{ . }}"
+
+# Versioning
+- id: latest
+  translation: "mới nhất"
+- id: allVersions
+  translation: "Tất cả phiên bản"
+- id: newerVersionAlert
+  translation: "Có phiên bản mới hơn của {{ . }}!"
+
+# 404 page
+- id: pageNotFound
+  translation: "Trang này không tồn tại. Hãy thử vào {{ . }}"
+- id: pageNotFoundTitle
+  translation: "Không tìm thấy"
+- id: pageNotFoundHome
+  translation: "trang chủ"
+
+# Footer
+- id: copyright
+  translation: "Bản quyền"
+- id: rights
+  translation: "Đã đăng ký bản quyền"
+- id: poweredBy
+  translation: "Được hỗ trợ bởi {{ . }}."
+
+# Comments
+- id: show
+  translation: "Hiện"
+- id: comments
+  translation: "Bình luận"
+
+# Arguments
+- id: name
+  translation: "Tên"
+- id: type
+  translation: "Kiểu"
+- id: required
+  translation: "Bắt buộc"
+- id: default
+  translation: "Mặc định"
+- id: comment
+  translation: "Bình luận"
+- id: supportedValues
+  translation: "Giá trị được hỗ trợ"
+
+# Alerts
+- id: caution
+  translation: "Cẩn thận"
+- id: important
+  translation: "Quan trọng"
+- id: note
+  translation: "Ghi chú"
+- id: tip
+  translation: "Mẹo"
+- id: warning
+  translation: "Cảnh báo"
+
+# Image
+- id: image
+  translation: "Hình ảnh"
+# search
+- id: ui_search
+  translation: "Tìm kiếm trong trang này"
+- id: ui_no_results
+  translation: "Không tìm thấy kết quả cho"

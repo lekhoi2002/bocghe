@@ -1,0 +1,176 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Toyota"
+  pageRef = "/toyota/"
+  weight = 20
+
+[[main]]
+  name = "Ford"
+  pageRef = "/ford/"
+  weight = 30
+
+[[main]]
+  name = "Honda"
+  pageRef = "/honda/"
+  weight = 40
+
+[[main]]
+  name = "Mitsubishi"
+  pageRef = "/mitsubishi/"
+  weight = 50
+
+[[main]]
+  name = "Hyundai"
+  pageRef = "/hyundai/"
+  weight = 60
+
+[[main]]
+  name = "KIA"
+  pageRef = "/kia/"
+  weight = 70
+
+[[main]]
+  name = "Mazda"
+  pageRef = "/mazda/"
+  weight = 80
+
+[[main]]
+  name = "Chevrolet"
+  pageRef = "/chvrolet/"
+  weight = 90
+
+[[main]]
+  name = "Suzuki"
+  pageRef = "/suzuki/"
+  weight = 91
+
+[[main]]
+  name = "Nissan"
+  pageRef = "/nissan/"
+  weight = 92
+
+[[main]]
+  name = "Liên Hệ"
+  pageRef = "/lien-he/"
+  weight = 93
+
+[[social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com"
+  weight = 10
+
+[[social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com"
+  weight = 20
+
+[[social]]
+  name = "X"
+  pre = "fab fa-square-x-twitter"
+  url = "https://x.com/"
+  weight = 30
+
+[[footer]]
+  name = "Menu"
+  weight = 10
+
+[[footer]]
+  parent = "Menu"
+  name = "Home"
+  pageRef = "/"
+  weight = 11
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Xương Cá"
+  pageRef = "/"
+  weight = 13
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Đức"
+  pageRef = "/"
+  weight = 14
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Chịu Nước"
+  pageRef = "/"
+  weight = 15
+ 
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Giá Rẻ"
+  pageRef = "/"
+  weight = 16
+
+[[footer]]
+  name = "Links"
+  weight = 20
+  
+[[footer]]
+  parent = "Links"
+  name = "Khuyến Mãi"
+  pageRef = "/"
+
+[[footer]]
+  parent = "Links"
+  name = "Tư Vấn"
+  pageRef = "/"
+ 
+[[footer]]
+  parent = "Links"
+  name = "Nhà Đẹp"
+  pageRef = "/"
+  
+[[footer]]
+  parent = "Links"
+  name = "Tuyển Dụng"
+  pageRef = "/"
+
+
+[[footer]]
+  name = "Chính Sách"
+  weight = 30
+
+  [[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Mật"
+  url = "/"
+  weight = 31
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Thanh Toán"
+  url = "/"
+  weight = 32
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Vận Chuyển"
+  url = "/"
+  weight = 33
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Hành"
+  url = "/"
+  weight = 34
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Đổi Trả"
+  pageRef = "/"
+  weight = 35
+
+  [[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Mật"
+  url = "/"
+  weight = 31

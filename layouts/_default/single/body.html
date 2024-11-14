@@ -1,0 +1,6 @@
+{{- if not .Params.noCover }}
+    {{- partial "single/thumbnail.html" (dict "page" . "wrapper" "mb-5") -}}
+{{ end }}
+
+{{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) }}
+

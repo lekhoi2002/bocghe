@@ -1,0 +1,90 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Last modified date",
+          "name": "lastmod",
+          "type": "datetime",
+          "isModifiedDate": true
+        },
+        {
+          "title": "thumbnail",
+          "name": "thumbnail",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean",
+          "invert": true
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "modules",
+          "name": "modules",
+          "type": "choice",
+          "choices": [
+            "mgallery"
+          ]
+        }
+      ]
+    }
+  ],
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "san-go",
+      "path": "[[workspace]]/content/san-go-cong-nghiep"
+    },
+    {
+      "title": "phu-kien",
+      "path": "[[workspace]]/content/phu-kien"
+    },
+    {
+      "title": "gallery",
+      "path": "[[workspace]]/content/gallery"
+    },
+    {
+      "title": "kien-thuc",
+      "path": "[[workspace]]/content/tu-van"
+    }
+  ]
+}

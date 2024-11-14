@@ -1,0 +1,155 @@
+// Placeholder to quickly add your own styles
+// The file is included last in the build pipeline
+h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+    font-size: 22px;
+    margin-bottom: 18px;
+    font-weight: bold;
+}
+h4, h5, h6, .display-4, .display-5, .display-6 {
+  font-size: 18px;
+  margin-bottom: 18px;
+  font-weight: bold;
+}
+
+.fw-bold {
+    margin-top: 10px;
+}
+.card-text {
+    display: none;
+}
+.gradient-featured {
+    background: $white;
+    background: linear-gradient(135deg, $white 0%, tint-color($primary, 80%) 100%);
+}
+
+.card-feature {
+    background-color: var(--#{$prefix}light) if($enable-important-utilities, !important, null);
+}
+
+.card-feature div i {
+    background: linear-gradient(135deg, tint-color($primary, 80%) 0%, $primary 100%);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+// scss-docs-start styling
+.card-shrink {
+    transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12), 0.3s box-shadow, 0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+    cursor: pointer;
+}
+
+.card-shrink:hover {
+    transform: scale(0.99);
+    box-shadow: none if($enable-important-utilities, !important, null);
+}
+// scss-docs-end styling
+
+.footer {
+  background-color: #233331 if($enable-important-utilities, !important, null);
+  color: var(--#{$prefix}light) if($enable-important-utilities, !important, null);
+}
+
+.footer-muted {
+    color: var(--#{$prefix}light) if($enable-important-utilities, !important, null);
+    opacity: .7 if($enable-important-utilities, !important, null);
+}
+
+.link-bg-footer {
+    color: var(--#{$prefix}light) if($enable-important-utilities, !important, null);
+    &:hover,
+    &:focus {
+        color: $gray-400 if($enable-important-utilities, !important, null);
+    }
+}
+
+// nút liên hệ
+.footer-button-group-container {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 1000;
+}
+
+.btn-icon {
+  position: relative;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+}
+
+.btn-icon::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 36px;
+  height: 36px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+}
+
+.btn-map::before {
+  background-image: url('/img/widget_icon_map.svg');
+}
+
+.btn-zalo::before {
+  background-image: url('/img/icon_zalo.svg');
+}
+
+.btn-messenger::before {
+  background-image: url('/img/icon_messenger.svg');
+}
+
+.btn-phone::before {
+  background-image: url('/img/icon_phone.svg');
+}
+
+@media (max-width: 767px) {
+  .footer-button-group-container {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0px;
+    background-color: #364f43;
+  }
+  
+  .footer-button-group-container .btn-group {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+  }
+  
+  .footer-button-group-container .btn {
+    flex: 1;
+  }
+
+  .btn-icon {
+    width: 44px; /* Increase size slightly for mobile */
+    height: 44px;
+  }
+
+  .btn-icon::before {
+    width: 34px; /* Increase icon size slightly for mobile */
+    height: 34px;
+  }
+}
+
+@media (min-width: 768px) {
+  .footer-button-group-container .btn-group-vertical .btn {
+    margin-bottom: 10px;
+  }
+}
+
+
+// toan bo code thay màu nava
+/* Custom styles for Hugo Bootstrap 5 Nav */
+.navbar {
+  background-color: #233331 !important;
+}
+

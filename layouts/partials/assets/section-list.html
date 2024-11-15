@@ -43,7 +43,7 @@
 {{- $ratio := "" -}}
 {{- $wrap := false -}}
 {{- $loading := .loading -}}
-{{- $wrapper := .wrapper | default "p-4 px-xxl-0 pb-5" -}}
+{{- $wrapper := .wrapper | default "p-3 px-xxl-0 pb-4" -}}
 
 {{- with (index site.Params.sections $section) -}}
     {{- with index . "title" }}{{ $title = or $.title . }}{{ end -}}

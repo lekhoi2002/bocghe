@@ -12,9 +12,9 @@
     {{- errorf "layout [_default/single/header.html] - Invalid value for param 'metadata': %s" $metadata -}}
 {{- end -}}
 
-{{ with .Title }}<p class="display-4 mt-5">{{ . }}</p>{{ end }}
+{{ with .Title }}<p class="display-4 mt-4">{{ . }}</p>{{ end }}
 {{ if ne $metadata "none" }}
-    <small class="text-body-secondary text-uppercase">
+    <small class="text-body-secondary text-capitalized">
         {{ if .Date }}
             {{ $lastmodstr := (partial "utilities/date.html" (dict "date" .Lastmod "format" "long")) -}}
             {{ $datestr := (partial "utilities/date.html" (dict "date" .Date "format" "long")) -}}
@@ -51,4 +51,4 @@
     </div>
 {{- end -}}
 {{ partial "assets/sharing.html" (dict "page" .) }}
-<p class="lead mb-5 mt-3">{{ .Description }}</p>
+<p class="lead mb-3 mt-3">{{ .Description }}</p>

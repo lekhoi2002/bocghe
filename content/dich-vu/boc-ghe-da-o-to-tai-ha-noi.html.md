@@ -1,7 +1,8 @@
 ---
 date: 2024-11-03
-description: Tổng hợp những kinh nghiệm bọc ghế da ô tô cần phải biết để có bộ đệm
-  ghế da chất lượng cao với giá thành hợp lý
+meta:
+  title: Kho Ván 
+description: Tổng hợp những kinh nghiệm bọc ghế da ô tô cần phải biết để có bộ đệm ghế da chất lượng cao với giá thành hợp lý
 title: Bọc Ghế Da Ô Tô - Kinh Nghiệm và Hướng Dẫn Chi Tiết
 noCover: true
 ---

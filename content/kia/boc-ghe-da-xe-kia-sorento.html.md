@@ -1,5 +1,7 @@
 ---
 title: Bọc ghế da xe Sorento
+meta:
+  title: Kho Ván 
 lastmod: 2024-11-10T14:05:43.943Z
 thumbnail: /img/thumb/boc-ghe-da-kia-sorento.jpg.webp
 noCover: true

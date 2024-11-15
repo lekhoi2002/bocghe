@@ -1,5 +1,6 @@
 ---
-
+meta:
+  title: Kho Ván 
 noCover: true
 ---
 

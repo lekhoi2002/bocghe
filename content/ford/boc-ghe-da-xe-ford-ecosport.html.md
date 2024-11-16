@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "15+ Mẫu Bọc Ghế Da Xe Ecosport Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Những kinh nghiệm bọc ghế ô tô Ecosport. Tổng hợp mẫu bọc ghế da Ecosport đẹp. Bảng giá bọc ghế da xe Ecosport. Chương trình khuyến mãi bọc ghế Ford Ecosport"
 draft: false
 keywords:
     - bọc ghế da xe Escape

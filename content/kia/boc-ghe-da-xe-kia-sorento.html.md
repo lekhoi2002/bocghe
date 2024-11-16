@@ -1,7 +1,8 @@
 ---
 title: Bọc ghế da xe Sorento
 meta:
-  title: Kho Ván 
+  title: "60+ Mẫu Bọc Ghế Da Xe Sorento Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Sorento đẹp. Bảng giá bọc ghế da xe Sorento. Những kinh nghiệm bọc ghế ô tô Sorento. Chương trình khuyến mãi bọc ghế Kia Sorento"
 lastmod: 2024-11-10T14:05:43.943Z
 thumbnail: /img/thumb/boc-ghe-da-kia-sorento.jpg.webp
 noCover: true

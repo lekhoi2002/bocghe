@@ -2,9 +2,9 @@
 author: Khôi Lê
 title: Chuyên Bọc Ghế Da Ô Tô
 meta:
-  title: Kho Ván 
+  title:  
 thumbnail: 
 keywords:
-    - Kho Ván Sàn Gỗ
+    -  Sàn Gỗ
 ---
 

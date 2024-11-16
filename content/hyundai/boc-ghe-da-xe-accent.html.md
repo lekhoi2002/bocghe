@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "25+ Mẫu Bọc Ghế Da Xe Accent Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Accent đẹp.. Chương trình khuyến mãi bọc ghế Hyundai Accent. Những kinh nghiệm bọc ghế ô tô Accent."
 draft: false
 keywords:
     - bọc ghế da xe Accent

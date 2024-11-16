@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "15+ Mẫu Bọc Ghế Da Xe Kia Cerato Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Cerato đẹp. Chương trình khuyến mãi bọc ghế Kia Cerato. Những kinh nghiệm bọc ghế ô tô Cerato. Bảng giá bọc ghế da xe Kia Cerato"
 draft: false
 keywords:
     - bọc ghế da xe Cerato

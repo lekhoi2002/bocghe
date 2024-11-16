@@ -2,8 +2,8 @@
 date: 2022-05-22 06:37:28+00:00
 title: Bọc Ghế Da Xe Captiva
 meta:
-  title: Kho Ván 
-description: ""
+  title: "20+ Mẫu Bọc Ghế Da Xe Captiva Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Captiva đẹp. Những kinh nghiệm bọc ghế ô tô Captiva. Chương trình khuyến mãi bọc ghế Chevrolet Captiva. Bảng giá bọc ghế da xe Captiva"
 draft: false
 keywords:
     - bọc ghế da xe Captiva

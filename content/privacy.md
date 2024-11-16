@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: Privacy policy of gethinode.com
+  description: Privacy policy of gethinode.com
 date: 2024-09-19
 layout: docs
 ---

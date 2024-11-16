@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "60+ Mẫu Bọc Ghế Da Xe Navara Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Navara đẹp. Bảng giá bọc ghế da xe Navara. Những kinh nghiệm bọc ghế ô tô Navara. Chương trình khuyến mãi bọc ghế Nissan Navara"
 draft: false
 keywords:
     - bọc ghế da xe Navara

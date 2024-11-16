@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "20+ Mẫu Bọc Ghế Da Xe Mazda 6 Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Mazda 6 đẹp. Những kinh nghiệm bọc ghế ô tô Mazda 6. Chương trình khuyến mãi bọc ghế Mazda 6. Bảng giá bọc ghế da xe Mazda 6. Chương trình khuyến mãi bọc ghế Mazda 6"
 draft: false
 keywords:
     - bọc ghế da xe Mazda 6

@@ -2,8 +2,8 @@
 date: 2022-05-22 06:37:28+00:00
 title: Bọc Ghế Da Xe Cruze
 meta:
-  title: Kho Ván 
-description: ""
+  title: "20+ Mẫu Bọc Ghế Da Xe Cruze Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Cruze đẹp. Bảng giá bọc ghế da xe Cruze. Những kinh nghiệm bọc ghế ô tô Cruze. Chương trình khuyến mãi bọc ghế Chevrolet Cruze"
 draft: false
 keywords:
     - bọc ghế da xe Cruze

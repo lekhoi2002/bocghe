@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "10+ Mẫu Bọc Ghế Da Xe Honda JAZZ Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Honda JAZZ đẹp. Những kinh nghiệm bọc ghế ô tô Honda JAZZ. Bảng giá bọc ghế da xe Honda JAZZ. Chương trình khuyến mãi bọc ghế Honda JAZZ"
 draft: false
 keywords:
     - bọc ghế da xe Honda Jazz

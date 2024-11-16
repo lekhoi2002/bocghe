@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "60+ Mẫu Bọc Ghế Da Xe Vios Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Vios đẹp. Bảng giá bọc ghế da xe Vios. Những kinh nghiệm bọc ghế ô tô Vios. Chương trình khuyến mãi bọc ghế Toyota Vios"
 draft: false
 keywords:
     - bọc ghế da xe Vios

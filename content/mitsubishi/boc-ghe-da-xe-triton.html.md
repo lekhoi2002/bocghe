@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "25+ Mẫu Bọc Ghế Da Xe Triton Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Triton đẹp. Những kinh nghiệm bọc ghế ô tô Triton. Bảng giá bọc ghế da xe Triton. Chương trình khuyến mãi bọc ghế Mitsubishi Triton"
 draft: false
 keywords:
     - bọc ghế da xe Triton

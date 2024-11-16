@@ -1,9 +1,9 @@
 ---
 date: 2024-11-03
 meta:
-  title: Kho Ván 
-description: Tổng hợp những kinh nghiệm bọc ghế da ô tô cần phải biết để có bộ đệm ghế da chất lượng cao với giá thành hợp lý
-title: Bọc Ghế Da Ô Tô - Kinh Nghiệm và Hướng Dẫn Chi Tiết
+  title: "Chuyên Bọc Ghế Da Ô Tô Đẹp Tại Hà Nội - Xưởng May Ghế Da Ô Tô"
+  description: "Những kinh nghiệm bọc ghế da ô tô hay cần phải biết. Tổng hợp mẫu bọc ghế ô tô đẹp. Bảng giá bọc ghế da cho xe ô tô mới nhất năm 2024"
+title: Chuyên Bọc Ghế Da Ô Tô Uy Tín Cao Cấp Giá Rẻ Tại Hà Nội
 noCover: true
 ---
 

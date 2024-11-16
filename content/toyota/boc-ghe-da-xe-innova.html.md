@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "26+ Mẫu Bọc Ghế Da Xe innova Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da innova đẹp. Những kinh nghiệm bọc ghế ô tô innova. Chương trình khuyến mãi bọc ghế Toyota innova. Bảng giá bọc ghế da xe innova. Chương trình khuyến mãi bọc ghế"
 draft: false
 keywords:
     - bọc ghế da xe Innova

@@ -1,7 +1,7 @@
 ---
 meta:
-  title: Kho Ván 
-noCover: true
+  title: "300+ Mẫu Ghế Da Ô Tô Đẹp và Được Ưa Chuộng Năm 2024"
+  description: "Tổng hợp 300+ mẫu bọc ghế da ô tô đẹp năm 2024. Mẫu ghế da ô tô được cập nhật từng ngày. Các kiểu may ghế da cho ô tô"
 ---
 
 # Tổng hợp những mẫu bọc ghế da ô tô đẹp

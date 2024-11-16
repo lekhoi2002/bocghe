@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "15+ Mẫu Bọc Ghế Da Xe Kia Morning Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Morning đẹp. Chương trình khuyến mãi bọc ghế Kia Morning. Những kinh nghiệm bọc ghế ô tô Morning. Bảng giá bọc ghế da xe Kia Morning"
 draft: false
 keywords:
     - bọc ghế da xe Morning

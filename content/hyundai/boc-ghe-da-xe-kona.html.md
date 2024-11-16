@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "15+ Mẫu Bọc Ghế Da Xe Kona Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Khuyến mãi bọc ghế Hyundai Kona. Tổng hợp mẫu bọc ghế da Kona đẹp. Những kinh nghiệm bọc ghế ô tô Kona. Bảng giá bọc ghế da xe Kona"
 draft: false
 keywords:
     - bọc ghế da xe Kona

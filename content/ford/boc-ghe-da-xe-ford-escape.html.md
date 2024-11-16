@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "60+ Mẫu Bọc Ghế Da Xe Ford Escape Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Những kinh nghiệm bọc ghế ô tô Escape. Tổng hợp mẫu bọc ghế da Escape đẹp. Bảng giá bọc ghế da xe Escape. Chương trình khuyến mãi bọc ghế Ford Escape"
 draft: false
 keywords:
     - bọc ghế da xe Escape

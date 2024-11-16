@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "18+ Mẫu Bọc Ghế Da Xe Xpander Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Những kinh nghiệm bọc ghế ô tô Xpander. Tổng hợp mẫu bọc ghế da Xpander đẹp. Bảng giá bọc ghế da xe Xpander. Chương trình khuyến mãi bọc ghế Mitsubishi Xpander"
 draft: false
 keywords:
     - bọc ghế da xe Xpander

@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "35+ Mẫu Bọc Ghế Da Xe Ford Ranger Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Ranger đẹp. Những kinh nghiệm bọc ghế ô tô Ranger. Chương trình khuyến mãi bọc ghế Ford Ranger. Bảng giá bọc ghế da xe Ranger."
 draft: false
 keywords:
     - bọc ghế da xe Ranger

@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "17+ Mẫu Bọc Ghế Da Xe Pajero Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Những kinh nghiệm bọc ghế ô tô Pajero. Tổng hợp mẫu bọc ghế da Pajero đẹp. Bảng giá bọc ghế da xe Pajero. Chương trình khuyến mãi bọc ghế Mitsubishi Pajero"
 draft: false
 keywords:
     - bọc ghế da xe Pajero

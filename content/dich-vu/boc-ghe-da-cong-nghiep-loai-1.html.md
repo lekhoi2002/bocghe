@@ -1,7 +1,7 @@
 ---
 meta:
-  title: Kho Ván 
-noCover: true
+  title: "Các Loại Da Bọc Ghế Ô Tô: Những Kiến Thức Cần Biết"
+  description: "Thông tin đầy đủ, chi tiết các loại da bọc ghế ô tô. Cách nhận biết, phân biệt các loại da ô tô. Những kinh nghiệm lựa chọn chất liệu da bọc ghế ô tô"
 ---
 
 Bài viết tổng hợp chi tiết nhất các loại da dùng để bọc ghế ô tô ở Việt Nam hiện nay. So sánh ưu nhược điểm từng loại da giúp khách hàng nhận dạng, lựa chọn đúng loại da cho ô tô

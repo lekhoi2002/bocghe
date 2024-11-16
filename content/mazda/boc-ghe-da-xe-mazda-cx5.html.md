@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "23+ Mẫu Bọc Ghế Da Xe Mazda CX5 Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Mazda CX5 đẹp. Những kinh nghiệm bọc ghế ô tô Mazda CX5. Bảng giá bọc ghế da xe Mazda CX5. Chương trình khuyến mãi bọc ghế Mazda CX5"
 draft: false
 keywords:
     - bọc ghế da xe Mazda Cx5

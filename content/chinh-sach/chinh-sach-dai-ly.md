@@ -1,7 +1,7 @@
 ---
 title: "Chính Sách Hợp Tác Cùng Đại Lý"
 date: 2024-10-30
-description: "Những nguyên tắc và chính sách quan trọng trong việc hợp tác với đại lý"
+  description: "Những nguyên tắc và chính sách quan trọng trong việc hợp tác với đại lý"
 ---
 Kính gửi quý khách hàng Đại Lý cùng các khách hàng cty tư vấn thiết kế.
 # Cam Kết Của Chúng Tôi Với Đại Lý

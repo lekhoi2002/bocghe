@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "25+ Mẫu Bọc Ghế Da Xe Everest Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Everest đẹp. Bảng giá bọc ghế da xe Everest. Những kinh nghiệm bọc ghế ô tô Everest. Chương trình khuyến mãi bọc ghế Ford Everest"
 draft: false
 keywords:
     - bọc ghế da xe Everest

@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "18+ Mẫu Bọc Ghế Da Xe Tucson Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Những kinh nghiệm bọc ghế ô tô Tucson. Tổng hợp mẫu bọc ghế da Tucson đẹp. Bảng giá bọc ghế da xe Tucson. Chương trình khuyến mãi bọc ghế Hyundai Tucson"
 draft: false
 keywords:
     - bọc ghế da xe Tucson

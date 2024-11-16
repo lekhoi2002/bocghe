@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "16+ Mẫu Bọc Ghế Da Xe Rush Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Rush đẹp.. Chương trình khuyến mãi bọc ghế Toyota Rush. Những kinh nghiệm bọc ghế ô tô Rush. Bảng giá bọc ghế da xe Rush"
 draft: false
 keywords:
     - bọc ghế da xe Toyota Rush

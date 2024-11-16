@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "25+ Mẫu Bọc Ghế Da Xe Honda Civic Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Honda Civic đẹp. Những kinh nghiệm bọc ghế ô tô Honda Civic. Chương trình khuyến mãi bọc ghế Honda Civic. Bảng giá bọc ghế da xe Honda Civic."
 draft: false
 keywords:
     - bọc ghế da xe Honda Civic

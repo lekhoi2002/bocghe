@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "9+ Mẫu Bọc Ghế Da Xe Jolie Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Jolie đẹp. Những kinh nghiệm bọc ghế ô tô Jolie. Chương trình khuyến mãi bọc ghế Mitsubishi Jolie. Bảng giá bọc ghế da xe Jolie."
 draft: false
 keywords:
     - bọc ghế da xe Jolie

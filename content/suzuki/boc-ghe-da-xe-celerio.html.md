@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "8+ Mẫu Bọc Ghế Da Xe Celerio Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Celerio đẹp.. Chương trình khuyến mãi bọc ghế Toyota Celerio. Những kinh nghiệm bọc ghế ô tô Celerio. Bảng giá bọc ghế da xe Celerio"
 draft: false
 keywords:
     - bọc ghế da xe Celerio

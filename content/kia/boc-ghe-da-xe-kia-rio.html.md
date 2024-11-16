@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "15+ Mẫu Bọc Ghế Da Xe Kia Rio Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Kia Rio đẹp. Những kinh nghiệm bọc ghế ô tô Kia Rio. Chương trình khuyến mãi bọc ghế Kia Rio. Bảng giá bọc ghế da xe Kia Rio."
 draft: false
 keywords:
     - bọc ghế da xe Rio

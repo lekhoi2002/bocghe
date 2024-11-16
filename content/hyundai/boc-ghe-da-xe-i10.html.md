@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "30+ Mẫu Bọc Ghế Da Xe i10 Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da i10 đẹp. Những kinh nghiệm bọc ghế ô tô i10. Chương trình khuyến mãi bọc ghế Hyundai i10. Bảng giá bọc ghế da xe i10."
 draft: false
 keywords:
     - bọc ghế da xe i10

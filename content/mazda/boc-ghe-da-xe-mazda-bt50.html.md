@@ -1,8 +1,8 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title: Kho Ván 
-description: ""
+  title: "12+ Mẫu Bọc Ghế Da Xe Mazda BT50 Đẹp Giá Rẻ Tại Hà Nội"
+  description: "Tổng hợp mẫu bọc ghế da Mazda BT50 đẹp. Bảng giá bọc ghế da xe Mazda BT50. Những kinh nghiệm bọc ghế ô tô Mazda BT50. Chương trình khuyến mãi bọc ghế Mazda BT50"
 draft: false
 keywords:
     - bọc ghế da xe Mazda Bt50

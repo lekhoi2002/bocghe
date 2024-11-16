@@ -146,17 +146,11 @@ home = ["HTML", "RSS", "REDIR", "netlify", "server"]
   [[module.imports]]
     path = "github.com/gethinode/mod-bootstrap"
   [[module.imports]]
-    path = "github.com/gethinode/mod-csp"
-  [[module.imports]]
     path = "github.com/gethinode/mod-flexsearch/v2"
   [[module.imports]]
     path = "github.com/gethinode/mod-fontawesome"
   [[module.imports]]
     path = "github.com/gethinode/mod-google-analytics"
-  [[module.imports]]
-    path = "github.com/gethinode/mod-lottie"
-  [[module.imports]]
-    path = "github.com/gethinode/mod-simple-datatables"
   [[module.imports]]
     path = "github.com/gethinode/mod-utils/v2"
     [[module.imports]]

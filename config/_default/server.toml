@@ -7,7 +7,7 @@
     Access-Control-Allow-Origin = '*'
     Content-Security-Policy = """
         base-uri 'self'; \
-        connect-src 'self' *.google-analytics.com *.analytics.google.com *.googletagmanager.com; \
+        connect-src 'self' *.google-analytics.com *.analytics.google.com *.googletagmanager.com https://cloudflareinsights.com; \
         default-src 'none'; \
         font-src 'self' fonts.gstatic.com; \
         form-action 'self'; \
@@ -16,7 +16,7 @@
         manifest-src 'self'; \
         media-src 'self'; \
         object-src 'none'; \
-        script-src 'self' *.google-analytics.com *.googletagmanager.com player.vimeo.com; \
+        script-src 'self' *.google-analytics.com *.googletagmanager.com player.vimeo.com https://static.cloudflareinsights.com; \
         style-src 'self' www.youtube.com; \
         """
     Permissions-Policy = 'geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(), payment=() '

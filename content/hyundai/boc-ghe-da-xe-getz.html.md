@@ -10,8 +10,8 @@ keywords:
   - bọc ghế ô tô getz
   - bọc ghế da getz
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-  - mgallery
+
+  
 thumbnail: /img/thumb/mau-ghe-da-Getz-1-1.jpg
 title: Bọc Ghế Da Xe getz
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Getz](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-getz.html/) tại Hà Nội. Trực cắt may - Trực tiếp bọc ghế xe Getz. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Getz tận nhà.
 
 ## Mẫu Bọc Ghế Da Getz
-{{< mgallery list="Getz/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "hyundai/Getz" >}}
 
 ## Giá bọc ghế da ô tô Getz
 

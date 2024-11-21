@@ -5,13 +5,13 @@ meta:
   description: "Những kinh nghiệm bọc ghế ô tô Xpander. Tổng hợp mẫu bọc ghế da Xpander đẹp. Bảng giá bọc ghế da xe Xpander. Chương trình khuyến mãi bọc ghế Mitsubishi Xpander"
 draft: false
 keywords:
-    - bọc ghế da xe Xpander
-    - bọc ghế da ô tô Xpander
-    - bọc ghế ô tô Xpander
-    - bọc ghế da Xpander
+- bọc ghế da xe Xpander
+- bọc ghế da ô tô Xpander
+- bọc ghế ô tô Xpander
+- bọc ghế da Xpander
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-xpander.jpg.webp
 title: Bọc Ghế Da Xe Xpander
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Xpander](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-xpander.html/) tại Hà Nội. Trực tiếp may bọc ghế xe Xpander. Da chuẩn – minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế ô tô Xpander tận nhà.
 
 ## Mẫu Bọc Ghế Da Xpander
-{{< mgallery list="Xpander/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mitsubishi/Xpander" >}}
 ## Chi phí bọc ghế da xe Xpander
 Giá bọc ghế da ô tô Xpander có thể biến đổi tùy theo loại chất liệu da bạn chọn, cũng như dựa trên các chương trình khuyến mãi đang được áp dụng. Để nhận thông tin về khuyến mãi mới nhất, hãy gọi cho chúng tôi qua số 0977233033.
 

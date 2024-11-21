@@ -6,20 +6,20 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Cruze đẹp. Bảng giá bọc ghế da xe Cruze. Những kinh nghiệm bọc ghế ô tô Cruze. Chương trình khuyến mãi bọc ghế Chevrolet Cruze"
 draft: false
 keywords:
-    - bọc ghế da xe Cruze
-    - bọc ghế da ô tô Cruze
-    - bọc ghế ô tô Cruze
-    - bọc ghế da Cruze
+- bọc ghế da xe Cruze
+- bọc ghế da ô tô Cruze
+- bọc ghế ô tô Cruze
+- bọc ghế da Cruze
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-da-ghe-xe-cruize.jpg.webp
 noCover: true
 ---
 
 Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Cruze](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-cruze.html/) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế oto Cruze tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Cruze mới.
 ## Mẫu Bọc Ghế Da cruze
-{{< mgallery list="cruze/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "chvrolet/cruze" >}}
 
 ## Mẫu ghế da Cruze trần
 

@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Outlander đẹp. Những kinh nghiệm bọc ghế ô tô Outlander. Chương trình khuyến mãi bọc ghế Mitsubishi Outlander. Bảng giá bọc ghế da xe Outlander."
 draft: false
 keywords:
-    - bọc ghế da xe Outlander
-    - bọc ghế da ô tô Outlander
-    - bọc ghế ô tô Outlander
-    - bọc ghế da Outlander
+- bọc ghế da xe Outlander
+- bọc ghế da ô tô Outlander
+- bọc ghế ô tô Outlander
+- bọc ghế da Outlander
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-outlander.jpg.webp
 title: Bọc Ghế Da Xe Outlander
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da ô tô trực tiếp cắt may - trực tiếp [bọc ghế da Outlander tại Hà Nội](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-outlander.html/). Dịch vụ chuyên nghiệp và tận tâm, tư vấn bọc ghế ô tô Outlander tại nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật các mẫu ghế da Outlander mới nhất.
 
 ## Mẫu Bọc Ghế Da Outlander
-{{< mgallery list="Outlander/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mitsubishi/Outlander" >}}
 
 ## Chi Phí Bọc Ghế Da Ô Tô Outlander
 

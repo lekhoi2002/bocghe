@@ -1,26 +1,17 @@
 ---
 date: 2022-05-22 06:37:28+00:00
-meta:
-  title: "25+ Mẫu Bọc Ghế Da Xe Grandis Đẹp Giá Rẻ Tại Hà Nội"
-  description: "Tổng hợp mẫu bọc ghế da Grandis đẹp. Bảng giá bọc ghế da xe Grandis. Những kinh nghiệm bọc ghế ô tô Grandis. Chương trình khuyến mãi bọc ghế Mitsubishi Grandis
-draft: false
-keywords:
-    - bọc ghế da xe Grandis
-    - bọc ghế da ô tô Grandis
-    - bọc ghế ô tô Grandis
-    - bọc ghế da Grandis
-lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
-thumbnail: /img/thumb/boc-ghe-da-mitsubishi-grandis.jpg.webp
 title: Bọc Ghế Da Xe Grandis
-noCover: true
+meta:
+  title: 25+ Mẫu Bọc Ghế Da Xe Grandis Đẹp Giá Rẻ Tại Hà Nội
+  description: Tổng hợp mẫu bọc ghế da Grandis đẹp. Bảng giá bọc ghế da xe Grandis. Những kinh nghiệm bọc ghế ô tô Grandis. Chương trình khuyến mãi bọc ghế Mitsubishi Grandis
+thumbnail: /img/thumb/boc-ghe-da-mitsubishi-grandis.jpg.webp
+
 ---
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Grandis](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-grandis.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp cắt may - Trực tiếp bọc. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Grandis tận nhà.
 
 ## Mẫu Bọc Ghế Da grandis
-{{< mgallery list="grandis/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mitsubishi/grandis" >}}
 
 ## Định giá dịch vụ bọc ghế da ô tô Grandis
 

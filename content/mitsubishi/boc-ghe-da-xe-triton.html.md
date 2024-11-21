@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Triton đẹp. Những kinh nghiệm bọc ghế ô tô Triton. Bảng giá bọc ghế da xe Triton. Chương trình khuyến mãi bọc ghế Mitsubishi Triton"
 draft: false
 keywords:
-    - bọc ghế da xe Triton
-    - bọc ghế da ô tô Triton
-    - bọc ghế ô tô Triton
-    - bọc ghế da Triton
+- bọc ghế da xe Triton
+- bọc ghế da ô tô Triton
+- bọc ghế ô tô Triton
+- bọc ghế da Triton
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-triton.jpg.webp
 title: Bọc Ghế Da Xe Triton
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Triton](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-triton.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp may - Trực tiếp bọc. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Triton tận nhà miễn phí.
 
 ## Mẫu Bọc Ghế Da triton
-{{< mgallery list="triton/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mitsubishi/triton" >}}
 
 ## Chi phí cho việc bọc ghế da ô tô Triton
 

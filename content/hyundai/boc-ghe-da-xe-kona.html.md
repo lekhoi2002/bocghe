@@ -5,13 +5,13 @@ meta:
   description: "Khuyến mãi bọc ghế Hyundai Kona. Tổng hợp mẫu bọc ghế da Kona đẹp. Những kinh nghiệm bọc ghế ô tô Kona. Bảng giá bọc ghế da xe Kona"
 draft: false
 keywords:
-    - bọc ghế da xe Kona
-    - bọc ghế da ô tô Kona
-    - bọc ghế ô tô Kona
-    - bọc ghế da Kona
+- bọc ghế da xe Kona
+- bọc ghế da ô tô Kona
+- bọc ghế ô tô Kona
+- bọc ghế da Kona
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-hyundai-kona.jpg.webp
 title: Bọc Ghế Da Xe Kona
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Kona](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-kona.html/) tại hà nội. Trực tiếp may và bọc ghế da xe Kona tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Kona tận nhà.
 
 ## Mẫu Bọc Ghế Da Kona
-{{< mgallery list="Kona/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "hyundai/Kona" >}}
 
 ## Giá bọc ghế da xe Kona
 

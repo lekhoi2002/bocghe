@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Everest đẹp. Bảng giá bọc ghế da xe Everest. Những kinh nghiệm bọc ghế ô tô Everest. Chương trình khuyến mãi bọc ghế Ford Everest"
 draft: false
 keywords:
-    - bọc ghế da xe Everest
-    - bọc ghế da ô tô Everest
-    - bọc ghế ô tô Everest
-    - bọc ghế da Everest
+- bọc ghế da xe Everest
+- bọc ghế da ô tô Everest
+- bọc ghế ô tô Everest
+- bọc ghế da Everest
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-xe-ford-everest.jpg.webp
 title: Bọc Ghế Da Xe Everest
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Everest](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-everest.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp may - Trực tiếp bọc. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Everest tận nhà miễn phí.
 
 ## Mẫu Bọc Ghế Da everest
-{{< mgallery list="everest/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "ford/everest" >}}
 
 ## Giá bọc đệm ghế da Everest
 

@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Wigo đẹp.. Chương trình khuyến mãi bọc ghế Toyota Wigo. Những kinh nghiệm bọc ghế ô tô Wigo. Bảng giá bọc ghế da xe Wigo"
 draft: false
 keywords:
-    - bọc ghế da xe Wigo
-    - bọc ghế da ô tô Wigo
-    - bọc ghế ô tô Wigo
-    - bọc ghế da Wigo
+- bọc ghế da xe Wigo
+- bọc ghế da ô tô Wigo
+- bọc ghế ô tô Wigo
+- bọc ghế da Wigo
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-da-ghe-xe-wigo.jpg.webp
 title: Bọc Ghế Da Xe Wigo
 ---
@@ -19,7 +19,7 @@ title: Bọc Ghế Da Xe Wigo
 Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Wigo](https://bocgheoto.vn/toyota/boc-ghe-da-xe-wigo.html/) tại hà nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Wigo tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Wigo mới
 
 ## Mẫu Bọc Ghế Da wigo
-{{< mgallery list="wigo/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "toyota/wigo" >}}
 
 ## Giá bọc ghế da ô tô Wigo
 

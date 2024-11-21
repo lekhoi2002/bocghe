@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Honda Civic đẹp. Những kinh nghiệm bọc ghế ô tô Honda Civic. Chương trình khuyến mãi bọc ghế Honda Civic. Bảng giá bọc ghế da xe Honda Civic."
 draft: false
 keywords:
-    - bọc ghế da xe Honda Civic
-    - bọc ghế da ô tô Honda Civic
-    - bọc ghế ô tô Honda Civic
-    - bọc ghế da Honda Civic
+- bọc ghế da xe Honda Civic
+- bọc ghế da ô tô Honda Civic
+- bọc ghế ô tô Honda Civic
+- bọc ghế da Honda Civic
 lastmod: 2024-11-10T13:54:44.196Z
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-honda-civic.jpg.webp
 title: Bọc Ghế Da Xe Honda Civic
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Honda Civic](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-civic.html/) tại Hà Nội. Trực cắt may - Trực tiếp bọc ghế xe Honda Civic. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Honda Civic tận nhà.
 
 ## Mẫu Bọc Ghế Da civic
-{{< mgallery list="civic/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "honda/civic" >}}
 ## Giá bọc ghế da ô tô Honda Civic
 
 Giá bọc ghế da cho xe Honda Civic phụ thuộc vào chất liệu da được lựa chọn. Và thay đổi tùy theo nguyên liệu nhập về cùng chương trình khuyến mãi đang áp dụng. Vui lòng liên hệ 0977233033 để biết khuyến mãi mới nhất.

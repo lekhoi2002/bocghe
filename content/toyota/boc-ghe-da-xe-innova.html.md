@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da innova đẹp. Những kinh nghiệm bọc ghế ô tô innova. Chương trình khuyến mãi bọc ghế Toyota innova. Bảng giá bọc ghế da xe innova. Chương trình khuyến mãi bọc ghế"
 draft: false
 keywords:
-    - bọc ghế da xe Innova
-    - bọc ghế da ô tô Innova
-    - bọc ghế ô tô Innova
-    - bọc ghế da Innova
+- bọc ghế da xe Innova
+- bọc ghế da ô tô Innova
+- bọc ghế ô tô Innova
+- bọc ghế da Innova
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-toyota-innova.jpg.webp
 title: Bọc Ghế Da Xe Innova
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Innova](https://bocgheoto.vn/toyota/boc-ghe-da-xe-innova.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Innova tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Innova tận nhà.
 
 ## Mẫu Bọc Ghế Da innova
-{{< mgallery list="innova/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "toyota/innova" >}}
 
 
 ## Bảng giá dịch vụ bọc ghế da xe Innova

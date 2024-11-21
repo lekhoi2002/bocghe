@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da i20 đẹp. Những kinh nghiệm bọc ghế ô tô i20. Chương trình khuyến mãi bọc ghế Hyundai i20. Bảng giá bọc ghế da xe i20."
 draft: false
 keywords:
-    - bọc ghế da xe i20
-    - bọc ghế da ô tô i20
-    - bọc ghế ô tô i20
-    - bọc ghế da i20
+- bọc ghế da xe i20
+- bọc ghế da ô tô i20
+- bọc ghế ô tô i20
+- bọc ghế da i20
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-hyundai-i20.jpg.webp
 title: Bọc Ghế Da Xe i20
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da i20](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-i20.html/) tại Hà Nội. Trực tiếp may và bọc ghế da xe i20. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe i20 tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
 ## Mẫu Bọc Ghế Da i20
-{{< mgallery list="i20/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "hyundai/i20" >}}
 
 ## Giá bọc ghế da xe i20
 

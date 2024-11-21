@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Mazda BT50 đẹp. Bảng giá bọc ghế da xe Mazda BT50. Những kinh nghiệm bọc ghế ô tô Mazda BT50. Chương trình khuyến mãi bọc ghế Mazda BT50"
 draft: false
 keywords:
-    - bọc ghế da xe Mazda Bt50
-    - bọc ghế da ô tô Mazda Bt50
-    - bọc ghế ô tô Mazda Bt50
-    - bọc ghế da Mazda Bt50
+- bọc ghế da xe Mazda Bt50
+- bọc ghế da ô tô Mazda Bt50
+- bọc ghế ô tô Mazda Bt50
+- bọc ghế da Mazda Bt50
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mazda-bt50.jpg.webp
 title: Bọc Ghế Da Xe Mazda Bt50
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Mazda BT50](https://bocgheoto.vn/mazda/boc-ghe-da-xe-mazda-bt50.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Mazda BT50 tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Mazda BT50 tận nhà.
 
 ## Mẫu Bọc Ghế Da BT50
-{{< mgallery list="BT50/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mazda/BT50" >}}
 
 ## Giá Bọc Ghế Da Xe Mazda BT50
 

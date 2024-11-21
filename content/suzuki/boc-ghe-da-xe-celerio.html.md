@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Celerio đẹp.. Chương trình khuyến mãi bọc ghế Toyota Celerio. Những kinh nghiệm bọc ghế ô tô Celerio. Bảng giá bọc ghế da xe Celerio"
 draft: false
 keywords:
-    - bọc ghế da xe Celerio
-    - bọc ghế da ô tô Celerio
-    - bọc ghế ô tô Celerio
-    - bọc ghế da Celerio
+- bọc ghế da xe Celerio
+- bọc ghế da ô tô Celerio
+- bọc ghế ô tô Celerio
+- bọc ghế da Celerio
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-suzuki-celerio.jpg.webp
 title: Bọc Ghế Da Xe Celerio
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da oto. Trực tiếp may [bọc ghế da Celerio](https://bocgheoto.vn/suzuki/boc-ghe-da-xe-celerio.html/) tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Celerio tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Celerio mới
 
 ## Mẫu Bọc Ghế Da Celerio
-{{< mgallery list="Celerio/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "suzuki/Celerio" >}}
 
 ## Bảng giá bọc ghế da ô tô Celerio
 

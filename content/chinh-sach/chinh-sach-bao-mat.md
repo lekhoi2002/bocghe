@@ -54,6 +54,6 @@ draft: false
 
 ## 9. Liên Hệ
    - Nếu có bất kỳ thắc mắc nào về chính sách bảo mật, vui lòng liên hệ qua:
-     - **Email**: support@khovansango.com
-     - **Số điện thoại**: 0966 171 436
-     - **Địa chỉ**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội
+ - **Email**: support@khovansango.com
+ - **Số điện thoại**: 0966 171 436
+ - **Địa chỉ**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội

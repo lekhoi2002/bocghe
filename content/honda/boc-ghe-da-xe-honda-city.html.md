@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Honda City đẹp. Những kinh nghiệm bọc ghế ô tô Honda City. Chương trình khuyến mãi bọc ghế Honda City. Bảng giá bọc ghế da xe Honda City. Chương trình khuyến mãi bọc ghế Honda City"
 draft: false
 keywords:
-    - bọc ghế da xe Honda City
-    - bọc ghế da ô tô Honda City
-    - bọc ghế ô tô Honda City
-    - bọc ghế da Honda City
+- bọc ghế da xe Honda City
+- bọc ghế da ô tô Honda City
+- bọc ghế ô tô Honda City
+- bọc ghế da Honda City
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-honda-city.jpg.webp
 title: Bọc Ghế Da Xe Honda City
 noCover: true
@@ -22,7 +22,7 @@ noCover: true
 Xưởng may ghế da ô tô chuyên [bọc ghế da Honda City](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-city.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp cắt may và bọc ghế da xe Honda City tại Hà Nội. Dịch vụ chuyên nghiệp và tận tâm, có tư vấn bọc ghế ô tô Honda City tại nhà.
 
 ## Mẫu Bọc Ghế Da city
-{{< mgallery list="city/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "honda/city" >}}
 
 ## Giá Bọc Ghế Da Ô Tô Honda City
 

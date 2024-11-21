@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Transit đẹp. Những kinh nghiệm bọc ghế ô tô Transit. Chương trình khuyến mãi bọc ghế Ford Transit. Bảng giá bọc ghế da xe Transit."
 draft: false
 keywords:
-    - bọc ghế da xe Transit
-    - bọc ghế da ô tô Transit
-    - bọc ghế ô tô Transit
-    - bọc ghế da Transit
+- bọc ghế da xe Transit
+- bọc ghế da ô tô Transit
+- bọc ghế ô tô Transit
+- bọc ghế da Transit
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-xe-ford-transit.jpg.webp
 title: Bọc Ghế Da Xe Transit
 noCover: true
@@ -22,7 +22,7 @@ noCover: true
 Chuyên [bọc ghế da Transit](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-transit.html/) tại Hà Nội. Trực tiếp may bọc ghế xe Transit. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Transit tận nhà.
 
 ## Mẫu Bọc Ghế Da transit
-{{< mgallery list="transit/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "ford/transit" >}}
 
 ## Giá bọc ghế ô tô Transit
 

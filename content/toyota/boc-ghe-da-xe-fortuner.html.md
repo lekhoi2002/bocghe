@@ -10,8 +10,8 @@ keywords:
   - bọc ghế ô tô Fortuner
   - bọc ghế da Fortuner
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-  - mgallery
+
+  
 thumbnail: /img/thumb/boc-ghe-da-toyota-fortuner-2.jpg.webp
 title: Bọc Ghế Da Xe Fortuner
 noCover: true
@@ -21,7 +21,7 @@ noCover: true
 
 Xưởng may đệm ghế ô tô. Trực tiếp may [bọc ghế da Fortuner](https://bocgheoto.vn/toyota/boc-ghe-da-xe-fortuner.html/) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Fortuner tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Fortuner mới.
 ## Mẫu Bọc Ghế Da fortuner
-{{< mgallery list="fortuner/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "toyota/fortuner" >}}
 
 
 Giá của dịch vụ bọc ghế da xe Fortuner thay đổi tùy thuộc vào chất liệu da được sử dụng và giá của nguyên liệu nhập về, cùng với chương trình khuyến mãi đang được áp dụng. Hãy liên hệ 0977233033 để biết thông tin mới nhất về chương trình khuyến mãi.

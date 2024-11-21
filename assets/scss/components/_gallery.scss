@@ -1,0 +1,19 @@
+.thumbnail-img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 400 / 267;
+  object-fit: cover;
+}
+
+.close-btn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 1rem;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.modal-footer p {
+  margin-bottom: 0;
+}

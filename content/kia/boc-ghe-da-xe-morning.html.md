@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Morning đẹp. Chương trình khuyến mãi bọc ghế Kia Morning. Những kinh nghiệm bọc ghế ô tô Morning. Bảng giá bọc ghế da xe Kia Morning"
 draft: false
 keywords:
-    - bọc ghế da xe Morning
-    - bọc ghế da ô tô Morning
-    - bọc ghế ô tô Morning
-    - bọc ghế da Morning
+- bọc ghế da xe Morning
+- bọc ghế da ô tô Morning
+- bọc ghế ô tô Morning
+- bọc ghế da Morning
 lastmod: 2024-11-10T14:06:03.973Z
-modules:
-    - mgallery
+
+
 thumbnail: null
 title: Bọc Ghế Da Xe Morning
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da oto. Chuyên [bọc ghế da Morning](https://bocgheoto.vn/kia/boc-ghe-da-xe-morning.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp may - Trực tiếp bọc. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế xe Morning tận nhà miễn phí.
 
 ## Mẫu Bọc Ghế Da Morning
-{{< mgallery list="Morning/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "kia/Morning" >}}
 
 # Chọn Bọc Ghế Da Xe Morning Phù Hợp
 

@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Cerato đẹp. Chương trình khuyến mãi bọc ghế Kia Cerato. Những kinh nghiệm bọc ghế ô tô Cerato. Bảng giá bọc ghế da xe Kia Cerato"
 draft: false
 keywords:
-    - bọc ghế da xe Cerato
-    - bọc ghế da ô tô Cerato
-    - bọc ghế ô tô Cerato
-    - bọc ghế da Cerato
+- bọc ghế da xe Cerato
+- bọc ghế da ô tô Cerato
+- bọc ghế ô tô Cerato
+- bọc ghế da Cerato
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-kia-cerato.jpg.webp
 title: Bọc Ghế Da Xe Cerato
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Cerato](https://bocgheoto.vn/kia/boc-ghe-da-xe-cerato.html/) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế xe Cerato. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Cerato tận nhà.
 
 ## Mẫu Bọc Ghế Da Cerato
-{{< mgallery list="Cerato/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "kia/Cerato" >}}
 
 ## Giá bọc ghế da ô tô Cerato
 

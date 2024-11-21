@@ -5,13 +5,13 @@ meta:
   description: "Những kinh nghiệm bọc ghế ô tô Altis. Tổng hợp mẫu bọc ghế da Altis đẹp. Bảng giá bọc ghế da xe Altis. Chương trình khuyến mãi bọc ghế Toyota Altis"
 draft: false
 keywords:
-    - bọc ghế da xe Altis
-    - bọc ghế da ô tô Altis
-    - bọc ghế ô tô Altis
-    - bọc ghế da Altis
+- bọc ghế da xe Altis
+- bọc ghế da ô tô Altis
+- bọc ghế ô tô Altis
+- bọc ghế da Altis
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-toyota-altis.jpg.webp
 title: Bọc Ghế Da Xe Altis
 ---
@@ -19,7 +19,7 @@ title: Bọc Ghế Da Xe Altis
 Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Altis](https://bocgheoto.vn/toyota/boc-ghe-da-xe-altis.html/) tại hà nội. Trực tiếp may bọc ghế da xe Altis tại hà nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Altis tận nhà.
 
 ## Mẫu Bọc Ghế Da altis
-{{< mgallery list="altis/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "toyota/altis" >}}
 
 ## Giá cả cho việc bọc ghế da ô tô Altis
 

@@ -5,13 +5,13 @@ meta:
   description: "Những kinh nghiệm bọc ghế ô tô Mazda 3. Tổng hợp mẫu bọc ghế da Mazda 3 đẹp. Bảng giá bọc ghế da xe Mazda 3. Chương trình khuyến mãi bọc ghế Mazda 3"
 draft: false
 keywords:
-    - bọc ghế da xe Mazda 3
-    - bọc ghế da ô tô Mazda 3
-    - bọc ghế ô tô Mazda 3
-    - bọc ghế da Mazda 3
+- bọc ghế da xe Mazda 3
+- bọc ghế da ô tô Mazda 3
+- bọc ghế ô tô Mazda 3
+- bọc ghế da Mazda 3
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mazda-3.jpg.webp
 title: Bọc Ghế Da Xe Mazda 3
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da ô tô. Trực cắt may - Trực tiếp [bọc ghế da Mazda 3](https://bocgheoto.vn/mazda/boc-ghe-da-xe-mazda-3.html/) tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Mazda 3 tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Mazda 3 mới.
 
 ## Mẫu Bọc Ghế Da Mazda-3
-{{< mgallery list="Mazda-3/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mazda/Mazda-3" >}}
 
 
 ## Bảng giá bọc ghế da xe Mazda 3

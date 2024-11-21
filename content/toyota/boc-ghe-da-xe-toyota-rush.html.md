@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Rush đẹp.. Chương trình khuyến mãi bọc ghế Toyota Rush. Những kinh nghiệm bọc ghế ô tô Rush. Bảng giá bọc ghế da xe Rush"
 draft: false
 keywords:
-    - bọc ghế da xe Toyota Rush
-    - bọc ghế da ô tô Toyota Rush
-    - bọc ghế ô tô Toyota Rush
-    - bọc ghế da Toyota Rush
+- bọc ghế da xe Toyota Rush
+- bọc ghế da ô tô Toyota Rush
+- bọc ghế ô tô Toyota Rush
+- bọc ghế da Toyota Rush
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-da-ghe-xe-rush.jpg.webp
 title: Bọc Ghế Da Xe Toyota Rush
 noCover: true
@@ -19,7 +19,7 @@ noCover: true
 
 Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Rush](https://bocgheoto.vn/toyota/boc-ghe-da-xe-toyota-rush.html/) tại hà nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Rush tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Rush mới.
 ## Mẫu Bọc Ghế Da rush
-{{< mgallery list="rush/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "toyota/rush" >}}
 
 ## Chi phí thực hiện bọc ghế da xe Toyota Rush
 

@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Elantra đẹp. Những kinh nghiệm bọc ghế ô tô Elantra. Chương trình khuyến mãi bọc ghế Hyundai Elantra. Bảng giá bọc ghế da xe Elantra. Chương trình khuyến mãi bọc ghế Hyundai Elantra"
 draft: false
 keywords:
-    - bọc ghế da xe Elantra
-    - bọc ghế da ô tô Elantra
-    - bọc ghế ô tô Elantra
-    - bọc ghế da Elantra
+- bọc ghế da xe Elantra
+- bọc ghế da ô tô Elantra
+- bọc ghế ô tô Elantra
+- bọc ghế da Elantra
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-hyundai-elantra.jpg.webp
 title: Bọc Ghế Da Xe Elantra
 noCover: true
@@ -22,7 +22,7 @@ noCover: true
 Chúng tôi chuyên [bọc ghế da xe Elantra](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-elantra.html/) tại Hà Nội với cam kết da chuẩn, thông tin minh bạch về loại da sử dụng, cung cấp dịch vụ may và bọc trực tiếp. Dịch vụ của chúng tôi luôn tận tâm, chuyên nghiệp và cung cấp tư vấn bọc ghế ô tô Elantra miễn phí tại nhà.
 
 ## Mẫu Bọc Ghế Da Elantra
-{{< mgallery list="Elantra/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "hyundai/Elantra" >}}
 
 
 ### Giá bọc da ghế Elantra

@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Navara đẹp. Bảng giá bọc ghế da xe Navara. Những kinh nghiệm bọc ghế ô tô Navara. Chương trình khuyến mãi bọc ghế Nissan Navara"
 draft: false
 keywords:
-    - bọc ghế da xe Navara
-    - bọc ghế da ô tô Navara
-    - bọc ghế ô tô Navara
-    - bọc ghế da Navara
+- bọc ghế da xe Navara
+- bọc ghế da ô tô Navara
+- bọc ghế ô tô Navara
+- bọc ghế da Navara
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-nissan-navara.jpg.webp
 title: Bọc Ghế Da Xe Navara
 noCover: true

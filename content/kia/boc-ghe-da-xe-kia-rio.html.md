@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Kia Rio đẹp. Những kinh nghiệm bọc ghế ô tô Kia Rio. Chương trình khuyến mãi bọc ghế Kia Rio. Bảng giá bọc ghế da xe Kia Rio."
 draft: false
 keywords:
-    - bọc ghế da xe Rio
-    - bọc ghế da ô tô Rio
-    - bọc ghế ô tô Rio
-    - bọc ghế da Rio
+- bọc ghế da xe Rio
+- bọc ghế da ô tô Rio
+- bọc ghế ô tô Rio
+- bọc ghế da Rio
 lastmod: 2024-11-10T13:37:41.506Z
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-kia-rio.jpg.webp
 title: Bọc Ghế Da Xe Rio
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Kia Rio](https://bocgheoto.vn/kia/boc-ghe-da-xe-kia-rio.html/) tại Hà Nội. Trực tiếp cắt may - Trực tiếp bọc ghế xe Kia Rio với chất liệu da chuẩn và minh bạch. Dịch vụ chuyên nghiệp và tận tâm, tư vấn tận nhà.
 
 ## Mẫu Bọc Ghế Da Rio
-{{< mgallery list="Rio/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "kia/Rio" >}}
 
 
 ## Giá Bọc Ghế Da Xe Rio

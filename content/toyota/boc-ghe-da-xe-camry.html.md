@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Camry đẹp. Chương trình khuyến mãi bọc ghế Toyota Camry. Những kinh nghiệm bọc ghế ô tô Camry. Bảng giá bọc ghế da xe Camry"
 draft: false
 keywords:
-    - bọc ghế da xe Camry
-    - bọc ghế da ô tô Camry
-    - bọc ghế ô tô Camry
-    - bọc ghế da Camry
+- bọc ghế da xe Camry
+- bọc ghế da ô tô Camry
+- bọc ghế ô tô Camry
+- bọc ghế da Camry
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-toyota-camry.jpg.webp
 title: Bọc Ghế Da Xe Camry
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da oto. Chuyên [bọc ghế da Camry](https://bocgheoto.vn/toyota/boc-ghe-da-xe-camry.html/) tại hà nội. Trực tiếp may bọc ghế da xe Camry. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế oto Camry tận nhà.
 
 ## Mẫu Bọc Ghế Da camry
-{{< mgallery list="camry/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "toyota/camry" >}}
 
 ## Phân biệt các loại da dùng để bọc ghế ô tô Camry
 

@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Spark đẹp.. Chương trình khuyến mãi bọc ghế Chevrolet Spark. Những kinh nghiệm bọc ghế ô tô Spark. Bảng giá bọc ghế da xe Spark"
 draft: false
 keywords:
-    - bọc ghế da xe Spark
-    - bọc ghế da ô tô Spark
-    - bọc ghế ô tô Spark
-    - bọc ghế da Spark
+- bọc ghế da xe Spark
+- bọc ghế da ô tô Spark
+- bọc ghế ô tô Spark
+- bọc ghế da Spark
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-da-ghe-xe-spark.jpg.webp
 title: Bọc Ghế Da Xe Spark
 noCover: true
@@ -19,7 +19,7 @@ noCover: true
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Spark](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-spark.html/) tại hà nội. Trực cắt may - Trực tiếp bọc ghế da xe Spark. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế ô tô Spark tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 ## Mẫu Bọc Ghế Da spark
-{{< mgallery list="spark/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "chvrolet/spark" >}}
 
 ## Giá bọc ghế ô tô Spark
 

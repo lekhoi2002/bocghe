@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Jolie đẹp. Những kinh nghiệm bọc ghế ô tô Jolie. Chương trình khuyến mãi bọc ghế Mitsubishi Jolie. Bảng giá bọc ghế da xe Jolie."
 draft: false
 keywords:
-    - bọc ghế da xe Jolie
-    - bọc ghế da ô tô Jolie
-    - bọc ghế ô tô Jolie
-    - bọc ghế da Jolie
+- bọc ghế da xe Jolie
+- bọc ghế da ô tô Jolie
+- bọc ghế ô tô Jolie
+- bọc ghế da Jolie
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-jolie.jpg.webp
 title: Bọc Ghế Da Xe Jolie
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Jolie](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-jolie.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Jolie tận nhà.
 
 ## Mẫu Bọc Ghế Da Jolie
-{{< mgallery list="Jolie/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mitsubishi/Jolie" >}}
 
 ## Giá cả và các lựa chọn cho bọc ghế da ô tô Jolie
 

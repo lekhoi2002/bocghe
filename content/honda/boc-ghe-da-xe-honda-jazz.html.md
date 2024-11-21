@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Honda JAZZ đẹp. Những kinh nghiệm bọc ghế ô tô Honda JAZZ. Bảng giá bọc ghế da xe Honda JAZZ. Chương trình khuyến mãi bọc ghế Honda JAZZ"
 draft: false
 keywords:
-    - bọc ghế da xe Honda Jazz
-    - bọc ghế da ô tô Honda Jazz
-    - bọc ghế ô tô Honda Jazz
-    - bọc ghế da Honda Jazz
+- bọc ghế da xe Honda Jazz
+- bọc ghế da ô tô Honda Jazz
+- bọc ghế ô tô Honda Jazz
+- bọc ghế da Honda Jazz
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-honda-jazz.jpg.webp
 title: Bọc Ghế Da Xe Honda Jazz
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da oto. Chuyên [bọc ghế da Honda JAZZ](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-jazz.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Honda JAZZ tại hà nội. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế ô tô Honda JAZZ tận nhà.
 
 ## Mẫu Bọc Ghế Da jazz
-{{< mgallery list="jazz/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "honda/jazz" >}}
 
 ## Giá bọc đệm ghế da Honda JAZZ
 Giá bọc ghế da cho xe Honda JAZZ phụ thuộc vào chất liệu da được lựa chọn. Và thay đổi tùy theo nguyên liệu nhập về cùng chương trình khuyến mãi đang áp dụng. Vui lòng liên hệ 0977233033. Để biết khuyến mãi mới nhất đang được áp dụng.

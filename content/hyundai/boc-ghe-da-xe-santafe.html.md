@@ -5,13 +5,13 @@ meta:
   description: "Những kinh nghiệm bọc ghế ô tô Santafe. Tổng hợp mẫu bọc ghế da Santafe đẹp. Bảng giá bọc ghế da xe Santafe. Chương trình khuyến mãi bọc ghế Hyundai Santafe"
 draft: false
 keywords:
-    - bọc ghế da xe Santafe
-    - bọc ghế da ô tô Santafe
-    - bọc ghế ô tô Santafe
-    - bọc ghế da Santafe
+- bọc ghế da xe Santafe
+- bọc ghế da ô tô Santafe
+- bọc ghế ô tô Santafe
+- bọc ghế da Santafe
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-hyundai-santafe.jpg.webp
 title: Bọc Ghế Da Xe Santafe
 noCover: true
@@ -22,7 +22,7 @@ noCover: true
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Santafe](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-santafe.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Santafe tận nhà.
 
 ## Mẫu Bọc Ghế Da Santafe
-{{< mgallery list="Santafe/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "hyundai/Santafe" >}}
 
 ### Giá Bọc Ghế Ô Tô Santafe
 

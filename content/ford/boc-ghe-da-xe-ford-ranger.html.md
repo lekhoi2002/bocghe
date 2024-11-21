@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Ranger đẹp. Những kinh nghiệm bọc ghế ô tô Ranger. Chương trình khuyến mãi bọc ghế Ford Ranger. Bảng giá bọc ghế da xe Ranger."
 draft: false
 keywords:
-    - bọc ghế da xe Ranger
-    - bọc ghế da ô tô Ranger
-    - bọc ghế ô tô Ranger
-    - bọc ghế da Ranger
+- bọc ghế da xe Ranger
+- bọc ghế da ô tô Ranger
+- bọc ghế ô tô Ranger
+- bọc ghế da Ranger
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-xe-ford-ranger.jpg.webp
 title: Bọc Ghế Da Xe Ranger
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Ranger](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-ranger.html/) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế da xe Ranger. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Ranger tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
 ## Mẫu Bọc Ghế Da ranger
-{{< mgallery list="ranger/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "ford/ranger" >}}
 
 ## Giá bọc ghế da xe Ranger
 

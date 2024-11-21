@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Accent đẹp.. Chương trình khuyến mãi bọc ghế Hyundai Accent. Những kinh nghiệm bọc ghế ô tô Accent."
 draft: false
 keywords:
-    - bọc ghế da xe Accent
-    - bọc ghế da ô tô Accent
-    - bọc ghế ô tô Accent
-    - bọc ghế da Accent
+- bọc ghế da xe Accent
+- bọc ghế da ô tô Accent
+- bọc ghế ô tô Accent
+- bọc ghế da Accent
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-hyundai-accent.jpg.webp
 title: Bọc Ghế Da Xe Accent
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Accent](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-accent.html/) tại hà nội. Trực tiếp may và bọc ghế da xe Accent tại hà nội. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Accent tận nhà.
 
 ## Mẫu Bọc Ghế Da Accent
-{{< mgallery list="Accent/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "hyundai/Accent" >}}
 ## Giá bọc đệm ghế da Accent
 
 Giá bọc ghế da cho xe Accent phụ thuộc vào chất liệu da được lựa chọn. Và thay đổi tùy theo nguyên liệu nhập về cùng chương trình khuyến mãi đang áp dụng. Vui lòng liên hệ 0977233033. Để biết khuyến mãi mới nhất đang được áp dụng

@@ -5,13 +5,13 @@ meta:
   description: "Những kinh nghiệm bọc ghế ô tô Tucson. Tổng hợp mẫu bọc ghế da Tucson đẹp. Bảng giá bọc ghế da xe Tucson. Chương trình khuyến mãi bọc ghế Hyundai Tucson"
 draft: false
 keywords:
-    - bọc ghế da xe Tucson
-    - bọc ghế da ô tô Tucson
-    - bọc ghế ô tô Tucson
-    - bọc ghế da Tucson
+- bọc ghế da xe Tucson
+- bọc ghế da ô tô Tucson
+- bọc ghế ô tô Tucson
+- bọc ghế da Tucson
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-hyundai-Tucson.jpg.webp
 title: Bọc Ghế Da Xe Tucson
 noCover: true

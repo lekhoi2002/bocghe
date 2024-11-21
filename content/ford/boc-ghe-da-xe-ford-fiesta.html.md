@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Fiesta đẹp. Những kinh nghiệm bọc ghế ô tô Fiesta. Chương trình khuyến mãi bọc ghế Ford Fiesta. Bảng giá bọc ghế da xe Fiesta. Chương trình khuyến mãi bọc ghế Ford Fiesta"
 draft: false
 keywords:
-    - bọc ghế da xe Fiesta
-    - bọc ghế da ô tô Fiesta
-    - bọc ghế ô tô Fiesta
-    - bọc ghế da Fiesta
+- bọc ghế da xe Fiesta
+- bọc ghế da ô tô Fiesta
+- bọc ghế ô tô Fiesta
+- bọc ghế da Fiesta
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-xe-fiesta.jpg.webp
 title: Bọc Ghế Da Xe Fiesta
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế da ô tô. Trực tiếp may và [bọc ghế da Fiesta](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-fiesta.html/) tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế ô tô Fiesta tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Fiesta mới.
 
 ## Mẫu Bọc Ghế Da fiesta
-{{< mgallery list="fiesta/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "ford/fiesta" >}}
 
 ## Giá bọc đệm ghế da Fiesta
 Giá bọc ghế da cho xe Fiesta phụ thuộc vào chất liệu da được lựa chọn và có thể thay đổi tùy theo nguyên liệu nhập cùng chương trình khuyến mãi. Vui lòng liên hệ 0977233033 để biết thêm chi tiết về khuyến mãi mới nhất.

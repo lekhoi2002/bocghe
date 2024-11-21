@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Vios đẹp. Bảng giá bọc ghế da xe Vios. Những kinh nghiệm bọc ghế ô tô Vios. Chương trình khuyến mãi bọc ghế Toyota Vios"
 draft: false
 keywords:
-    - bọc ghế da xe Vios
-    - bọc ghế da ô tô Vios
-    - bọc ghế ô tô Vios
-    - bọc ghế da Vios
+- bọc ghế da xe Vios
+- bọc ghế da ô tô Vios
+- bọc ghế ô tô Vios
+- bọc ghế da Vios
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-toyota-vios.jpg.webp
 title: Bọc Ghế Da Xe Vios
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Vios](https://bocgheoto.vn/toyota/boc-ghe-da-xe-vios.html/) tại hà nội. Trực tiếp may và bọc ghế da xe Vios tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Vios tận nhà.
 
 ## Mẫu Bọc Ghế Da vios
-{{< mgallery list="vios/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "toyota/vios" >}}
 
 ## Phân loại chất liệu bọc ghế da xe Vios
 

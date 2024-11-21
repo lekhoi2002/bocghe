@@ -6,20 +6,20 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Captiva đẹp. Những kinh nghiệm bọc ghế ô tô Captiva. Chương trình khuyến mãi bọc ghế Chevrolet Captiva. Bảng giá bọc ghế da xe Captiva"
 draft: false
 keywords:
-    - bọc ghế da xe Captiva
-    - bọc ghế da ô tô Captiva
-    - bọc ghế ô tô Captiva
-    - bọc ghế da Captiva
+- bọc ghế da xe Captiva
+- bọc ghế da ô tô Captiva
+- bọc ghế ô tô Captiva
+- bọc ghế da Captiva
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-da-ghe-xe-captiva.jpg.webp
 noCover: true
 ---
 
 Xưởng may ghế ô tô. Trực tiếp may [bọc ghế da Captiva](https://bocgheoto.vn/chvrolet/boc-ghe-da-captiva.html/) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Captiva tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Captiva mới.
 ## Mẫu Bọc Ghế Da captiva
-{{< mgallery list="captiva/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "chvrolet/captiva" >}}
 
 ## Giá bọc ghế xe Captiva
 

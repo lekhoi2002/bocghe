@@ -5,13 +5,13 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Mirage đẹp. Những kinh nghiệm bọc ghế ô tô Mirage. Chương trình khuyến mãi bọc ghế Mitsubishi Mirage. Bảng giá bọc ghế da xe Mirage. Chương trình khuyến mãi bọc ghế Mitsubishi Mirage"
 draft: false
 keywords:
-    - bọc ghế da xe Mirage
-    - bọc ghế da ô tô Mirage
-    - bọc ghế ô tô Mirage
-    - bọc ghế da Mirage
+- bọc ghế da xe Mirage
+- bọc ghế da ô tô Mirage
+- bọc ghế ô tô Mirage
+- bọc ghế da Mirage
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-mirage.jpg.webp
 title: Bọc Ghế Da Xe Mirage
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Mirage](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-mirage.html/) tại hà nội. Trực cắt may - Trực tiếp bọc ghế xe Mirage. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Mirage tận nhà.
 
 ## Mẫu Bọc Ghế Da mirage
-{{< mgallery list="mirage/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mitsubishi/mirage" >}}
 
 ## Chi phí bọc ghế da Mirage
 

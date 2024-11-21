@@ -5,13 +5,13 @@ meta:
   description: "Những kinh nghiệm bọc ghế ô tô Escape. Tổng hợp mẫu bọc ghế da Escape đẹp. Bảng giá bọc ghế da xe Escape. Chương trình khuyến mãi bọc ghế Ford Escape"
 draft: false
 keywords:
-    - bọc ghế da xe Escape
-    - bọc ghế da ô tô Escape
-    - bọc ghế ô tô Escape
-    - bọc ghế da Escape
+- bọc ghế da xe Escape
+- bọc ghế da ô tô Escape
+- bọc ghế ô tô Escape
+- bọc ghế da Escape
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-da-ghe-xe-Escape.jpg.webp
 title: Bọc Ghế Da Xe Escape
 noCover: true
@@ -19,7 +19,7 @@ noCover: true
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Escape](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-escape.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Escape tận nhà
 ## Mẫu Bọc Ghế Da escape
-{{< mgallery list="escape/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "ford/escape" >}}
 
 ## Giá bọc da ghế Escape
 

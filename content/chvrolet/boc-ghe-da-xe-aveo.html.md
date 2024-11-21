@@ -6,19 +6,19 @@ meta:
   description: "Tổng hợp mẫu bọc ghế da Aveo đẹp. Những kinh nghiệm bọc ghế ô tô Aveo. Chương trình khuyến mãi bọc ghế Chevrolet Aveo. Bảng giá bọc ghế da xe Aveo"
 draft: false
 keywords:
-    - bọc ghế da xe Aveo
-    - bọc ghế da ô tô Aveo
-    - bọc ghế ô tô Aveo
-    - bọc ghế da Aveo
+- bọc ghế da xe Aveo
+- bọc ghế da ô tô Aveo
+- bọc ghế ô tô Aveo
+- bọc ghế da Aveo
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-aveo.jpg
 noCover: true
 ---
 
 ## Mẫu Bọc Ghế Da aveo
-{{< mgallery list="aveo/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "chvrolet/aveo" >}}
 
 ### Mẫu bọc ghế da Aveo trần trám
 

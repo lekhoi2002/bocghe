@@ -5,13 +5,13 @@ meta:
   description: "Những kinh nghiệm bọc ghế ô tô Pajero. Tổng hợp mẫu bọc ghế da Pajero đẹp. Bảng giá bọc ghế da xe Pajero. Chương trình khuyến mãi bọc ghế Mitsubishi Pajero"
 draft: false
 keywords:
-    - bọc ghế da xe Pajero
-    - bọc ghế da ô tô Pajero
-    - bọc ghế ô tô Pajero
-    - bọc ghế da Pajero
+- bọc ghế da xe Pajero
+- bọc ghế da ô tô Pajero
+- bọc ghế ô tô Pajero
+- bọc ghế da Pajero
 lastmod: 2024-11-05 06:51:58.687000+00:00
-modules:
-    - mgallery
+
+
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-pajero-sport.jpg.webp
 title: Bọc Ghế Da Xe Pajero
 noCover: true
@@ -20,7 +20,7 @@ noCover: true
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Pajero](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-mitsubishi-pajero.html/) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Pajero tại hà nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Pajero tận nhà.
 
 ## Mẫu Bọc Ghế Da Pajero
-{{< mgallery list="Pajero/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "mitsubishi/Pajero" >}}
 
 ## Chi phí cho dịch vụ bọc ghế da ô tô Pajero
 

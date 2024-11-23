@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Santafe
 - bọc ghế da Santafe
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-hyundai-santafe.jpg.webp
 title: Bọc Ghế Da Xe Santafe
 noCover: true

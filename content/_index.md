@@ -1,10 +1,10 @@
 ---
 author: Khôi Lê
-title: Chuyên Bọc Ghế Da Ô Tô
 meta:
-  title:  
+  title: "Chuyên Bọc Ghế Ô Tô"
+  description: "Chuyên bọc ghế ô tô uy tín giá rẻ tại Hà Nội"
 thumbnail: 
 keywords:
--  Sàn Gỗ
+
 ---
 

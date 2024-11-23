@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Pajero
 - bọc ghế da Pajero
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-pajero-sport.jpg.webp
 title: Bọc Ghế Da Xe Pajero
 noCover: true

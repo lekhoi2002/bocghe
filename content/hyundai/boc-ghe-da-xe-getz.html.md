@@ -10,8 +10,6 @@ keywords:
   - bọc ghế ô tô getz
   - bọc ghế da getz
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-  
 thumbnail: /img/thumb/mau-ghe-da-Getz-1-1.jpg
 title: Bọc Ghế Da Xe getz
 noCover: true

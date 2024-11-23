@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Cerato
 - bọc ghế da Cerato
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-kia-cerato.jpg.webp
 title: Bọc Ghế Da Xe Cerato
 noCover: true

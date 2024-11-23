@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Kona
 - bọc ghế da Kona
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-hyundai-kona.jpg.webp
 title: Bọc Ghế Da Xe Kona
 noCover: true

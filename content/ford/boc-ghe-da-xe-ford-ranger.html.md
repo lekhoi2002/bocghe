@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Ranger
 - bọc ghế da Ranger
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-xe-ford-ranger.jpg.webp
 title: Bọc Ghế Da Xe Ranger
 noCover: true

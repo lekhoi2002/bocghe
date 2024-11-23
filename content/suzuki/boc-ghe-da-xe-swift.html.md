@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Swift
 - bọc ghế da Swift
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-suzuki-swift.jpg.webp
 title: Bọc Ghế Da Xe Swift
 noCover: true

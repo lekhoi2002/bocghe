@@ -51,14 +51,6 @@
           "name": "categories",
           "type": "categories"
         },
-        {
-          "title": "modules",
-          "name": "modules",
-          "type": "choice",
-          "choices": [
-            "mgallery"
-          ]
-        }
       ]
     }
   ],
@@ -71,20 +63,20 @@
       "path": "[[workspace]]/content"
     },
     {
-      "title": "san-go",
-      "path": "[[workspace]]/content/san-go-cong-nghiep"
+      "title": "honda",
+      "path": "[[workspace]]/content/honda"
     },
     {
-      "title": "phu-kien",
-      "path": "[[workspace]]/content/phu-kien"
+      "title": "toyota",
+      "path": "[[workspace]]/content/toyota"
     },
     {
-      "title": "gallery",
-      "path": "[[workspace]]/content/gallery"
+      "title": "suzuki",
+      "path": "[[workspace]]/content/suzuki"
     },
     {
-      "title": "kien-thuc",
-      "path": "[[workspace]]/content/tu-van"
+      "title": "ford",
+      "path": "[[workspace]]/content/ford"
     }
   ]
 }

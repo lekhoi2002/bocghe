@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Celerio
 - bọc ghế da Celerio
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-suzuki-celerio.jpg.webp
 title: Bọc Ghế Da Xe Celerio
 noCover: true

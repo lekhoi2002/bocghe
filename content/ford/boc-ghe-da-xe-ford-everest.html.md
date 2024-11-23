@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Everest
 - bọc ghế da Everest
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-xe-ford-everest.jpg.webp
 title: Bọc Ghế Da Xe Everest
 noCover: true

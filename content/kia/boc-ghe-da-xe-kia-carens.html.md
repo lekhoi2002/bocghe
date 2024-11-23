@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Carens
 - bọc ghế da Carens
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-kia-carens.jpg.webp
 title: Bọc Ghế Da Xe Carens
 noCover: true

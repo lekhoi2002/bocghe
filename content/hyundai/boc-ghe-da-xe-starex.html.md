@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Starex
 - bọc ghế da Starex
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-hyundai-starex.jpg.webp
 title: Bọc Ghế Da Xe Starex
 noCover: true

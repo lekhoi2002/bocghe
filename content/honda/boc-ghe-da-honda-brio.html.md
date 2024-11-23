@@ -1,18 +1,16 @@
 ---
 date: 2022-05-22 06:37:28+00:00
 meta:
-  title:  
-  description: ''
+  title: null
+  description: ""
 draft: false
 keywords:
-- bọc ghế da xe Brio
-- bọc ghế da ô tô Brio
-- bọc ghế ô tô Brio
-- bọc ghế da Brio
+  - bọc ghế da xe Brio
+  - bọc ghế da ô tô Brio
+  - bọc ghế ô tô Brio
+  - bọc ghế da Brio
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
-thumbnail: null
+thumbnail: /img/thumb/boc-ghe-da-xe-honda-brio.webp
 title: Bọc Ghế Da Xe Brio
 noCover: true
 ---

@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Transit
 - bọc ghế da Transit
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-xe-ford-transit.jpg.webp
 title: Bọc Ghế Da Xe Transit
 noCover: true

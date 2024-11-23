@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Navara
 - bọc ghế da Navara
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-nissan-navara.jpg.webp
 title: Bọc Ghế Da Xe Navara
 noCover: true

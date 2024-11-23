@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Camry
 - bọc ghế da Camry
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-toyota-camry.jpg.webp
 title: Bọc Ghế Da Xe Camry
 noCover: true

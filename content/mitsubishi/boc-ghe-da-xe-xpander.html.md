@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Xpander
 - bọc ghế da Xpander
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-xpander.jpg.webp
 title: Bọc Ghế Da Xe Xpander
 noCover: true

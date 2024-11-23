@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô Outlander
 - bọc ghế da Outlander
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-ghe-da-mitsubishi-outlander.jpg.webp
 title: Bọc Ghế Da Xe Outlander
 noCover: true

@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Xưởng May Ghế Da Ô Tô Tại Hà Nội"
+    description = "Chuyên Bọc Ghế Ô Tô Uy Tín Tại Hà Nội"
     enableDarkMode = false
     enableLanguageSelectionStorage = false
     modes = ["light"]
@@ -20,12 +20,6 @@
 # toml-docs-end main
 
 # toml-docs-start videos
-[videos]
-    [videos.cloudinary]
-        host = "cloudinary"
-        account = "demo"
-    [videos.vimeo]
-        host = "vimeo"
     [videos.youtube]
         host = "youtube"
 # toml-docs-end videos
@@ -48,7 +42,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["posts"]
+    sections = ["honda", "toyota", "ford", "hyundai", "mitsubishi"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -122,14 +116,69 @@
 # toml-docs-end sharing
 
 # toml-docs-start sections
-  [sections]
-    [sections.posts]
-        title = "Posts"
+    [sections.honda]
+        title = "Honda"
         layout = "card"
         sort = "weight"
         reverse = true
         background = ""
         color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "2"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.toyota]
+        title = "Toyota"
+        layout = "card"
+        sort = "weight"
+        reverse = true
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.ford]
+        title = "Ford"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.hyundai]
+        title = "Hyundai"
+        layout = "card"
+        sort = "weight"
+        reverse = true
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.mitsubishi]
+        title = "Mitsubishi"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
         cols = 3
         padding = "3"

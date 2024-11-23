@@ -10,8 +10,6 @@ keywords:
 - bọc ghế ô tô i10
 - bọc ghế da i10
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-da-ghe-xe-i10.jpg.webp
 title: Bọc Ghế Da Xe i10
 noCover: true

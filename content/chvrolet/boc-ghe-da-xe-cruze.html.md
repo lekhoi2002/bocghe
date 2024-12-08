@@ -11,8 +11,6 @@ keywords:
 - bọc ghế ô tô Cruze
 - bọc ghế da Cruze
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-da-ghe-xe-cruize.jpg.webp
 noCover: true
 ---

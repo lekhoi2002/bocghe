@@ -162,19 +162,23 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 
 ## Hỏi đáp bọc ghế da Tucson
 
-### Thời gian bọc ghế da Tucson?
+{{< accordion id="accordion-hyundai-tucson" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Tucson ?" show="true" >}}
+    Không tính thời gian may.Chỉ tính thời gian bọc. Bọc ghế da Tucson hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Tucson ?" >}}
+    Thời gian may đệm ghế da xe Hyundai Tucson từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Tucson tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Tucson tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Tucson" >}}
+    Không cần phải đo ghế Hyundai Tucson. Tất cả các đời xe Tucson đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
 
-Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Tucson hết khoảng 2.5 giờ với xe 05 chỗ.
 
-### Thời gian may ghế Tucson?
-
-Thời gian may đệm ghế da xe Hyundai Tucson từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
-
-### Bọc đệm ghế xe Tucson tại nhà có đảm bảo?
-
-Bọc ghế da xe Tucson tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
-
-### Có cần phải đo ghế Tucson?
-
-Không cần phải đo ghế Hyundai Tucson. Tất cả các đời xe Tucson đã có số đo.
  

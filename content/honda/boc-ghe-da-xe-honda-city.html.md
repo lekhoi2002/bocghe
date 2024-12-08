@@ -106,9 +106,20 @@ Tại xưởng luôn có sẵn đệm ghế da với các màu phổ biến. Ch�
 4. Tiến hành thi công và vệ sinh ghế da, kiểm tra cuối cùng.
 5. Bàn giao cho chủ xe.
 
-## Hỏi Đáp Bọc Ghế Da Honda City
-
-- **Thời gian bọc**: Khoảng 2.5 giờ.
-- **Thời gian may**: Từ 2.5 đến 4 giờ tùy số lượng đơn hàng.
-- **Chất lượng bọc tại nhà**: Đảm bảo hoàn toàn.
- 
+{{< accordion id="accordion-honda-city" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Honda City ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Honda City hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Honda City ?" >}}
+    Thời gian may đệm ghế da xe Honda City từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Honda City tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Honda City tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Honda City" >}}
+    Không cần phải đo ghế Honda City. Tất cả các đời xe Honda City đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

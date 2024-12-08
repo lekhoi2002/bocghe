@@ -150,4 +150,17 @@ Với hơn 10 năm kinh nghiệm trong lĩnh vực may và bọc ghế da ô tô
 1. Miễn phí tư vấn tận nhà tại Hà Nội
 2. Miễn phí bọc kẹp chết tháo nỉ cho xe Ciaz tại Bocgheoto.vn
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Ciaz ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Ciaz hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Ciaz ?" >}}
+    Thời gian may đệm ghế da xe Suzuki Ciaz từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Ciaz tại nhà có đảm bảo ?" >}}
+    Bọc ghế da xe Ciaz tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Ciaz ?" >}}
+    Không cần phải đo ghế Suzuki Ciaz. Tất cả các đời xe Ciaz đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

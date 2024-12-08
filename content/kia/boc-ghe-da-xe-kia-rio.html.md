@@ -116,6 +116,17 @@ Với hơn 10 năm kinh nghiệm trong nghề, chúng tôi cam kết sản phẩ
 
 ## Hỏi Đáp Bọc Ghế Da Xe Rio
 
-- **Thời gian bọc ghế**: Khoảng 2.5 giờ.
-- **Thời gian may**: 2.5-4 giờ tùy vào số lượng đơn hàng.
-- **Có cần đo ghế?**: Không, tất cả các đời xe Rio đã có số đo sẵn.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Kia Rio ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Kia Rio hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Kia Rio ?" >}}
+    Thời gian may đệm ghế da xe Kia Rio từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Kia Rio tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Kia Rio tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Kia Rio" >}}
+    Không cần phải đo ghế Kia Rio. Tất cả các đời xe Kia Rio đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

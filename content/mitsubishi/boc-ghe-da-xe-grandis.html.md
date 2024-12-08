@@ -97,4 +97,17 @@ Tại xưởng may, chúng tôi luôn có sẵn các mẫu đệm ghế da xe Gr
 
 Với hơn 10 năm kinh nghiệm trong ngành, xưởng may cam kết chất lượng sản phẩm.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Grandis ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Grandis hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Grandis ?" >}}
+    Thời gian may đệm ghế da xe Mitsubishi Grandis từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Grandis tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Grandis tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Grandis" >}}
+    Không cần phải đo ghế Mitsubishi Grandis. Tất cả các đời xe Grandis đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

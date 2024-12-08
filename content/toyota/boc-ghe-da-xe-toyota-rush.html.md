@@ -129,4 +129,17 @@ Với hơn 10 năm kinh nghiệm trong ngành, xưởng chúng tôi luôn đảm
 - **Thời gian may ghế Toyota Rush?**: Từ 2.5 đến 4 giờ, tùy số lượng đơn hàng.
 - **Bọc đệm ghế xe Toyota Rush tại nhà có đảm bảo?**: Bọc tại nhà vẫn đảm bảo chất lượng.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Rush ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Rush hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Rush ?" >}}
+    Thời gian may đệm ghế da xe Toyota Rush từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Rush tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Rush tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Rush" >}}
+    Không cần phải đo ghế Toyota Rush. Tất cả các đời xe Rush đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

@@ -44,16 +44,17 @@ Da giả simili thường phù hợp với các xe dùng cho dịch vụ hoặc 
 
 ## Câu hỏi thường gặp
 
-### Thời gian bọc ghế da Mirage là bao lâu?
-Không tính thời gian may, việc bọc ghế da Mirage mất khoảng 2.5 giờ đối với xe 05 chỗ.
-
-### Thời gian may ghế Mirage là bao lâu?
-Thời gian may đệm ghế da xe Mitsubishi Mirage từ khoảng 2.5 đến 4 giờ, tùy thuộc vào số lượng đơn hàng đã nhận.
-
-### Việc bọc ghế da Mirage tại nhà có đảm bảo không?
-Việc bọc ghế da ô tô Mirage tại nhà hoàn toàn đảm bảo chất lượng. Quá trình thi công yêu cầu tỉ mỉ và hoàn toàn được thực hiện thủ công.
-
-### Có cần phải đo ghế Mirage không?
-Không cần phải đo ghế xe Mitsubishi Mirage. Tất cả các mẫu xe Mirage đều đã có số đo sẵn.
-
-Lưu ý: Đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Mirage ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Mirage hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Mirage ?" >}}
+    Thời gian may đệm ghế da xe Mitsubishi Mirage từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Mirage tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Mirage tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Mirage" >}}
+    Không cần phải đo ghế Mitsubishi Mirage. Tất cả các đời xe Mirage đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

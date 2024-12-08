@@ -195,19 +195,21 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 
 ## Hỏi đáp bọc ghế da Focus
 
-### Thời gian bọc ghế da Focus?
+{{< accordion id="accordion-focus" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Focus ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Focus hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Focus ?" >}}
+    Thời gian may đệm ghế da xe Ford Focus từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Focus tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Focus tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Focus" >}}
+    Không cần phải đo ghế Ford Focus. Tất cả các đời xe Focus đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
 
-Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Focus hết khoảng 2.5 giờ với xe 05 chỗ.
-
-### Thời gian may ghế Focus?
-
-Thời gian may đệm ghế da xe Ford Focus từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
-
-### Bọc đệm ghế xe Focus tại nhà có đảm bảo?
-
-Bọc ghế da xe Focus tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
-
-### Có cần phải đo ghế Focus?
-
-Không cần phải đo ghế Ford Focus. Tất cả các đời xe Focus đã có số đo.
- 

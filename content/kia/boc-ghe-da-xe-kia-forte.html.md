@@ -109,16 +109,18 @@ Với hơn 10 năm kinh nghiệm trong ngành, chúng tôi tự may và bọc gh
 
 ## Hỏi đáp về việc bọc ghế da Forte
 
-### Thời gian bọc ghế da xe Forte?
-Khoảng 2.5 giờ cho xe 05 chỗ.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Kia Forte ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Kia Forte hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Kia Forte ?" >}}
+    Thời gian may đệm ghế da xe Kia Forte từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Kia Forte tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Kia Forte tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Kia Forte" >}}
+    Không cần phải đo ghế Kia Forte. Tất cả các đời xe Kia Forte đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
 
-### Thời gian may ghế xe Forte?
-Khoảng 2.5 - 4 giờ tùy số đơn hàng.
-
-### Bọc tại nhà có đảm bảo không?
-Đảm bảo chất lượng nhờ việc thi công tỉ mỉ thủ công.
-
-### Có cần đo ghế xe Forte không?
-Không cần đo, tất cả các đời xe đã có số đo. 
-
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết.

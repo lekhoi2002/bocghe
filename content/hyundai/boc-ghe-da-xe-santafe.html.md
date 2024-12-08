@@ -99,8 +99,22 @@ Tại xưởng may, luôn có sẵn đệm ghế da Santafe với các màu ph�
 
 ## Hỏi Đáp Bọc Ghế Da Santafe
 
-- **Thời gian bọc ghế**: Khoảng 2.5 giờ với xe 05 chỗ.
-- **Thời gian may ghế**: Từ 2.5 đến 4 giờ, tùy vào số đơn hàng.
-- **Bọc ghế tại nhà**: Đảm bảo chất lượng nhờ làm thủ công tỉ mỉ.
-- **Có cần đo ghế Santafe**: Không cần vì tất cả đời xe đã có số đo.
+{{< accordion id="accordion-hyundai-santafe" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Santafe ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Santafe hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Santafe ?" >}}
+    Thời gian may đệm ghế da xe Hyundai Santafe từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Santafe tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Santafe tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Santafe" >}}
+    Không cần phải đo ghế Hyundai Santafe. Tất cả các đời xe Santafe đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 

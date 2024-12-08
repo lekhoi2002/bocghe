@@ -135,4 +135,17 @@ Dù bọc tại nhà hay tại xưởng, chúng tôi đều cam kết đảm b�
 **Có cần phải đo ghế Outlander trước khi bọc không?**  
 Không cần, tất cả các đời xe Outlander đều đã có số đo chuẩn.
 
-Lưu ý: Hãy giữ nguyên định dạng markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Outlander ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Outlander hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Outlander ?" >}}
+    Thời gian may đệm ghế da xe Mitsubishi Outlander từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Outlander tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Outlander tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Outlander" >}}
+    Không cần phải đo ghế Mitsubishi Outlander. Tất cả các đời xe Outlander đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

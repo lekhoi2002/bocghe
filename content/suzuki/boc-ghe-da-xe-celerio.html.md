@@ -147,4 +147,17 @@ Với hơn 10 năm kinh nghiệm trong ngành may bọc ghế da ô tô, chúng 
 
 * Chọn phương pháp bọc tháo nỉ để đảm bảo đệm ghế căng và đẹp hơn.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Celerio ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Celerio hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Celerio ?" >}}
+    Thời gian may đệm ghế da xe Suzuki Celerio từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Celerio tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Celerio tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Celerio" >}}
+    Không cần phải đo ghế Suzuki Celerio. Tất cả các đời xe Celerio đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

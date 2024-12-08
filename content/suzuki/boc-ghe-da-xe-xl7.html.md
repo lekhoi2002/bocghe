@@ -118,20 +118,17 @@ Tại xưởng, chúng tôi luôn có sẵn đệm ghế da XL7 với các màu 
 
 ## Hỏi đáp về việc bọc ghế da XL7
 
-### Thời gian bọc ghế da XL7?
-
-Việc bọc ghế da XL7 mất khoảng 2.5 giờ cho xe 5 chỗ.
-
-### Thời gian may ghế XL7?
-
-Thời gian may đệm ghế da từ 2.5 giờ đến 4 giờ, tùy thuộc vào số đơn hàng.
-
-### Bọc đệm ghế xe XL7 tại nhà có đảm bảo không?
-
-Bọc ghế da tại nhà đảm bảo chất lượng, thực hiện thủ công bằng tay.
-
-### Có cần phải đo ghế XL7 không?
-
-Không cần phải đo ghế Suzuki XL7, tất cả các đời xe đã có số đo sẵn.
-
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da XL7 ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da XL7 hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế XL7 ?" >}}
+    Thời gian may đệm ghế da xe Suzuki XL7 từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe XL7 tại nhà có đảm bảo" >}}
+    Bọc ghế da xe XL7 tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế XL7" >}}
+    Không cần phải đo ghế Suzuki XL7. Tất cả các đời xe XL7 đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

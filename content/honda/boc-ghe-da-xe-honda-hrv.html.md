@@ -144,3 +144,23 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 ## Kinh nghiệm bọc ghế da ô tô Honda HRV
 
 - Để đảm bảo nhận được đúng chất lượng sản phẩm
+
+<h2>Hỏi đáp bọc ghế da Honda HRV</h2>
+
+{{< accordion id="accordion-honda-hrv" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Honda HRV ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Honda HRV hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Honda HRV ?" >}}
+    Thời gian may đệm ghế da xe Honda HRV từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Honda HRV tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Honda HRV tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Honda HRV" >}}
+    Không cần phải đo ghế Honda HRV. Tất cả các đời xe Honda HRV đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

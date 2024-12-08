@@ -176,21 +176,20 @@ B6: Chủ xe chọn bọc tại xưởng hoặc tại nhà (Miễn phí)
 B7: Tiến hành thi công, vệ sinh ghế da Captiva, kiểm tra cuối cùng  
 B8: Chủ xe kiểm tra và nhận bàn giao  
 
-## Hỏi đáp bọc ghế da Captiva
-
-### Thời gian bọc ghế da Captiva?
-
-Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Captiva hết khoảng 2.5 giờ với xe 05 chỗ.
-
-### Thời gian may ghế Captiva?
-
-Thời gian may đệm ghế da xe Chevrolet Captiva từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
-
-### Bọc đệm ghế xe Captiva tại nhà có đảm bảo?
-
-Bọc ghế da xe Captiva tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
-
-### Có cần phải đo ghế Captiva?
-
-Không cần phải đo ghế Chevrolet Captiva. Tất cả các đời xe Captiva đã có số đo.
- 
+{{< accordion id="accordion-captiva" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Captiva ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Captiva hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Captiva ?" >}}
+    Thời gian may đệm ghế da xe Chevrolet Captiva từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Captiva tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Captiva tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Captiva" >}}
+    Không cần phải đo ghế Chevrolet Captiva. Tất cả các đời xe Captiva đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

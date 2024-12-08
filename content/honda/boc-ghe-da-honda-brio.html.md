@@ -41,18 +41,20 @@ Hạn chế: Vẫn có chút mùi. Hết mùi sau 1 ngày sử dụng, Độ b�
 
 [...Tiếp tục với phần còn lại...]
 
-### FAQ
-
-#### Thời gian bọc ghế da Honda Brio ?
-Không tính thời gian may.Chỉ tính thời gian bọc. Bọc ghế da Honda Brio hết khoảng 2.5 giờ với xe 05 chỗ
-
-#### Thời gian may ghế Honda Brio ?
-Thời gian may đệm ghế da xe Honda Brio từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
-
-#### Bọc đệm ghế xe Honda Brio tại nhà có đảm bảo ?
-Bọc ghế da xe Honda Brio tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
-
-#### Có cần phải đo ghế Honda Brio ?
-Không cần phải đo ghế Honda Brio. Tất cả các đời xe Honda Brio đã có số đo.
-
-*Note: Tôi đã chuyển đổi một phần nội dung để bạn thấy cấu trúc. Bạn có muốn tôi tiếp tục chuyển đổi phần còn lại không?*
+{{< accordion id="accordion-honda-brio" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Honda Brio ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Honda Brio hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Honda Brio ?" >}}
+    Thời gian may đệm ghế da xe Honda Brio từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Honda Brio tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Honda Brio tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Honda Brio" >}}
+    Không cần phải đo ghế Honda Brio. Tất cả các đời xe Honda Brio đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

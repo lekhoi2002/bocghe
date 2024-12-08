@@ -148,19 +148,23 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 
 ## Hỏi đáp bọc ghế da i20
 
-### Thời gian bọc ghế da i20?
+{{< accordion id="accordion-hyundai-i20" >}}
+  {{< accordion-item header="Thời gian bọc ghế da i20 ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da i20 hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế i20 ?" >}}
+    Thời gian may đệm ghế da xe Hyundai i20 từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe i20 tại nhà có đảm bảo" >}}
+    Bọc ghế da xe i20 tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế i20" >}}
+    Không cần phải đo ghế Hyundai i20. Tất cả các đời xe i20 đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
 
-Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da i20 hết khoảng 2.5 giờ với xe 05 chỗ.
 
-### Thời gian may ghế i20?
-
-Thời gian may đệm ghế da xe Hyundai i20 từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
-
-### Bọc đệm ghế xe i20 tại nhà có đảm bảo?
-
-Bọc ghế da xe i20 tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
-
-### Có cần phải đo ghế i20?
-
-Không cần phải đo ghế Hyundai i20. Tất cả các đời xe i20 đã có số đo.
  

@@ -128,17 +128,22 @@ Với hơn 10 năm kinh nghiệm, chúng tôi cam kết chất lượng và giá
 - **B7**: Thi công, vệ sinh và kiểm tra ghế.
 - **B8**: Kiểm tra và bàn giao.
 
-## Hỏi đáp bọc ghế da Aveo
+{{< accordion id="accordion-aveo" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Aveo ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Aveo hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Aveo ?" >}}
+    Thời gian may đệm ghế da xe Chevrolet Aveo từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Aveo tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Aveo tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Aveo" >}}
+    Không cần phải đo ghế Chevrolet Aveo. Tất cả các đời xe Aveo đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
 
-### Thời gian bọc ghế da Aveo?
-Bọc ghế da Aveo mất khoảng 2.5 giờ cho xe 5 chỗ.
-
-### Thời gian may ghế Aveo?
-May đệm ghế da xe Aveo từ 2.5 giờ đến 4 giờ tùy vào số lượng đơn hàng.
-
-### Bọc đệm ghế tại nhà có đảm bảo không?
-Bọc tại nhà vẫn đảm bảo chất lượng do thi công thủ công tỉ mỉ.
-
-### Có cần phải đo ghế Aveo không?
-Không cần đo, tất cả các đời xe Aveo đã có số đo tiêu chuẩn.
  

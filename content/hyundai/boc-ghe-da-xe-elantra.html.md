@@ -100,6 +100,24 @@ Xưởng may luôn có sẵn các mẫu ghế da Elantra với màu phổ biến
 7. Thi công, vệ sinh ghế da Elantra, kiểm tra cuối cùng.
 8. Bàn giao sản phẩm.
 
----
+<h2>Hỏi đáp bọc ghế da Elantra</h2>
+
+{{< accordion id="accordion-honda-elantra" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Honda Elantra ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Honda Elantra hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Honda Elantra ?" >}}
+    Thời gian may đệm ghế da xe Hyundai Elantra từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Elantra tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Elantra tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàan làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Elantra" >}}
+    Không cần phải đo ghế Hyundai Elantra. Tất cả các đời xe Elantra đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
 
  

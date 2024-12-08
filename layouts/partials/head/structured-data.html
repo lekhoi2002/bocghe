@@ -34,14 +34,14 @@
       "name": "{{ .Site.Params.schema.name }}",
       "url": {{ print $baseURL }},
       "sameAs": {{ $alt | uniq | complement (slice "") }},
-      {{ if eq .Site.Params.schemaType "Organization" -}}
+      {{ if eq .Site.Params.schema.type "Organization" -}}
         "logo": {
           "@type": "ImageObject",
-          "@id": {{ print $baseURL "#/schema/image/1"}},
+          "@id": {{ print $baseURL "#/schema/image/1" }},
           "url": {{ print $baseURL .Site.Params.schema.logo.url }},
-          "width": {{- .Site.Params.schema.logo.width -}},
-          "height": {{- .Site.Params.schema.logo.height -}},
-          "caption": "{{- .Site.Params.schema.name -}}"
+          "width": {{ .Site.Params.schema.logo.width }},
+          "height": {{ .Site.Params.schema.logo.height }},
+          "caption": "{{ .Site.Params.schema.name }}"
         },
         "image": {
           "@id": {{ print $baseURL "#/schema/image/1" }}
@@ -49,11 +49,11 @@
       {{ else -}}
         "image": {
           "@type": "ImageObject",
-          "@id": {{ print $baseURL "#/schema/image/1"}},
+          "@id": {{ print $baseURL "#/schema/image/1" }},
           "url": {{ print $baseURL .Site.Params.schema.image.url }},
-          "width": {{- .Site.Params.schema.image.width -}},
-          "height": {{- .Site.Params.schema.image.height -}},
-          "caption": "{{- .Site.Params.schema.name -}}"
+          "width": {{ .Site.Params.schema.image.width }},
+          "height": {{ .Site.Params.schema.image.height }},
+          "caption": "{{ .Site.Params.schema.name }}"
         }
       {{ end -}}
     },
@@ -63,22 +63,12 @@
       "url": {{ print $baseURL }},
       "name": "{{ .Site.Title }}",
       "description": "{{ .Site.Params.main.description }}",
-      {{ if eq .Site.Params.schema.type "Organization" -}}
-        "publisher": {
-          "@id": {{ print $baseURL "#/schema/organization/1" }}
-        }
-      {{ else -}}
-        "publisher": {
-          "@id": {{ print $baseURL "#/schema/person/1" }}
-        }
-      {{ end -}}
+      "publisher": {
+        "@id": {{ if eq .Site.Params.schema.type "Organization" }}{{ print $baseURL "#/schema/organization/1" }}{{ else }}{{ print $baseURL "#/schema/person/1" }}{{ end }}
+      }
     },
     {
-      {{ if and (ne .Kind "taxonomy") (ne .Kind "term") -}}
-        "@type": "WebPage",
-      {{ else -}}
-        "@type": "CollectionPage",
-      {{ end -}}
+      "@type": "WebPage",
       "@id": {{ .Permalink }},
       "url": {{ .Permalink }},
       "name": "{{ .Title }}",
@@ -86,17 +76,11 @@
       "isPartOf": {
         "@id": {{ print $baseURL "#/schema/website/1" }}
       },
-      {{ if eq .Site.Params.schema.type "Organization" -}}
-        "about": {
-          "@id": {{ print $baseURL "#/schema/organization/1" }}
-        },
-      {{ else -}}
-        "about": {
-          "@id": {{ print $baseURL "#/schema/person/1" }}
-        },
-      {{ end -}}
-      {{ with .Date }}"datePublished": "{{ .Format "2006-01-02T15:04:05CET" }}",{{ end -}}
-      {{ with .Lastmod }}"dateModified": "{{ .Format "2006-01-02T15:04:05CET" }}",{{ end -}}
+      "about": {
+        "@id": {{ if eq .Site.Params.schema.type "Organization" }}{{ print $baseURL "#/schema/organization/1" }}{{ else }}{{ print $baseURL "#/schema/person/1" }}{{ end }}
+      },
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05CET" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05CET" }}",
       "breadcrumb": {
         "@id": {{ print .Permalink "#/schema/breadcrumb/1" }}
       },
@@ -105,99 +89,39 @@
       },
       "inLanguage": "{{ .Site.Params.schema.locale }}",
       "potentialAction": [{
-        "@type": "ReadAction", "target": [{{ .Permalink }}]
+        "@type": "ReadAction",
+        "target": [{{ .Permalink }}]
       }]
     },
     {
       "@type": "BreadcrumbList",
       "@id": {{ print .Permalink "#/schema/breadcrumb/1" }},
       "name": "Breadcrumbs",
-      "itemListElement": [{{ $list := $.Scratch.Get "breadcrumb" }}{{ $len := (len $list) }}{{ range $index, $element := $list }}{{ if ne .position 1 }},{{ end }}{
-        "@type": "ListItem",
-        "position": {{ .position }},
-        "item": {
-          {{ if ne (add $index 1) $len -}}
-          "@type": "WebPage",
-          "@id": {{ .url }},
-          "url": {{ .url }},
-          "name": "{{ .name | humanize | title }}"
-          {{ else -}}
-          "@id": {{ .url }}
-          {{ end -}}
-        }
-        }{{ end }}]
-    },
-
-    {{ if and (eq .Kind "page") (or (eq .Section "blog") (eq .Section "docs") (eq .Section "tutorial") (eq .Section "showcase")) -}}
-    {
-      "@context": "https://schema.org",
-      "@graph": [
+      "itemListElement": [
+        {{ $list := $.Scratch.Get "breadcrumb" }} 
+        {{ $len := (len $list) }} 
+        {{ range $index, $element := $list }} 
+        {{ if ne .position 1 }},{{ end }} 
         {
-          "@type": "Article",
-          "@id": {{ print $baseURL "#/schema/article/1" }},
-          "headline": "{{ .Title }}",
-          "description": "{{ .Description }}",
-          "isPartOf": {
-            "@id": {{ .Permalink }}
-          },
-          "mainEntityOfPage": {
-            "@id": {{ .Permalink }}
-          },
-          {{ with .Date }}"datePublished": "{{ .Format "2006-01-02T15:04:05CET" }}",{{ end -}}
-          {{ with .Lastmod }}"dateModified": "{{ .Format "2006-01-02T15:04:05CET" }}",{{ end -}}
-          "author": {
-            "@id": {{ print $baseURL "#/schema/person/2" }}
-          },
-          {{ if eq .Site.Params.schema.type "Organization" -}}
-            "publisher": {
-              "@id": {{ print $baseURL "#/schema/organization/1" }}
-            },
-          {{ else -}}
-            "publisher": {
-              "@id": {{ print $baseURL "#/schema/person/1" }}
-            },
-          {{ end -}}
-          "image": {
-            "@id": {{ print .Permalink "#/schema/image/2" }}
+          "@type": "ListItem",
+          "position": {{ .position }},
+          "item": {
+            "@type": "WebPage",
+            "@id": {{ .url }},
+            "url": {{ .url }},
+            "name": "{{ .name | humanize | title }}"
           }
-        }
+        } 
+        {{ end }}
       ]
     },
     {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Person",
-          "@id": {{ print $baseURL "#/schema/person/2" }},
-          "name": {{ .Site.Params.schema.author.name }},
-          "sameAs": [
-            {{ with .Site.Params.schema.author.twitter -}}
-            {{ . }}
-            {{ end -}}
-            {{ with .Site.Params.schema.author.linkedin -}}
-            , {{ . }}
-            {{ end -}}
-            {{ with .Site.Params.schema.author.github -}}
-            , {{ . }}
-            {{ end -}}
-          ]
-        }
-      ]
-    },
-    {{ end -}}
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "ImageObject",
-          "@id": {{ print .Permalink "#/schema/image/2" }},
-          "url": {{ $.Scratch.Get "thumbnail" }},
-          "contentUrl": {{ $.Scratch.Get "thumbnail" }},
-          "caption": "{{ $.Scratch.Get "title" }}"
-        }
-      ]
+      "@type": "ImageObject",
+      "@id": {{ print .Permalink "#/schema/image/2" }},
+      "url": {{ $.Scratch.Get "thumbnail" }},
+      "contentUrl": {{ $.Scratch.Get "thumbnail" }},
+      "caption": "{{ $.Scratch.Get "title" }}"
     }
-
   ]
 }
 </script>

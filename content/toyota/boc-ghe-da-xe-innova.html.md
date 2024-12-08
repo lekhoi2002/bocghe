@@ -99,3 +99,18 @@ Tại xưởng may, chúng tôi có sẵn các màu da ghế Innova phổ biến
 - Hãy cẩn thận khi chọn loại da, bạn có thể yêu cầu mẫu thử để so sánh.
 
 Với hơn 10 năm kinh nghiệm trong lĩnh vực may và bọc ghế da ô tô, chúng tôi cam kết mang đến dịch vụ chất lượng cao với giá thành rẻ nhất.
+
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Innova ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Innova hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Innova ?" >}}
+    Thời gian may đệm ghế da xe Toyota Innova từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Innova tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Innova tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Innova" >}}
+    Không cần phải đo ghế Toyota Innova. Tất cả các đời xe Innova đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

@@ -124,16 +124,17 @@ Với hơn 10 năm kinh nghiệm, chúng tôi cam kết sản phẩm chất lư�
 
 ## Hỏi đáp về việc bọc ghế da Mazda CX5
 
-### Thời gian bọc ghế da Mazda CX5 mất bao lâu?
-Việc bọc ghế da Mazda CX5 mất khoảng 2.5 giờ cho xe 5 chỗ.
-
-### Thời gian may ghế Mazda CX5 mất bao lâu?
-Thời gian may đệm ghế từ 2.5 đến 4 giờ tùy theo số đơn hàng.
-
-### Bọc đệm ghế Mazda CX5 tại nhà có đảm bảo không?
-Việc bọc tại nhà vẫn đảm bảo chất lượng nhờ công việc thi công tỉ mỉ và thủ công.
-
-### Có cần phải đo ghế Mazda CX5 không?
-Không cần đo ghế, tất cả các đời xe Mazda CX5 đều có số đo sẵn.
-
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Mazda CX5 ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Mazda CX5 hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Mazda CX5 ?" >}}
+    Thời gian may đệm ghế da xe Mazda CX5 từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Mazda CX5 tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Mazda CX5 tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Mazda CX5" >}}
+    Không cần phải đo ghế Mazda CX5. Tất cả các đời xe Mazda CX5 đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

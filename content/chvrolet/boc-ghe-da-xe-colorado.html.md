@@ -124,17 +124,22 @@ Với hơn 10 năm kinh nghiệm, chúng tôi cam kết sản phẩm chất lư�
 - **B7**: Thi công, vệ sinh và kiểm tra ghế.
 - **B8**: Kiểm tra và bàn giao.
 
-## Hỏi đáp bọc ghế da Colorado
+{{< accordion id="accordion-colorado" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Colorado ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Colorado hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Colorado ?" >}}
+    Thời gian may đệm ghế da xe Chevrolet Colorado từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Colorado tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Colorado tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Colorado" >}}
+    Không cần phải đo ghế Chevrolet Colorado. Tất cả các đời xe Colorado đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
 
-### Thời gian bọc ghế da Colorado?
-Thời gian bọc khoảng 2.5 giờ cho xe 5 chỗ.
-
-### Thời gian may ghế Colorado?
-Thời gian may đệm ghế từ 2.5 giờ đến 4 giờ tùy vào số lượng đơn hàng.
-
-### Bọc đệm ghế tại nhà có đảm bảo không?
-Bọc tại nhà vẫn đảm bảo chất lượng do thi công thủ công tỉ mỉ.
-
-### Có cần phải đo ghế Colorado không?
-Không cần đo, tất cả các đời xe Colorado đã có số đo tiêu chuẩn.
  

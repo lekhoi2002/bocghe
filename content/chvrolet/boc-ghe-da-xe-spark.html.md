@@ -148,3 +148,21 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 - Chọn cách bọc tháo nỉ căng đẹp hơn 
 - Chọn bọc ghế Spark tại nhà đỡ mất công đi lại
 - Cùng chất liệu bọc
+
+{{< accordion id="accordion-spark" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Spark ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Spark hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Spark ?" >}}
+    Thời gian may đệm ghế da xe Chevrolet Spark từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Spark tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Spark tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Spark" >}}
+    Không cần phải đo ghế Chevrolet Spark. Tất cả các đời xe Spark đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

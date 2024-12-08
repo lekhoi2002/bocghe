@@ -145,4 +145,17 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 * Để đảm bảo nhận được đúng chất lượng sản phẩm, quyền lợi đệm ghế da Wigo chủ xe mong muốn. Chủ xe nên lưu ý
 * Chọn cách bọc tháo nỉ
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Wigo ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Wigo hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Wigo ?" >}}
+    Thời gian may đệm ghế da xe Toyota Wigo từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Wigo tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Wigo tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Wigo" >}}
+    Không cần phải đo ghế Toyota Wigo. Tất cả các đời xe Wigo đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

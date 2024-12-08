@@ -140,20 +140,17 @@ Với kinh nghiệm hơn 10 năm, xưởng cam kết chất lượng cao với g
 
 ## Hỏi đáp bọc ghế da Vitara
 
-### Thời gian bọc ghế da Vitara?
-
-Không tính thời gian may, chỉ thời gian bọc khoảng 2.5 giờ với xe 5 chỗ.
-
-### Thời gian may ghế Vitara?
-
-Thời gian may đệm ghế từ 2.5 đến 4 giờ, tùy số đơn hàng.
-
-### Bọc đệm ghế xe Vitara tại nhà có đảm bảo không?
-
-Bọc tại nhà đảm bảo chất lượng, quy trình thi công thủ công, tỉ mỉ.
-
-### Có cần đo ghế Vitara không?
-
-Không cần đo, tất cả các đời xe Vitara đã có số đo sẵn.
-
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Vitara ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Vitara hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Vitara ?" >}}
+    Thời gian may đệm ghế da xe Suzuki Vitara từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Vitara tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Vitara tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Vitara" >}}
+    Không cần phải đo ghế Suzuki Vitara. Tất cả các đời xe Vitara đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

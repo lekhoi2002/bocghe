@@ -145,4 +145,18 @@ Với hơn 10 năm kinh nghiệm trong việc may và bọc ghế da ô tô, ch�
 - Đảm bảo nhận được chất lượng sản phẩm mong muốn và quyền lợi, chủ xe nên chọn phương pháp bọc tháo nỉ vì nó sẽ tạo ra kết quả căng và đẹp hơn.
 - Chọn dịch vụ bọc ghế Pajero tại nhà để tiết kiệm thời gian và công sức.
 
-Chú ý: Hãy đảm bảo giữ nguyên định dạng markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Pajero ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Pajero hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Pajero ?" >}}
+    Thời gian may đệm ghế da xe Mitsubishi Pajero từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Pajero tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Pajero tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Pajero" >}}
+    Không cần phải đo ghế Mitsubishi Pajero. Tất cả các đời xe Pajero đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+

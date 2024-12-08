@@ -41,16 +41,20 @@ Giả da simili thường thích hợp với các xe chạy dịch vụ hoặc v
 
 [Nội dung tiếp theo...]
 
-## FAQ
-
-### Thời gian bọc ghế da Honda CRV ?
-Không tính thời gian may.Chỉ tính thời gian bọc. Bọc ghế da Honda CRV hết khoảng 2.5 giờ với xe 05 chỗ
-
-### Thời gian may ghế Honda CRV ?
-Thời gian may đệm ghế da xe Honda CRV từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
-
-### Bọc đệm ghế xe Honda CRV tại nhà có đảm bảo
-Bọc ghế da xe Honda CRV tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
-
-### Có cần phải đo ghế Honda CRV
-Không cần phải đo ghế Honda CRV. Tất cả các đời xe Honda CRV đã có số đo.
+{{< accordion id="accordion-honda-crv" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Honda CRV ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Honda CRV hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Honda CRV ?" >}}
+    Thời gian may đệm ghế da xe Honda CRV từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Honda CRV tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Honda CRV tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Honda CRV" >}}
+    Không cần phải đo ghế Honda CRV. Tất cả các đời xe Honda CRV đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

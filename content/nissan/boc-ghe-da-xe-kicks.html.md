@@ -122,9 +122,17 @@ Xưởng may có sẵn các màu cơ bản của đệm ghế Kicks. Chủ xe c�
 
 ## Hỏi đáp về việc bọc ghế da Kicks
 
-- **Thời gian bọc ghế da Kicks**: Khoảng 2.5 giờ cho xe 05 chỗ.
-- **Thời gian may ghế Kicks**: Từ 2.5 đến 4 giờ, tùy số đơn hàng.
-- **Bọc đệm ghế xe Kicks tại nhà có đảm bảo không?**: Vẫn đảm bảo chất lượng, thi công tỉ mỉ và thủ công.
-- **Có cần đo ghế Kicks không?**: Không cần, tất cả các đời xe Kicks đã có số đo.
-
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Kicks ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Kicks hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Kicks ?" >}}
+    Thời gian may đệm ghế da xe Nissan Kicks từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Kicks tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Kicks tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Kicks" >}}
+    Không cần phải đo ghế Nissan Kicks. Tất cả các đời xe Kicks đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

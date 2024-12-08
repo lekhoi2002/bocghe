@@ -276,3 +276,4 @@
     frame-src = ["player.vimeo.com"]
     img-src = ["i.vimeocdn.com"]
     script-src = ["player.vimeo.com"]
+ignoreLogs = ["warning-goldmark-raw-html"]

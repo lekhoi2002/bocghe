@@ -71,4 +71,17 @@ Với hơn 10 năm kinh nghiệm, xưởng may của chúng tôi tự hào cung 
 - Chọn phương pháp bọc sau khi tháo nỉ để có ghế đẹp và bền hơn.
 - Chọn loại da phù hợp với nhu cầu sử dụng và tài chính của bạn.
 
-Lưu ý: Đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Xpander ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Xpander hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Xpander ?" >}}
+    Thời gian may đệm ghế da xe Mitsubishi Xpander từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Xpander tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Xpander tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Xpander" >}}
+    Không cần phải đo ghế Mitsubishi Xpander. Tất cả các đời xe Xpander đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

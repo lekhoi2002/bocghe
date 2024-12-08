@@ -151,4 +151,17 @@ Với hơn 10 năm kinh nghiệm trong nghề may và bọc ghế da ô tô, ch�
 2. Miễn phí chi phí bọc ghế xe Sunny tại nhà.
 3. Miễn phí bọc tappi, hộ.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Sunny ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Sunny hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Sunny ?" >}}
+    Thời gian may đệm ghế da xe Nissan Sunny từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Sunny tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Sunny tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Sunny" >}}
+    Không cần phải đo ghế Nissan Sunny. Tất cả các đời xe Sunny đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

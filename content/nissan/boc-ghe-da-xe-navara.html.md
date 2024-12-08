@@ -110,9 +110,17 @@ Với kinh nghiệm hơn 10 năm, xưởng cam kết sản phẩm chất lượn
 8. Kiểm tra và nhận bàn giao
 
 ## Các câu hỏi thường gặp khi bọc ghế da Navara
-- **Thời gian bọc ghế da Navara?** Khoảng 2.5 giờ cho xe 05 chỗ
-- **Thời gian may ghế Navara?** Từ 2.5 đến 4 giờ, tùy theo số lượng đơn hàng
-- **Bọc đệm ghế tại nhà có đảm bảo?** Đảm bảo chất lượng, hoàn toàn làm thủ công
-- **Có cần đo ghế Navara?** Không, tất cả các đời xe Navara đã có số đo
-
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Navara ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Navara hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Navara ?" >}}
+    Thời gian may đệm ghế da xe Nissan Navara từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Navara tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Navara tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Navara" >}}
+    Không cần phải đo ghế Nissan Navara. Tất cả các đời xe Navara đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

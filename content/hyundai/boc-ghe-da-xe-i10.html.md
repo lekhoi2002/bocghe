@@ -146,3 +146,22 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 * Chọn cách bọc tháo nỉ căng đẹp hơn  
 * Chọn bọc ghế i10 tại nhà đỡ mất công đi lại
 * Cùng chất liệu bọc ghế da Hyundai i10 tại cửa hàng nội thất rẻ
+
+{{< accordion id="accordion-hyundai-i10" >}}
+  {{< accordion-item header="Thời gian bọc ghế da i10 ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da i10 hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế i10 ?" >}}
+    Thời gian may đệm ghế da xe Hyundai i10 từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe i10 tại nhà có đảm bảo" >}}
+    Bọc ghế da xe i10 tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế i10" >}}
+    Không cần phải đo ghế Hyundai i10. Tất cả các đời xe i10 đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+

@@ -115,16 +115,17 @@ Tại xưởng may, luôn có đệm ghế da Ertiga may sẵn với các màu p
 
 ## Hỏi Đáp Về Bọc Ghế Da Ertiga
 
-### Thời gian bọc ghế da Ertiga?
-Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Ertiga hết khoảng 2.5 giờ với xe 05 chỗ.
-
-### Thời gian may ghế Ertiga?
-Thời gian may đệm ghế da xe Suzuki Ertiga từ 2.5 giờ đến 04 giờ, tùy thuộc vào số đơn hàng đã nhận.
-
-### Có chất lượng khi bọc ghế da Ertiga tại nhà không?
-Dù là tại nhà, việc bọc ghế da xe Ertiga vẫn đảm bảo chất lượng, với toàn bộ công việc được thực hiện thủ công.
-
-### Có cần phải đo ghế Ertiga?
-Không cần phải đo ghế Suzuki Ertiga. Tất cả các đời xe Ertiga đều có sẵn kích thước.
-
-Lưu ý: Hãy giữ nguyên format Markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Ertiga ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Ertiga hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Ertiga ?" >}}
+    Thời gian may đệm ghế da xe Suzuki Ertiga từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Ertiga tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Ertiga tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Ertiga" >}}
+    Không cần phải đo ghế Suzuki Ertiga. Tất cả các đời xe Ertiga đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

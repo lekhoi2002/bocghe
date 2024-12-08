@@ -128,3 +128,18 @@ Với hơn 10 năm kinh nghiệm trong nghề may bọc ghế da ô tô, chúng 
 - Để đảm bảo nhận được đúng chất lượng sản phẩm, quyền lợi đệm ghế da Cerato chủ xe mong muốn. Chủ xe nên lưu ý:
 - Chọn cách bọc tháo nỉ để có kết quả bọc đẹp hơn
 - Chọn bọc ghế Cerato tại nhà để tiết kiệm thời g
+
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Kia Cerato ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Kia Cerato hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Kia Cerato ?" >}}
+    Thời gian may đệm ghế da xe Kia Cerato từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Kia Cerato tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Kia Cerato tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Kia Cerato" >}}
+    Không cần phải đo ghế Kia Cerato. Tất cả các đời xe Cerato đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

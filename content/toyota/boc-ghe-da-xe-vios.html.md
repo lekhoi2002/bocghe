@@ -72,4 +72,17 @@ Nếu bạn muốn chọn bọc ghế da Vios tại xưởng may, Bocgheoto.vn c
 
 Để đảm bảo nhận được sản phẩm và dịch vụ tốt nhất, chúng tôi khuyên bạn nên chọn cách bọc tháo nỉ để có kết quả đẹp hơn, dùng dịch vụ bọc ghế tại nhà để tiết kiệm thời gian và so sánh giá cả giữa các cửa hàng nội thất và hãng, đại lý để đảm bảo bạn nhận được giá tốt nhất.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Vios ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Vios hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Vios ?" >}}
+    Thời gian may đệm ghế da xe Toyota Vios từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Vios tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Vios tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Vios" >}}
+    Không cần phải đo ghế Toyota Vios. Tất cả các đời xe Vios đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

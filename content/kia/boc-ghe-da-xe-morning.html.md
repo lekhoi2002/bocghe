@@ -122,3 +122,18 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô, chúng 
 Để đảm bảo nhận được đúng chất lượng sản phẩm, quyền lợi đệm ghế da Morning, chúng tôi khuyên bạn nên chọn cách bọc tháo nỉ và bọc ghế Morning tại nhà.
 
 Vui lòng giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Kia Morning ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Kia Morning hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Kia Morning ?" >}}
+    Thời gian may đệm ghế da xe Kia Morning từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Kia Morning tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Kia Morning tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Kia Morning" >}}
+    Không cần phải đo ghế Kia Morning. Tất cả các đời xe Kia Morning đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

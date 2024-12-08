@@ -146,6 +146,18 @@ Với kinh nghiệm hơn 10 năm trong nghề may và bọc ghế da ô tô, ch�
 - Bọc ghế da Toyota Camry tại cửa hàng nội thất sẽ rẻ hơn so với bọc trong hãng, đại lý.
 - Bọc ghế Camry tại xưởng may sẽ rẻ hơn cửa hàng nội thất.
 - Bọc ghế da tại xưởng may sẽ đảm bảo hơn các địa chỉ khác.
-- Các loại da có.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Camry ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Camry hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Camry ?" >}}
+    Thời gian may đệm ghế da xe Toyota Camry từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Camry tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Camry tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Camry" >}}
+    Không cần phải đo ghế Toyota Camry. Tất cả các đời xe Camry đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

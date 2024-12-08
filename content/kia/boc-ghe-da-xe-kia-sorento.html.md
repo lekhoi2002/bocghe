@@ -139,3 +139,21 @@ Với kinh nghiệm hơn 10 năm trong lĩnh vực may bọc ghế da ô tô, ch
 * Để đảm bảo nhận được sản phẩm đú...
 
 Chú ý: Vui lòng giữ nguyên format markdown và các liên kết. Hãy trả về toàn bộ nội dung đã được viết lại.
+
+{{< accordion id="accordion-kia-sorento" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Kia Sorento ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Kia Sorento hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Kia Sorento ?" >}}
+    Thời gian may đệm ghế da xe Hyundai Santafe từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Santafe tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Santafe tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Santafe" >}}
+    Không cần phải đo ghế Hyundai Santafe. Tất cả các đời xe Santafe đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

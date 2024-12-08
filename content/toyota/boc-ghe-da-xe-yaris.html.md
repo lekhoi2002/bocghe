@@ -105,3 +105,18 @@ Tại xưởng của chúng tôi, luôn có sẵn mẫu ghế da Yaris với cá
 - **Thời gian may ghế Yaris:** Từ 2.5 giờ đến 4 giờ.
 - **Bọc ghế tại nhà có đảm bảo không?** Hoàn toàn đảm bảo chất lượng.
 - **Có cần đo ghế Yaris không?** Không cần, đã có số đo chuẩn cho mọi đời xe.
+
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Yaris ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Yaris hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Yaris ?" >}}
+    Thời gian may đệm ghế da xe Toyota Yaris từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Yaris tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Yaris tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Yaris" >}}
+    Không cần phải đo ghế Toyota Yaris. Tất cả các đời xe Yaris đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

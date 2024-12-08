@@ -94,8 +94,17 @@ Với hơn 10 năm kinh nghiệm, chúng tôi cam kết chất lượng cao vớ
 4. Thi công, vệ sinh ghế và kiểm tra cuối cùng
 
 ## Hỏi Đáp Về Việc Bọc Ghế Da Swift
-- **Thời gian bọc ghế da Swift?** Khoảng 2.5 giờ cho xe 5 chỗ
-- **Thời gian may ghế Swift?** Từ 2.5 đến 4 giờ tùy vào đơn hàng
-- **Có cần đo ghế Swift không?** Không cần, tất cả các mẫu xe đã có số đo
-
-Lưu ý: Vui lòng giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Swift ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Swift hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Swift ?" >}}
+    Thời gian may đệm ghế da xe Suzuki Swift từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Swift tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Swift tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Swift" >}}
+    Không cần phải đo ghế Suzuki Swift. Tất cả các đời xe Swift đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

@@ -109,7 +109,17 @@ Với hơn 10 năm kinh nghiệm trong nghề, chúng tôi cam kết chất lư�
 
 ## Các Câu Hỏi Thường Gặp Về Dịch Vụ Bọc Ghế Da Attrage
 
-- **Thời gian bọc**: Khoảng 2.5 giờ cho xe 5 chỗ.
-- **Thời gian may ghế**: Tùy thuộc vào số lượng đơn hàng.
-
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Attrage ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Attrage hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Attrage ?" >}}
+    Thời gian may đệm ghế da xe Mitsubishi Attrage từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Attrage tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Attrage tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Attrage" >}}
+    Không cần phải đo ghế Mitsubishi Attrage. Tất cả các đời xe Attrage đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

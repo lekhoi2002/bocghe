@@ -147,3 +147,21 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 * Chọn bọc ghế Accent tại nhà đỡ mất công đi lại
 * Cùng chất liệu bọc ghế da Hyundai Accent tại cửa hàng nội thất rẻ hơn bọc trong hãng, đại lý
 * Cùng chất liệu Bọc ghế Accent tại xưởng may
+
+{{< accordion id="accordion-honda-accent" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Accent ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Accent hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Accent ?" >}}
+    Thời gian may đệm ghế da xe Hyundai Accent từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Accent tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Accent tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Accent" >}}
+    Không cần phải đo ghế Hyundai Accent. Tất cả các đời xe Accent đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

@@ -101,4 +101,17 @@ Dịch vụ bọc ghế tại nhà của chúng tôi vẫn đảm bảo chất l
 ### Có cần phải đo ghế Hilux không?
 Không cần, tất cả các mẫu xe Hilux đã có số đo chuẩn.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và tất cả các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Hilux ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Hilux hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Hilux ?" >}}
+    Thời gian may đệm ghế da xe Toyota Hilux từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Hilux tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Hilux tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Hilux" >}}
+    Không cần phải đo ghế Toyota Hilux. Tất cả các đời xe Hilux đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

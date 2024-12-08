@@ -147,4 +147,22 @@ Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô. Trực 
 * Để đảm bảo nhận được đúng chất lượng sản phẩm, quyền lợi đệm ghế da Escape chủ xe mong muốn. Chủ xe nên lưu ý
 * Chọn cách bọc tháo nỉ căng đẹp hơn
 * Chọn bọc ghế Escape tại nhà đỡ mất công đi lại 
-* Cùng chất liệu bọc ghế da Ford Escape tại cửa hàng nội thất rẻ hơn bọc trong h
+* Cùng chất liệu bọc ghế da Ford Escape tại cửa hàng nội thất rẻ hơn bọc trong hãng
+
+{{< accordion id="accordion-escape" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Escape ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Escape hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Escape ?" >}}
+    Thời gian may đệm ghế da xe Ford Escape từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Escape tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Escape tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Escape" >}}
+    Không cần phải đo ghế Ford Escape. Tất cả các đời xe Escape đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

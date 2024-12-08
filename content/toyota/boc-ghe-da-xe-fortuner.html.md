@@ -133,4 +133,17 @@ Dịch vụ bọc ghế da xe Fortuner tại nhà cam kết chất lượng, ho�
 ### Có cần phải đo ghế Fortuner?
 Không cần phải đo ghế Toyota Fortuner. Tất cả các đời xe Fortuner đã có số đo chuẩn.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Fortuner ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Fortuner hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Fortuner ?" >}}
+    Thời gian may đệm ghế da xe Toyota Fortuner từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Fortuner tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Fortuner tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Fortuner" >}}
+    Không cần phải đo ghế Toyota Fortuner. Tất cả các đời xe Fortuner đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

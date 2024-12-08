@@ -71,4 +71,17 @@ Quy trình bọc ghế da ô tô Almera bao gồm một số bước từ tư v�
 
 Có một số câu hỏi thường gặp về việc bọc ghế da Almera, bao gồm thời gian cần thiết, quy trình may, và liệu có thể bọc tại nhà hay không.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết. Trả về toàn bộ nội dung đã được viết lại.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Almera ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Almera hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Almera ?" >}}
+    Thời gian may đệm ghế da xe Nissan Almera từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Almera tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Almera tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Almera" >}}
+    Không cần phải đo ghế Nissan Almera. Tất cả các đời xe Almera đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

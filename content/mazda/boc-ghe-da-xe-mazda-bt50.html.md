@@ -142,4 +142,17 @@ Trong trường hợp chủ xe muốn trực tiếp cắt may theo yêu cầu, t
 
 Với kinh nghiệm hơn 10 năm trong nghề may bọc ghế da ô tô, trực tiếp may và trực tiếp bọc, với cùng chất liệu da, chúng tôi cam kết sản phẩm chất lượng cao với giá thành rẻ nhất. Cùng các chương trình khuyến mãi giảm giá.
 
-Lưu ý: Hãy đảm bảo giữ nguyên format markdown và các liên kết.
+{{< accordion id="accordion-default" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Mazda BT50 ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Mazda BT50 hết khoảng 2.5 giờ với xe 05 chỗ
+  {{< /accordion-item >}}
+  {{< accordion-item header="Thời gian may ghế Mazda BT50 ?" >}}
+    Thời gian may đệm ghế da xe Mazda BT50 từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận
+  {{< /accordion-item >}}
+  {{< accordion-item header="Bọc đệm ghế xe Mazda BT50 tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Mazda BT50 tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  {{< accordion-item header="Có cần phải đo ghế Mazda BT50" >}}
+    Không cần phải đo ghế Mazda BT50. Tất cả các đời xe Mazda BT50 đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

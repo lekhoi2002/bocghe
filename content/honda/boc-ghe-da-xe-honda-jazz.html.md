@@ -87,3 +87,21 @@ Bọc tháo nỉ hay còn gọi là cách bọc kẹp chết. Tháo bộ nỉ, d
 
 ## Bọc ghế da Honda JAZZ tại nhà tại hà nội
 Quy trình bọc ghế da Honda JAZZ tại nhà. Gồm 02 bước cơ bản: Thợ mang mẫu tận nơi tư vấn và quay lại bọc sau khi đã cắt may xong đệm ghế da Honda JAZZ
+
+{{< accordion id="accordion-honda-jazz" >}}
+  {{< accordion-item header="Thời gian bọc ghế da Honda JAZZ ?" show="true" >}}
+    Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Honda JAZZ hết khoảng 2.5 giờ với xe 05 chỗ.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Thời gian may ghế Honda JAZZ ?" >}}
+    Thời gian may đệm ghế da xe Honda JAZZ từ 2.5 giờ đến 04 giờ. Tùy thuộc vào số đơn hàng đã nhận.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Bọc đệm ghế xe Honda JAZZ tại nhà có đảm bảo" >}}
+    Bọc ghế da xe Honda JAZZ tại nhà vẫn đảm bảo chất lượng. Do quá trình thi công yêu cầu tỉ mỉ nên hoàn toàn làm thủ công bằng tay.
+  {{< /accordion-item >}}
+  
+  {{< accordion-item header="Có cần phải đo ghế Honda JAZZ" >}}
+    Không cần phải đo ghế Honda JAZZ. Tất cả các đời xe Honda JAZZ đã có số đo.
+  {{< /accordion-item >}}
+{{< /accordion >}}

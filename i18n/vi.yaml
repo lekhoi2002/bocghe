@@ -2,9 +2,9 @@
 - id: postedOnDate
   translation: "Đăng ngày {{ . }}"
 - id: lastModified
-  translation: "Cập nhật lần cuối {{ . }}"
+  translation: "Cập nhật {{ . }}"
 - id: read
-  translation: "Thời gian đọc"
+  translation: "đọc"
 - id: minutesShort
   translation: "phút"
 - id: words
@@ -78,7 +78,7 @@
 - id: toggleMainNav
   translation: "Hiện hoặc ẩn menu chính"
 - id: home
-  translation: "Trang chủ"
+  translation: "Home"
 - id: languageSwitcherLabel
   translation: "Ngôn ngữ"
 - id: close
@@ -114,7 +114,7 @@
 - id: pageNotFoundTitle
   translation: "Không tìm thấy"
 - id: pageNotFoundHome
-  translation: "trang chủ"
+  translation: "Home"
 
 # Footer
 - id: copyright

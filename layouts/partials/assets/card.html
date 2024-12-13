@@ -223,7 +223,7 @@
     {{ $overlay := eq $orientation "overlay" }}
     <div class="card {{ $colorStyle }} {{ $class }} text-{{ $align }}">
         {{- if $thumbnail -}}
-            {{- partial $hook (dict "url" $thumbnail "ratio" (or $ratio "16x9") "portrait" $portrait "anchor" $anchor "sizes" $sizes "wrapper" "card-img-wrap" "class" "card-img-top card-img-bg" "title" (or $alt $title) "loading" $loading) -}}
+            {{- partial $hook (dict "url" $thumbnail "ratio" (or $ratio "4x3") "portrait" $portrait "anchor" $anchor "sizes" $sizes "wrapper" "card-img-wrap" "class" "card-img-top card-img-bg" "title" (or $alt $title) "loading" $loading) -}}
         {{- else if $icon -}}
             <div class="card-icon p-{{ $padding }} {{ $iconStyle }} text-{{ $align }} {{ if $iconRounded }}fa-stack {{ $stack }}{{ end }} w-100">
                 {{ if $iconRounded }}

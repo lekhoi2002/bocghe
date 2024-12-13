@@ -3,23 +3,32 @@
 
 <div class="container gallery-container">
     {{ $path := .Get 0 }}
+    {{ $columns := .Get 1 | default 2 }}
     {{ $images := slice }}
     {{ $albumMetadata := "" }}
+
     {{ if (fileExists (print "assets/img/" $path)) }}
         {{ $images = readDir (print "assets/img/" $path) }}
         {{ if (fileExists (print "assets/img/" $path "/album.txt")) }}
             {{ $albumMetadata = readFile (print "assets/img/" $path "/album.txt") }}
         {{ end }}
     {{ end }}
+
     {{ if gt (len $images) 0 }}
-        <div class="row row-cols-{{ .Get 1 | default 2 }} g-3">
+        <div class="row row-cols-{{ $columns }} g-3">
             {{ range $index, $image := $images }}
                 {{ $ext := lower (path.Ext $image.Name) }}
                 {{ if in (slice ".jpg" ".jpeg" ".png" ".webp") $ext }}
                     {{ $imagePath := printf "img/%s/%s" $path $image.Name }}
                     {{ $imageResource := resources.Get $imagePath }}
-                    {{ $thumbnail := $imageResource.Resize "400x267 webp" }}
-                    {{ $original := $imageResource.Resize "800x webp" }}
+
+                    {{/* Xác định kích thước thumbnail tùy theo số cột */}}
+                    {{ $thumbnailSize := cond (eq $columns 1) "768x webp" "400x300 webp" }}
+                    {{ $thumbnail := $imageResource.Resize $thumbnailSize }}
+
+                    {{/* Ảnh phóng to là ảnh gốc (không resize) */}}
+                    {{ $original := $imageResource }}
+
                     {{ $title := $image.Name }}
                     {{ $caption := $image.Name }}
                     {{ if and $albumMetadata (lt $index (len (split $albumMetadata "\n"))) }}
@@ -32,6 +41,7 @@
                             {{ end }}
                         {{ end }}
                     {{ end }}
+                    
                     <div class="col">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#imageModal"
                            data-image="{{ $original.RelPermalink }}"
@@ -48,7 +58,7 @@
             {{ end }}
         </div>
 
-        <!-- Modal (Tái sử dụng một modal duy nhất cho tất cả hình ảnh) -->
+        <!-- Modal -->
         <div class="modal fade" id="imageModal" tabindex="-1" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered modal-lg">
                 <div class="modal-content">

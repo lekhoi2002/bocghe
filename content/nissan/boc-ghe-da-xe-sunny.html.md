@@ -149,7 +149,7 @@ Với hơn 10 năm kinh nghiệm trong nghề may và bọc ghế da ô tô, ch�
 
 1. Miễn phí tư vấn tận nhà tại Hà Nội.
 2. Miễn phí chi phí bọc ghế xe Sunny tại nhà.
-3. Miễn phí bọc tappi, hộ.
+3. Miễn phí bọc tappi
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item header="Thời gian bọc ghế da Sunny ?" show="true" >}}

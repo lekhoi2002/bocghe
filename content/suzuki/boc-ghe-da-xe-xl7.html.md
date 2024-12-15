@@ -132,3 +132,8 @@ Tại xưởng, chúng tôi luôn có sẵn đệm ghế da XL7 với các màu 
     Không cần phải đo ghế Suzuki XL7. Tất cả các đời xe XL7 đã có số đo.
   {{< /accordion-item >}}
 {{< /accordion >}}
+
+✨ **Xưởng May Ghế Da Ô Tô Toàn Tâm - Tư Vấn Bọc Tận Nhà** ✨  
+📱 **Hotline / Zalo**: **0977233033**  
+📍 **CS1**: 75/219 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội  
+📍 **CS2**: Dốc Hạ Dương, Dương Hà, Gia Lâm, Hà Nội

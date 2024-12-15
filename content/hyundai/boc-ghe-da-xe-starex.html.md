@@ -173,3 +173,8 @@ Bọc ghế da xe Starex tại nhà vẫn đảm bảo chất lượng. Do quá 
 
 ### Có cần phải đo ghế Starex?
 Không cần phải đo ghế Hyundai Starex. Tất cả các đời xe Starex đã có số đo.
+
+✨ **Xưởng May Ghế Da Ô Tô Toàn Tâm - Tư Vấn Bọc Tận Nhà** ✨  
+📱 **Hotline / Zalo**: **0977233033**  
+📍 **CS1**: 75/219 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội  
+📍 **CS2**: Dốc Hạ Dương, Dương Hà, Gia Lâm, Hà Nội

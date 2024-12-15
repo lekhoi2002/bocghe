@@ -152,4 +152,10 @@ Bọc ghế da xe Getz tại nhà vẫn đảm bảo chất lượng. Do quá tr
 ### Có cần phải đo ghế Getz?
 
 Không cần phải đo ghế Hyundai Getz. Tất cả các đời xe Getz đã có số đo.
+
+✨ **Xưởng May Ghế Da Ô Tô Toàn Tâm - Tư Vấn Bọc Tận Nhà** ✨  
+📱 **Hotline / Zalo**: **0977233033**  
+📍 **CS1**: 75/219 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội  
+📍 **CS2**: Dốc Hạ Dương, Dương Hà, Gia Lâm, Hà Nội
+
  

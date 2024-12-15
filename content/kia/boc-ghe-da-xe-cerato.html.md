@@ -172,3 +172,8 @@ Với hơn 10 năm kinh nghiệm trong nghề may bọc ghế da ô tô, chúng 
     Không cần phải đo ghế Kia Cerato. Tất cả các đời xe Cerato đã có số đo.
   {{< /accordion-item >}}
 {{< /accordion >}}
+
+✨ **Xưởng May Ghế Da Ô Tô Toàn Tâm - Tư Vấn Bọc Tận Nhà** ✨  
+📱 **Hotline / Zalo**: **0977233033**  
+📍 **CS1**: 75/219 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội  
+📍 **CS2**: Dốc Hạ Dương, Dương Hà, Gia Lâm, Hà Nội

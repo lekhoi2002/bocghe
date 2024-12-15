@@ -117,4 +117,9 @@ Tại xưởng may, luôn có sẵn đệm ghế da Santafe với các màu ph�
   {{< /accordion-item >}}
 {{< /accordion >}}
 
+✨ **Xưởng May Ghế Da Ô Tô Toàn Tâm - Tư Vấn Bọc Tận Nhà** ✨  
+📱 **Hotline / Zalo**: **0977233033**  
+📍 **CS1**: 75/219 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội  
+📍 **CS2**: Dốc Hạ Dương, Dương Hà, Gia Lâm, Hà Nội
+
 

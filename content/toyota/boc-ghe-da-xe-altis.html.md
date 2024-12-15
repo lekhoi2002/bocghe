@@ -63,18 +63,6 @@ Giả da simili thường là lựa chọn tốt cho các xe dùng cho dịch v�
 
 ## Câu hỏi thường gặp
 
-### Thời gian bọc ghế da Altis mất bao lâu?
-Trừ thời gian may, thời gian dành cho việc bọc ghế da Altis khoảng 2.5 giờ cho xe có 5 chỗ.
-
-### Thời gian may ghế Altis mất bao lâu?
-Thời gian may đệm ghế da cho xe Toyota Altis từ 2.5 giờ đến 4 giờ, tùy thuộc vào số lượng đơn hàng đã nhận.
-
-### Việc bọc đệm ghế xe Altis tại nhà có đảm bảo không?
-Việc bọc ghế da xe Altis tại nhà vẫn đảm bảo chất lượng. Quá trình này yêu cầu tỉ mỉ nên hoàn toàn được thực hiện thủ công bằng tay.
-
-### Có cần phải đo ghế Altis không?
-Không cần phải đo ghế Toyota Altis. Tất cả các đời xe Altis đều có số đo chuẩn.
-
 {{< accordion id="accordion-default" >}}
   {{< accordion-item header="Thời gian bọc ghế da Altis ?" show="true" >}}
     Không tính thời gian may. Chỉ tính thời gian bọc. Bọc ghế da Altis hết khoảng 2.5 giờ với xe 05 chỗ

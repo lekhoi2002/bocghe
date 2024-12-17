@@ -88,27 +88,9 @@
 
 [[footer]]
   parent = "Menu"
-  name = "Sàn Xương Cá"
+  name = "Bọc Ghế Tại Nhà"
   pageRef = "/"
   weight = 13
-
-[[footer]]
-  parent = "Menu"
-  name = "Sàn Đức"
-  pageRef = "/"
-  weight = 14
-
-[[footer]]
-  parent = "Menu"
-  name = "Sàn Chịu Nước"
-  pageRef = "/"
-  weight = 15
- 
-[[footer]]
-  parent = "Menu"
-  name = "Sàn Giá Rẻ"
-  pageRef = "/"
-  weight = 16
 
 [[footer]]
   name = "Links"
@@ -126,7 +108,7 @@
  
 [[footer]]
   parent = "Links"
-  name = "Nhà Đẹp"
+  name = "Tư Vấn"
   pageRef = "/"
   
 [[footer]]

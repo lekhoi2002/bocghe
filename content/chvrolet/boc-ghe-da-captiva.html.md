@@ -11,8 +11,6 @@ keywords:
 - bọc ghế ô tô Captiva
 - bọc ghế da Captiva
 lastmod: 2024-11-05 06:51:58.687000+00:00
-
-
 thumbnail: /img/thumb/boc-da-ghe-xe-captiva.jpg.webp
 noCover: true
 ---

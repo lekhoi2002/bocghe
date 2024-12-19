@@ -17,7 +17,7 @@ noCover: true
 
 # Xưởng May Ghế Ô Tô
 
-Xưởng may ghế ô tô. Chuyên [bọc ghế da Ertiga](https://bocgheoto.vn/suzuki/boc-ghe-da-xe-ertiga.html/) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế xe Ertiga. Da chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế ô tô Ertiga tận nhà.
+Xưởng may ghế ô tô. Chuyên [bọc ghế da Ertiga](https://bocgheoto.vn/suzuki/boc-ghe-da-xe-ertiga.html) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế xe Ertiga. Da chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế ô tô Ertiga tận nhà.
 
 ## Mẫu Bọc Ghế Da Ertiga
 {{< gallery "suzuki/Ertiga" >}}

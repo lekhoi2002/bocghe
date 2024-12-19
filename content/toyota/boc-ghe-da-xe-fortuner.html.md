@@ -17,7 +17,7 @@ noCover: true
 
 # Xưởng May Đệm Ghế Ô Tô
 
-Xưởng may đệm ghế ô tô. Trực tiếp may [bọc ghế da Fortuner](https://bocgheoto.vn/toyota/boc-ghe-da-xe-fortuner.html/) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Fortuner tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Fortuner mới.
+Xưởng may đệm ghế ô tô. Trực tiếp may [bọc ghế da Fortuner](https://bocgheoto.vn/toyota/boc-ghe-da-xe-fortuner.html) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Fortuner tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Fortuner mới.
 ## Mẫu Bọc Ghế Da fortuner
 {{< gallery "toyota/fortuner" >}}
 

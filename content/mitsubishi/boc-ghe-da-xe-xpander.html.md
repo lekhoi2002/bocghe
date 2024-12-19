@@ -15,7 +15,7 @@ title: Bọc Ghế Da Xe Xpander
 noCover: true
 ---
 
-Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Xpander](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-xpander.html/) tại Hà Nội. Trực tiếp may bọc ghế xe Xpander. Da chuẩn – minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế ô tô Xpander tận nhà.
+Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Xpander](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-xpander.html) tại Hà Nội. Trực tiếp may bọc ghế xe Xpander. Da chuẩn – minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế ô tô Xpander tận nhà.
 
 ## Mẫu Bọc Ghế Da Xpander
 {{< gallery "mitsubishi/Xpander" >}}

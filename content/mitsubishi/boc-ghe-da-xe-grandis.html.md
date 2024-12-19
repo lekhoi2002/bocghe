@@ -8,7 +8,7 @@ thumbnail: /img/thumb/boc-ghe-da-mitsubishi-grandis.jpg.webp
 noCover: true
 ---
 
-Xưởng may ghế da ô tô. Chuyên [bọc ghế da Grandis](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-grandis.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp cắt may - Trực tiếp bọc. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Grandis tận nhà.
+Xưởng may ghế da ô tô. Chuyên [bọc ghế da Grandis](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-grandis.html) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp cắt may - Trực tiếp bọc. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế xe Grandis tận nhà.
 
 ## Mẫu Bọc Ghế Da grandis
 {{< gallery "mitsubishi/grandis" >}}

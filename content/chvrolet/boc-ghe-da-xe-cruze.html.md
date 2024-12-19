@@ -15,7 +15,7 @@ thumbnail: /img/thumb/boc-da-ghe-xe-cruize.jpg.webp
 noCover: true
 ---
 
-Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Cruze](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-cruze.html/) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế oto Cruze tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Cruze mới.
+Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Cruze](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-cruze.html) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế oto Cruze tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Cruze mới.
 ## Mẫu Bọc Ghế Da cruze
 {{< gallery "chvrolet/cruze" >}}
 

@@ -17,7 +17,7 @@ noCover: true
 
 # Xưởng may đệm ghế ô tô
 
-Chuyên [bọc ghế da Transit](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-transit.html/) tại Hà Nội. Trực tiếp may bọc ghế xe Transit. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Transit tận nhà.
+Chuyên [bọc ghế da Transit](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-transit.html) tại Hà Nội. Trực tiếp may bọc ghế xe Transit. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Transit tận nhà.
 
 ## Mẫu Bọc Ghế Da transit
 {{< gallery "ford/transit" >}}

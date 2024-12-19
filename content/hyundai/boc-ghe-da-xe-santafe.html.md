@@ -17,7 +17,7 @@ noCover: true
 
 # Xưởng May Đệm Ghế Da Ô Tô
 
-Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Santafe](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-santafe.html/) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Santafe tận nhà.
+Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Santafe](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-santafe.html) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Santafe tận nhà.
 
 ## Mẫu Bọc Ghế Da Santafe
 {{< gallery "hyundai/Santafe" >}}

@@ -15,7 +15,7 @@ thumbnail: /img/thumb/boc-da-ghe-xe-colorado.jpg.webp
 noCover: true
 ---
 
-Xưởng may ghế ô tô. Chuyên [bọc ghế da Colorado](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-colorado.html/) tại Hà Nội. Trực tiếp may và bọc ghế da xe Colorado, dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Colorado tại nhà.
+Xưởng may ghế ô tô. Chuyên [bọc ghế da Colorado](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-colorado.html) tại Hà Nội. Trực tiếp may và bọc ghế da xe Colorado, dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Colorado tại nhà.
 ## Mẫu Bọc Ghế Da colorado
 {{< gallery "chvrolet/colorado" >}}
 

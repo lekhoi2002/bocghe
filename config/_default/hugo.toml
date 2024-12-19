@@ -4,14 +4,6 @@ copyright = "Copyright © 2024"
 enableGitInfo = false
 # toml-docs-end main
 
-# additional settings
-baseURL = "https://bocgheoto.vn/"
-canonifyURLs = false
-enableEmoji = true
-enableRobotsTXT = true
-enableInlineShortcodes = true
-summaryLength = 20
-
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]

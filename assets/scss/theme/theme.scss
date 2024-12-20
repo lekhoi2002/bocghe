@@ -114,3 +114,27 @@ h6,
 .link-bg-footer {
     color: #9aa8b3 !important
 }
+
+/* Áp dụng cho toàn bộ liên kết */
+a {
+    color: #262db7 !important;
+  }
+  
+  a:hover,
+  a:focus {
+    color: #1f279f !important;
+  }
+  
+  /* Ghi đè cho các link trong navigation */
+  .navbar a,
+  .navbar a:hover,
+  .navbar a:focus {
+    color: #ffffff !important; /* hoặc màu bạn mong muốn, ví dụ màu trắng */
+  }
+  
+  .dropdown-menu {
+    --bs-dropdown-color: #090a0a;  /* Màu chữ trong submenu */
+    --bs-dropdown-bg: #0c0c0c;     /* Màu nền submenu */
+    --bs-dropdown-link-hover-bg: #7b4f1f;
+  }
+  

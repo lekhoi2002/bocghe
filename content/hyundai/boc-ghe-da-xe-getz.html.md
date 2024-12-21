@@ -18,7 +18,16 @@ noCover: true
 Xưởng may đệm ghế ô tô. Chuyên [bọc ghế da Getz](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-getz.html) tại Hà Nội. Trực cắt may - Trực tiếp bọc ghế xe Getz. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế oto Getz tận nhà.
 
 ## Mẫu Bọc Ghế Da Getz
-{{< gallery "hyundai/Getz" >}}
+![bọc ghế ô tô Getz](/img/hyundai/getz/mau-ghe-da-Getz-0.jpg)
+
+![mẫu bọc ghế da Getz đẹp](/img/hyundai/getz/mau-ghe-da-Getz-1.jpg)
+
+![mẫu bọc ghế da xe Getz đẹp](/img/hyundai/getz/mau-ghe-da-Getz-10.jpg)
+
+![mẫu ghế da ô tô Getz đẹp](/img/hyundai/getz/mau-ghe-da-Getz-101.jpg)
+
+![mẫu bọc ghế ô tô Getz đẹp](/img/hyundai/getz/mau-ghe-da-getz-dep-1.jpg)
+
 
 ## Giá bọc ghế da ô tô Getz
 

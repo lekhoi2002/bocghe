@@ -18,7 +18,26 @@ noCover: true
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da i10](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-i10.html) tại hà nội. Trực tiếp may bọc ghế xe i10. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto i10 tận nhà.
 
 ## Mẫu Bọc Ghế Da i10
-{{< gallery "hyundai/i10" >}}
+![bọc ghế ô tô i10](/img/hyundai/i10/mau-ghe-da-i10-10.jpg)
+
+![mẫu bọc ghế da i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-10000.jpg)
+
+![mẫu bọc ghế da xe i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-1001.jpg)
+
+![mẫu ghế da ô tô i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-110001.jpg)
+
+![mẫu bọc ghế ô tô i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-1110.jpg)
+
+![mẫu ghế da i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-1111.jpg)
+
+![mẫu bọc ghế da i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-dep-33.jpg)
+
+![mẫu ghế da ô tô i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-dep-51.jpg)
+
+![mẫu bọc ghế ô tô i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-dep-52.jpg)
+
+![mẫu ghế da i10 đẹp](/img/hyundai/i10/mau-ghe-da-i10-dep-55.jpg)
+
 ## Giá bọc ghế da ô tô i10
 
 Giá bọc ghế da cho xe i10 phụ thuộc vào chất liệu da được lựa chọn. Và thay đổi tùy theo nguyên liệu nhập về cùng chương trình khuyến mãi đang áp dụng. Vui lòng liên hệ 0977233033. Để biết khuyến mãi mới nhất đang được áp dụng

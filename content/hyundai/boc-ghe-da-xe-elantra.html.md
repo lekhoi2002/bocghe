@@ -20,7 +20,26 @@ noCover: true
 Chúng tôi chuyên [bọc ghế da xe Elantra](https://bocgheoto.vn/hyundai/boc-ghe-da-xe-elantra.html) tại Hà Nội với cam kết da chuẩn, thông tin minh bạch về loại da sử dụng, cung cấp dịch vụ may và bọc trực tiếp. Dịch vụ của chúng tôi luôn tận tâm, chuyên nghiệp và cung cấp tư vấn bọc ghế ô tô Elantra miễn phí tại nhà.
 
 ## Mẫu Bọc Ghế Da Elantra
-{{< gallery "hyundai/Elantra" >}}
+![bọc ghế ô tô Alnetra](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-19.jpg)
+
+![mẫu bọc ghế da Elantra đẹp](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-2.jpg)
+
+![mẫu bọc ghế da xe Elantra đẹp](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-21.jpg)
+
+![mẫu ghế da ô tô Elantra đẹp](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-22.jpg)
+
+![mẫu bọc ghế ô tô Elantra đẹp](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-25.jpg)
+
+![mẫu ghế da Elantra đẹp](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-4.jpg)
+
+![mẫu bọc ghế da Elantra đẹp](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-7.jpg)
+
+![mẫu ghế da ô tô Elantra đẹp](/img/hyundai/alnetra/mau-ghe-da-alnetra-dep-9.jpg)
+
+![mẫu bọc ghế ô tô Elantra đẹp](/img/hyundai/elantra/mau-ghe-da-elantra-10.jpg)
+
+![mẫu ghế da Elantra đẹp](/img/hyundai/elantra/mau-ghe-da-elantra-101.jpg)
+
 
 
 ### Giá bọc da ghế Elantra

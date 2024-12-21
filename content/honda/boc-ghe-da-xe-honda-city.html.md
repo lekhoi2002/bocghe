@@ -20,7 +20,20 @@ noCover: true
 Xưởng may ghế da ô tô chuyên [bọc ghế da Honda City](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-city.html) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp cắt may và bọc ghế da xe Honda City tại Hà Nội. Dịch vụ chuyên nghiệp và tận tâm, có tư vấn bọc ghế ô tô Honda City tại nhà.
 
 ## Mẫu Bọc Ghế Da city
-{{< gallery "honda/city" >}}
+![bọc ghế ô tô City](/img/honda/city/mau-ghe-da-city-0.jpg)
+
+![mẫu bọc ghế da City đẹp](/img/honda/city/mau-ghe-da-city-10.jpg)
+
+![mẫu bọc ghế da xe City đẹp](/img/honda/city/mau-ghe-da-city-1000.jpg)
+
+![mẫu ghế da ô tô City đẹp](/img/honda/city/mau-ghe-da-city-110.jpg)
+
+![mẫu bọc ghế ô tô City đẹp](/img/honda/city/mau-ghe-da-City-dep-105.jpg)
+
+![mẫu ghế da City đẹp](/img/honda/city/mau-ghe-da-City-dep-111.jpg)
+
+![mẫu bọc ghế da City đẹp](/img/honda/city/mau-ghe-da-City-dep-25.jpg)
+
 
 ## Giá Bọc Ghế Da Ô Tô Honda City
 

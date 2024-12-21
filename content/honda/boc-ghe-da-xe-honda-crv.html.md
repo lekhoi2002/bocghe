@@ -18,7 +18,30 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Honda CRV](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-crv.html) tại hà nội. Trực cắt may - Trực tiếp bọc ghế da xe Honda CRV. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế oto Honda CRV tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
 ## Mẫu Bọc Ghế Da crv
-{{< gallery "honda/crv" >}}
+![bọc ghế ô tô CRV](/img/honda/crv/mau-ghe-da-Crv-10.jpg)
+
+![mẫu bọc ghế da CRV đẹp](/img/honda/crv/mau-ghe-da-Crv-100.jpg)
+
+![mẫu bọc ghế da xe CRV đẹp](/img/honda/crv/mau-ghe-da-Crv-1000.jpg)
+
+![mẫu ghế da ô tô CRV đẹp](/img/honda/crv/mau-ghe-da-Crv-101.jpg)
+
+![mẫu bọc ghế ô tô CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-1.jpg)
+
+![mẫu ghế da CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-10.jpg)
+
+![mẫu bọc ghế da CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-11.jpg)
+
+![mẫu ghế da ô tô CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-12.jpg)
+
+![mẫu bọc ghế da xe CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-13.jpg)
+
+![mẫu ghế da CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-2.jpg)
+
+![mẫu bọc ghế ô tô CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-3.jpg)
+
+![mẫu ghế da CRV đẹp](/img/honda/crv/mau-ghe-da-CRV-dep-7.jpg)
+
 ## Giá bọc ghế da Honda CRV
 
 Giá bọc ghế da cho xe Honda CRV phụ thuộc vào chất liệu da được lựa chọn. Và thay đổi tùy theo nguyên liệu nhập về cùng chương trình khuyến mãi đang áp dụng. Vui lòng liên hệ 0977233033. Để biết khuyến mãi mới nhất đang được áp dụng

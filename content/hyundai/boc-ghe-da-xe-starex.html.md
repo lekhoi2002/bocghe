@@ -18,7 +18,24 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên bọc ghế da Starex tại hà nội. Trực tiếp may - Trực tiếp bọc ghế xe Starex. Da Chuẩn – Minh bạch về chủng loại da. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế oto Starex tận nhà.
 
 ## Mẫu Bọc Ghế Da Starex
-{{< gallery "hyundai/Starex" >}}
+![bọc ghế ô tô Starex](/img/hyundai/starex/mau-ghe-da-starex-dep-16.jpg)
+
+![mẫu bọc ghế da Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-17.jpg)
+
+![mẫu bọc ghế da xe Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-2.jpg)
+
+![mẫu ghế da ô tô Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-3.jpg)
+
+![mẫu bọc ghế ô tô Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-36.jpg)
+
+![mẫu ghế da Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-37.jpg)
+
+![mẫu bọc ghế da Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-38.jpg)
+
+![mẫu ghế da ô tô Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-43.jpg)
+
+![mẫu bọc ghế ô tô Starex đẹp](/img/hyundai/starex/mau-ghe-da-starex-dep-5.jpg)
+
 
 ## Giá bọc đệm ghế da Starex
 

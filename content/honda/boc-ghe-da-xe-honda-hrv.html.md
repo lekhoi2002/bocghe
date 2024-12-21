@@ -18,7 +18,14 @@ noCover: true
 Xưởng may ghế da ô tô. Trực cắt may - Trực tiếp bọc ghế da Honda HRV tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn [bọc ghế ô tô Honda HRV](https://bocgheoto.vn/honda/boc-ghe-da-xe-honda-hrv.html) tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Honda HRV mới
 
 ## Mẫu Bọc Ghế Da hrv
-{{< gallery "honda/hrv" >}}
+![bọc ghế ô tô HRV](/img/honda/hrv/mau-ghe-da-HRV-dep-10.jpg)
+
+![mẫu bọc ghế da HRV đẹp](/img/honda/hrv/mau-ghe-da-HRV-dep-3.jpg)
+
+![mẫu bọc ghế da xe HRV đẹp](/img/honda/hrv/mau-ghe-da-HRV-dep-5.jpg)
+
+![mẫu ghế da ô tô HRV đẹp](/img/honda/hrv/mau-ghe-da-HRV-dep-9.jpg)
+
 
 ## Giá bọc ghế ô tô Honda HRV
 

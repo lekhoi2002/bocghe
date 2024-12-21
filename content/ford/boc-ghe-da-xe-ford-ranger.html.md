@@ -18,7 +18,25 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Ranger](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-ranger.html) tại Hà Nội. Trực tiếp may - Trực tiếp bọc ghế da xe Ranger. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Ranger tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
 ## Mẫu Bọc Ghế Da ranger
-{{< gallery "ford/ranger" >}}
+![bọc ghế ô tô Ranger](/img/ford/ranger/mau-ghe-da-ranger-10-1.jpg)
+
+![mẫu bọc ghế da Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-101-1.jpg)
+
+![mẫu bọc ghế da xe Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-110-1.jpg)
+
+![mẫu ghế da ô tô Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-1100.jpg)
+
+![mẫu bọc ghế ô tô Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-dep-149.jpg)
+
+![mẫu ghế da Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-dep-150.jpg)
+
+![mẫu bọc ghế da Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-dep-152.jpg)
+
+![mẫu ghế da ô tô Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-dep-156.jpg)
+
+![mẫu bọc ghế ô tô Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-dep-41.jpg)
+
+![mẫu ghế da Ranger đẹp](/img/ford/ranger/mau-ghe-da-ranger-dep-44.jpg)
 
 ## Giá bọc ghế da xe Ranger
 

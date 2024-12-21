@@ -17,7 +17,16 @@ noCover: true
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Spark](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-spark.html) tại hà nội. Trực cắt may - Trực tiếp bọc ghế da xe Spark. Dịch vụ chuyên nghiệp và tận tâm. Tư vấn bọc ghế ô tô Spark tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 ## Mẫu Bọc Ghế Da spark
-{{< gallery "chvrolet/spark" >}}
+![bọc ghế ô tô spark](/img/chvrolet/spark/mau-ghe-da-spack-10011.jpg)
+
+![mẫu bọc ghế da spark đẹp](/img/chvrolet/spark/mau-ghe-da-spack-10100.jpg)
+
+![mẫu bọc ghế da xe spark đẹp](/img/chvrolet/spark/mau-ghe-da-spark-dep-4.jpg)
+
+![mẫu ghế da ô tô spark đẹp](/img/chvrolet/spark/mau-ghe-da-spark-dep-5.jpg)
+
+![mẫu bọc ghế ô tô spark đẹp](/img/chvrolet/spark/mau-ghe-da-spark-dep-6.jpg)
+
 
 ## Giá bọc ghế ô tô Spark
 

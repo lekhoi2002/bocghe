@@ -138,3 +138,9 @@ a {
     --bs-dropdown-link-hover-bg: #7b4f1f;
   }
   
+  // css tuỳbiến ảnh
+  .img-fluid {
+    margin-top: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bóng đổ mờ */
+    border-radius: 8px; /* Bo góc ảnh */
+}

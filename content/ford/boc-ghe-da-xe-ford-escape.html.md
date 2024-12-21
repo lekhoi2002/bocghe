@@ -17,7 +17,18 @@ noCover: true
 
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Escape](https://bocgheoto.vn/ford/boc-ghe-da-xe-ford-escape.html) tại hà nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Escape tận nhà
 ## Mẫu Bọc Ghế Da escape
-{{< gallery "ford/escape" >}}
+![bọc ghế ô tô Escape](/img/ford/escape/mau-ghe-da-Escape-dep-10.jpg)
+
+![mẫu bọc ghế da Escape đẹp](/img/ford/escape/mau-ghe-da-Escape-dep-12.jpg)
+
+![mẫu bọc ghế da xe Escape đẹp](/img/ford/escape/mau-ghe-da-Escape-dep-13.jpg)
+
+![mẫu ghế da ô tô Escape đẹp](/img/ford/escape/mau-ghe-da-Escape-dep-6.jpg)
+
+![mẫu bọc ghế ô tô Escape đẹp](/img/ford/escape/mau-ghe-da-Escape-dep-7.jpg)
+
+![mẫu ghế da Escape đẹp](/img/ford/escape/mau-ghe-da-Escape-dep-8.jpg)
+
 
 ## Giá bọc da ghế Escape
 

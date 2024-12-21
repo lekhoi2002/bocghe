@@ -17,7 +17,12 @@ noCover: true
 
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Orlando](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-orlando.html) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực tiếp may - Trực tiếp bọc. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế xe Orlando tận nhà miễn phí.
 ## Mẫu Bọc Ghế Da orlando
-{{< gallery "chvrolet/orlando" >}}
+![bọc ghế ô tô orlando](/img/chvrolet/orlando/mau-ghe-da-orlando-dep-1.jpg)
+
+![mẫu bọc ghế da orlando đẹp](/img/chvrolet/orlando/mau-ghe-da-orlando-dep-2.jpg)
+
+![mẫu bọc ghế da xe orlando đẹp](/img/chvrolet/orlando/mau-ghe-da-orlando-dep-3.jpg)
+
 ## Các loại da bọc ghế ô tô Orlando
 Hiện nay, nhiều nơi có cách gọi khác nhau về các loại da ô tô, gây khó khăn cho việc chọn loại da phù hợp cho xe Orlando. Về bản chất, da ô tô bao gồm:
 

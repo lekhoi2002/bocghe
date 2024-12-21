@@ -16,7 +16,16 @@ noCover: true
 ---
 
 ## Mẫu Bọc Ghế Da aveo
-{{< gallery "chvrolet/aveo" >}}
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-40.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-41.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-42.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-44.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-46.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-47.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-48.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-49.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-50.jpg)
+![bọc ghế ô tô cruze](/img/chvrolet/aveo/mau-ghe-da-cruze-dep-51.jpg)
 
 ### Mẫu bọc ghế da Aveo trần trám
 

@@ -1,0 +1,6 @@
+danh_sach_file.txt
+mau-ghe-da-spack-10011.jpg
+mau-ghe-da-spack-10100.jpg
+mau-ghe-da-spark-dep-4.jpg
+mau-ghe-da-spark-dep-5.jpg
+mau-ghe-da-spark-dep-6.jpg

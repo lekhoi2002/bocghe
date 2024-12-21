@@ -17,11 +17,18 @@ noCover: true
 
 Xưởng may ghế ô tô. Trực tiếp may [bọc ghế da Captiva](https://bocgheoto.vn/chvrolet/boc-ghe-da-captiva.html) tại Hà Nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế xe Captiva tận nhà miễn phí. Đa dạng mẫu mã, luôn cập nhật mẫu ghế da Captiva mới.
 ## Mẫu Bọc Ghế Da captiva
-{{< gallery "chvrolet/captiva" >}}
+
 
 ## Giá bọc ghế xe Captiva
 
 Giá bọc ghế da cho xe Captiva phụ thuộc vào chất liệu da được lựa chọn. Và thay đổi tùy theo nguyên liệu nhập về cùng chương trình khuyến mãi đang áp dụng. Vui lòng liên hệ 0977233033 để biết khuyến mãi mới nhất đang được áp dụng.
+![bọc ghế ô tô captiva](/img/chvrolet/captiva/mau-ghe-da-captiva-dep-2.jpg)
+
+![mẫu bọc ghế da captiva đẹp](/img/chvrolet/captiva/mau-ghe-da-captiva-dep-3.jpg)
+
+![mẫu bọc ghế da xe captiva đẹp](/img/chvrolet/captiva/mau-ghe-da-captiva-dep-8.jpg)
+
+![mẫu ghế da ô tô captiva đẹp](/img/chvrolet/captiva/mau-ghe-da-captiva-dep-9.jpg)
 
 ## Các loại da bọc ghế ô tô Captiva
 

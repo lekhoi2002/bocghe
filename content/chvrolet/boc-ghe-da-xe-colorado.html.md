@@ -17,7 +17,13 @@ noCover: true
 
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Colorado](https://bocgheoto.vn/chvrolet/boc-ghe-da-xe-colorado.html) tại Hà Nội. Trực tiếp may và bọc ghế da xe Colorado, dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Colorado tại nhà.
 ## Mẫu Bọc Ghế Da colorado
-{{< gallery "chvrolet/colorado" >}}
+![bọc ghế ô tô colorado](/img/chvrolet/colorado/mau-ghe-da-colorado-dep-1.jpg)
+
+![mẫu bọc ghế da colorado đẹp](/img/chvrolet/colorado/mau-ghe-da-colorado-dep-2.jpg)
+
+![mẫu bọc ghế da xe colorado đẹp](/img/chvrolet/colorado/mau-ghe-da-colorado-dep-3.jpg)
+
+![mẫu ghế da ô tô colorado đẹp](/img/chvrolet/colorado/mau-ghe-da-colorado-dep-5.jpg)
 
 ## Các loại da bọc ghế ô tô Colorado
 Hiện nay, có nhiều cách gọi khác nhau về các loại da ô tô, gây khó khăn trong việc lựa chọn da phù hợp cho xe Colorado. Dưới đây là các loại da chính:

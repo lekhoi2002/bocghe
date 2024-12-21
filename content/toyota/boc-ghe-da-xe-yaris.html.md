@@ -20,7 +20,18 @@ noCover: true
 Xưởng may ghế da ô tô chuyên bọc ghế da Yaris tại Hà Nội. Trực tiếp may và bọc ghế da cho xe Yaris, cung cấp dịch vụ tận tâm và chuyên nghiệp. Chúng tôi cam kết sử dụng da chuẩn và minh bạch về loại da.
 
 ## Mẫu Bọc Ghế Da yaris
-{{< gallery "toyota/yaris" >}}
+![bọc ghế ô tô Yaris](/img/toyota/yaris/mau-ghe-da-yaris-1000.webp)
+
+![mẫu bọc ghế da Yaris đẹp](/img/toyota/yaris/mau-ghe-da-yaris-1001.webp)
+
+![mẫu bọc ghế da xe Yaris đẹp](/img/toyota/yaris/mau-ghe-da-yaris-1011.webp)
+
+![mẫu ghế da ô tô Yaris đẹp](/img/toyota/yaris/mau-ghe-da-yaris-111.webp)
+
+![mẫu bọc ghế ô tô Yaris đẹp](/img/toyota/yaris/mau-ghe-da-yaris-dep-24.webp)
+
+![mẫu ghế da Yaris đẹp](/img/toyota/yaris/mau-ghe-da-yaris-dep-29.webp)
+
 
 
 Tìm hiểu về các mẫu bọc ghế da ô tô Yaris phổ biến trên thị trường, với sự đa dạng về chất liệu và kiểu dáng.

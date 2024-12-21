@@ -17,7 +17,22 @@ noCover: true
 
 Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Rush](https://bocgheoto.vn/toyota/boc-ghe-da-xe-toyota-rush.html) tại hà nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Rush tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Rush mới.
 ## Mẫu Bọc Ghế Da rush
-{{< gallery "toyota/rush" >}}
+![bọc ghế ô tô Rush](/img/toyota/rush/mau-ghe-da-rush-1001.webp)
+
+![mẫu bọc ghế da Rush đẹp](/img/toyota/rush/mau-ghe-da-rush-110.webp)
+
+![mẫu bọc ghế da xe Rush đẹp](/img/toyota/rush/mau-ghe-da-rush-1110.webp)
+
+![mẫu ghế da ô tô Rush đẹp](/img/toyota/rush/mau-ghe-da-rush-1111.webp)
+
+![mẫu bọc ghế ô tô Rush đẹp](/img/toyota/rush/mau-ghe-da-rush-dep-13.webp)
+
+![mẫu ghế da Rush đẹp](/img/toyota/rush/mau-ghe-da-rush-dep-2.webp)
+
+![mẫu bọc ghế da Rush đẹp](/img/toyota/rush/mau-ghe-da-rush-dep-7.webp)
+
+![mẫu ghế da ô tô Rush đẹp](/img/toyota/rush/mau-ghe-da-rush-dep-8.webp)
+
 
 ## Chi phí thực hiện bọc ghế da xe Toyota Rush
 

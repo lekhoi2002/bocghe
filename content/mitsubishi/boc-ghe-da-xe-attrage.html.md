@@ -18,7 +18,7 @@ noCover: true
 Xưởng may đệm ghế da ô tô. Chuyên [bọc ghế da Attrage](https://bocgheoto.vn/mitsubishi/boc-ghe-da-xe-attrage.html) tại Hà Nội. Trực tiếp cắt may và bọc ghế da xe Attrage. Dịch vụ chuyên nghiệp, tận tâm, tư vấn bọc ghế ô tô Attrage tận nhà. Cam kết Da Chuẩn – Minh bạch về chủng loại da.
 
 ## Mẫu Bọc Ghế Da Attrage
-{{< gallery "mitsubishi/Attrage" >}}
+{{< gallery "mitsubishi/attrage" >}}
 
 ## Chi Phí Bọc Ghế Da Xe Attrage
 

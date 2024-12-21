@@ -18,7 +18,18 @@ noCover: true
 Xưởng may đệm ghế ô tô. Trực cắt may - Trực tiếp [bọc ghế da Wigo](https://bocgheoto.vn/toyota/boc-ghe-da-xe-wigo.html) tại hà nội. Dịch vụ tận tâm và chuyên nghiệp. Tư vấn bọc ghế ô tô Wigo tận nhà miễn phí. Đa dạng mẫu mã, Luôn cập nhật mẫu ghế da Wigo mới
 
 ## Mẫu Bọc Ghế Da wigo
-{{< gallery "toyota/wigo" 1 >}}
+![bọc ghế ô tô Wigo](/img/toyota/wigo/mau-ghe-da-wigo-10.webp)
+
+![mẫu bọc ghế da Wigo đẹp](/img/toyota/wigo/mau-ghe-da-wigo-11.webp)
+
+![mẫu bọc ghế da xe Wigo đẹp](/img/toyota/wigo/mau-ghe-da-wigo-dep-11.webp)
+
+![mẫu ghế da ô tô Wigo đẹp](/img/toyota/wigo/mau-ghe-da-wigo-dep-13.webp)
+
+![mẫu bọc ghế ô tô Wigo đẹp](/img/toyota/wigo/mau-ghe-da-wigo-dep-3.webp)
+
+![mẫu ghế da Wigo đẹp](/img/toyota/wigo/mau-ghe-da-wigo-dep-9.webp)
+
 
 ## Giá bọc ghế da ô tô Wigo
 

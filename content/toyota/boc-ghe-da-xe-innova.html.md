@@ -18,7 +18,29 @@ noCover: true
 Xưởng may ghế da ô tô. Chuyên [bọc ghế da Innova](https://bocgheoto.vn/toyota/boc-ghe-da-xe-innova.html) tại Hà Nội. Da chuẩn, minh bạch về chủng loại da. Trực cắt may - Trực tiếp bọc ghế da xe Innova tại Hà Nội. Dịch vụ chuyên nghiệp tận tâm. Tư vấn bọc ghế xe Innova tận nhà.
 
 ## Mẫu Bọc Ghế Da innova
-{{< gallery "toyota/innova" >}}
+![bọc ghế ô tô Innova](/img/toyota/innova/mau-ghe-da-innova-1000.webp)
+
+![mẫu bọc ghế da Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-101.webp)
+
+![mẫu bọc ghế da xe Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-10101.webp)
+
+![mẫu ghế da ô tô Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-110.webp)
+
+![mẫu bọc ghế ô tô Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-111.webp)
+
+![mẫu ghế da Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-1111.webp)
+
+![mẫu bọc ghế da Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-dep-43.webp)
+
+![mẫu ghế da ô tô Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-dep-47.webp)
+
+![mẫu bọc ghế ô tô Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-dep-69.webp)
+
+![mẫu ghế da Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-dep-70.webp)
+
+![mẫu bọc ghế da Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-dep-75.webp)
+
+![mẫu ghế da ô tô Innova đẹp](/img/toyota/innova/mau-ghe-da-innova-dep-76.webp)
 
 
 ## Bảng giá dịch vụ bọc ghế da xe Innova

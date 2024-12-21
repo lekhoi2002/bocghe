@@ -18,7 +18,30 @@ noCover: true
 Xưởng may ghế ô tô. Chuyên [bọc ghế da Vios](https://bocgheoto.vn/toyota/boc-ghe-da-xe-vios.html) tại hà nội. Trực tiếp may và bọc ghế da xe Vios tại hà nội. Dịch vụ tận tâm chuyên nghiệp. Tư vấn bọc ghế ô tô Vios tận nhà.
 
 ## Mẫu Bọc Ghế Da vios
-{{< gallery "toyota/vios" >}}
+![bọc ghế ô tô Vios](/img/toyota/vios/mau-ghe-da-vios-10101.webp)
+
+![mẫu bọc ghế da Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-1011.webp)
+
+![mẫu bọc ghế da xe Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-10110.webp)
+
+![mẫu ghế da ô tô Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-104.webp)
+
+![mẫu bọc ghế ô tô Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-117.webp)
+
+![mẫu ghế da Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-118.webp)
+
+![mẫu bọc ghế da Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-25.webp)
+
+![mẫu ghế da ô tô Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-35.webp)
+
+![mẫu bọc ghế ô tô Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-38.webp)
+
+![mẫu ghế da Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-86.webp)
+
+![mẫu bọc ghế da Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-87.webp)
+
+![mẫu ghế da ô tô Vios đẹp](/img/toyota/vios/mau-ghe-da-vios-dep-94.webp)
+
 
 ## Phân loại chất liệu bọc ghế da xe Vios
 

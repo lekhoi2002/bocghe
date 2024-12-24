@@ -1,7 +1,18 @@
 @font-face {
-     font-display: swap;
-     font-family: forma-djr-micro;
-     font-weight: 400;
-     src:  url(../fonts/FormaDJRCyrillicMicro-Regular.woff2) format('woff2'),
-           url(../fonts/FormaDJRCyrillicMicro-Regular.woff) format("woff");
-   }
+    font-family: 'Forma DJR Micro';
+    src: local('Forma DJR Micro Regular'), local('Forma-DJR-Micro-Regular'),
+        url(../fonts/FormaDJRMicro-Regular.woff2) format('woff2'),
+        url(../fonts/FormaDJRMicro-Regular.woff) format('woff'),
+        url(../fonts/FormaDJRMicro-Regular.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Forma DJR Micro';
+    src: local('Forma DJR Micro Medium'), local('Forma-DJR-Micro-Medium'),
+        url(../fonts/FormaDJRMicro-Medium.woff2) format('woff2'),
+        url(../fonts/FormaDJRMicro-Medium.woff) format('woff'),
+        url(../fonts/FormaDJRMicro-Medium.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }

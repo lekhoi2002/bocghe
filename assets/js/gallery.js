@@ -1,16 +1,16 @@
-document.addEventListener('DOMContentLoaded', function () {
-  var imageModal = document.getElementById('imageModal');
-  imageModal.addEventListener('show.bs.modal', function (event) {
-      var trigger = event.relatedTarget;
-      var imageUrl = trigger.getAttribute('data-image');
-      var title = trigger.getAttribute('data-title');
-      var caption = trigger.getAttribute('data-caption');
-      
-      var modalImage = imageModal.querySelector('#modalImage');
-      var modalCaption = imageModal.querySelector('#modalCaption');
-      
-      modalImage.src = imageUrl;
-      modalImage.alt = caption;
-      modalCaption.textContent = caption;
-  });
-});
+document.addEventListener('DOMContentLoaded', () => {
+  const imageModal = document.getElementById('imageModal')
+  imageModal.addEventListener('show.bs.modal', (event) => {
+      const trigger = event.relatedTarget
+      const imageUrl = trigger.getAttribute('data-image')
+      const title = trigger.getAttribute('data-title')
+      const caption = trigger.getAttribute('data-caption')
+
+      const modalImage = imageModal.querySelector('#modalImage')
+      const modalCaption = imageModal.querySelector('#modalCaption')
+
+      modalImage.src = imageUrl
+      modalImage.alt = title || caption // Sử dụng title làm alt text nếu có
+      modalCaption.textContent = caption
+  })
+})
